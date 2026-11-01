@@ -6,7 +6,7 @@ Fecha: 01-11-2026 · Estado: en estudio; nada decidido ni ejecutado.
 ## 1. Objeto del dossier
 
 Reunir los datos disponibles sobre SCM y sobre las sociedades personales de
-sus tres socios. El planteamiento que Jaime ha trasladado al abogado es que
+sus tres socios. El planteamiento que el socio Jaime Cerezo ha trasladado al abogado es que
 cada socio aporte su participación en SCM a su sociedad personal (Cerebel,
 Daosme y Volna Moria). El dossier recoge datos y puntos a valorar; no
 contiene propuestas ni conclusiones legales o fiscales.
@@ -46,18 +46,18 @@ Resto de socios: Fluxia (Michel Guerrero 20 %, Jordi Felip 10 %, Diego Gil
 | Constitución / inicio de operaciones | Constituida en enero de 2007; inicio de operaciones 01-01-2007 (art. 4) | Inicio de operaciones 21-04-2025 ³ | Inicio de operaciones 16-04-2025 ³ | Inicio de operaciones 16-04-2025 ³ |
 | Capital | 3.060 €: 306 participaciones de 10 €, n.º 1 a 306, íntegramente desembolsado (art. 7) | 3.000 €: 3.000 participaciones de 1 €, n.º 1 a 3.000 | Ídem | Ídem |
 | Socios | Los tres, 102 participaciones cada uno | Jaime Cerezo, 100 % ¹ | David Oset, 100 % ¹ | Alejandro Galisteo, 100 % ¹ |
-| Administración | Tres administradores solidarios (los tres socios) ¹; cargo **remunerado** (modificación estatutaria posterior a 2007, según Jaime; texto no visto) | Administrador único, Jaime Cerezo ¹; cargo **gratuito** (art. 7) | Administrador único, David Oset ¹; cargo **gratuito** (art. 7) | Administrador único, Alejandro Galisteo ¹; cargo **gratuito** (art. 7) |
+| Administración | Tres administradores solidarios (los tres socios) ¹; cargo **remunerado** (modificación estatutaria posterior a 2007, según el socio; texto no visto) | Administrador único, Jaime Cerezo ¹; cargo **gratuito** (art. 7) | Administrador único, David Oset ¹; cargo **gratuito** (art. 7) | Administrador único, Alejandro Galisteo ¹; cargo **gratuito** (art. 7) |
 | CNAE principal / objeto | Sin CNAE en estatutos. Objeto (art. 2, versión de 2007 ⁴): estudio y análisis de procesos, programación, registro y proceso de datos por cuenta de terceros y venta de programas | 70.20 | 70.20 | 74.99 (70.20 como secundario) |
 | Actividad | Software de gestión de almacén (SGA), venta de equipos y consultoría logística ¹. El objeto de la versión de 2007 solo menciona la «venta de programas» ⁴ | Servicios de dirección, gestión y administración ¹ | Ídem ¹ | Ídem ¹ |
 | Tenencia de participaciones en el objeto social | **No**, en la versión de 2007 ⁴ (el art. 18 b) faculta a los administradores a operar con participaciones; es facultad, no objeto) | **No** (ni CNAE 64.20 ni cláusula equivalente) | **No** | **No** |
 | Otras participaciones | Sin datos | Fluxia 20 % · Dideso 50 % ¹ | Fluxia 20 % ¹ | Fluxia 20 % ¹ |
 | Actividad en 2025 | Plena (ver apartado 5) | Nula o casi nula ¹ | Nula ¹ | Nula ¹ |
 
-¹ Manifestado por Jaime, sin verificar. ² Coincide con la cabecera de los
+¹ Manifestado por el socio, sin verificar. ² Coincide con la cabecera de los
 balances. ⁴ Estatutos de SCM disponibles solo en su versión original de 2007;
 ha habido modificaciones posteriores no vistas, así que está pendiente
 confirmar qué artículos siguen vigentes.
-³ Según estatutos. Jaime situó la constitución de las tres en mayo de 2025,
+³ Según estatutos. El socio situó la constitución de las tres en mayo de 2025,
 después del inicio de operaciones estatutario: falta la fecha de la escritura.
 
 Daosme tiene los mismos estatutos que Cerebel (cambian solo denominación,
@@ -72,7 +72,7 @@ el objeto social.
 | Jaime Cerezo Berbel | 102 | 103 a 204 | Ídem | 1.020 € | Cerebel Gestión, S.L. |
 | Alejandro Galisteo Arribas | 102 | 205 a 306 | Ídem | 1.020 € | Volna Moria, S.L. |
 
-Fuente: escritura de constitución (fragmento de la suscripción). Según Jaime,
+Fuente: escritura de constitución (fragmento de la suscripción). Según el socio,
 no ha habido transmisiones posteriores ni hay pacto de socios. Los estatutos
 (art. 7) confirman capital, número y valor nominal. El capital del
 balance a 01-11-2026 coincide con el de la constitución, lo que indica (sin
@@ -145,12 +145,12 @@ exactamente un tercio (102 de 306 participaciones).
 | Fondos propios a 01-11-2026 (provisional, con el resultado de 2026 antes de impuestos y sin amortizaciones) | 550.764,43 € | ≈ 183.588 € | ≈ 182.568 € |
 
 Como referencia, con un beneficio de 3.060,14 € en 2025 una valoración por
-rendimiento histórico no superaría el valor contable. Jaime había estimado el
+rendimiento histórico no superaría el valor contable. El socio había estimado el
 valor en unos 350.000 € («las reservas actuales»).
 
 ## 6. Relaciones entre sociedades
 
-**Facturación desde 2026** (manifestado por Jaime): las tres sociedades
+**Facturación desde 2026** (manifestado por el socio): las tres sociedades
 personales facturan servicios de dirección, gestión y administración. En 2025
 no tuvieron actividad, o casi.
 
@@ -193,7 +193,7 @@ no tuvieron actividad, o casi.
    (art. 7 de sus estatutos).
 6. **Triple vía de retribución y operaciones vinculadas.** Cada socio cobra de
    SCM por tres vías: retribución como administrador (cargo remunerado por
-   una modificación estatutaria posterior a 2007, según Jaime; texto no
+   una modificación estatutaria posterior a 2007, según el socio; texto no
    visto, y se desconoce desde cuándo y cómo se fija), nómina, y, desde 2026,
    las facturas de su sociedad personal por servicios de dirección, gestión y
    administración. ¿Cómo se delimitan y justifican las tres vías entre sí?
@@ -204,14 +204,13 @@ no tuvieron actividad, o casi.
 7. **Calendario de dividendos.** ¿Cómo influye el momento de un reparto de
    resultados o reservas en el valor de las participaciones y en su
    tratamiento? El resultado de 2025 está sin aplicar.
-8. **Consentimiento de la junta de SCM.** No hay pacto de socios (según
-   Jaime). El art. 9 de los estatutos de 2007 (pendiente de confirmar si
+8. **Consentimiento de la junta de SCM.** No hay pacto de socios (según el socio). El art. 9 de los estatutos de 2007 (pendiente de confirmar si
    sigue vigente) se remite a los arts. 28 y siguientes
    «de la Ley» (antigua LSRL) y declara libre la transmisión entre socios, a
    cónyuge, ascendientes o descendientes, a «Sociedades pertenecientes al
    mismo grupo que la transmitente» y mortis causa; fuera de esos casos rige
    el régimen legal (hoy, art. 107.2 LSC: comunicación a la sociedad y
-   consentimiento de la junta). Esto matiza lo que había dicho Jaime («los
+   consentimiento de la junta). Esto matiza lo que había dicho el socio («los
    estatutos no limitan la transmisión»). ¿Encaja la aportación de un socio
    persona física a su sociedad 100 % en «sociedad del mismo grupo que la
    transmitente»? Si no encaja, ¿qué consentimiento y qué mayoría hacen falta,
@@ -220,17 +219,17 @@ no tuvieron actividad, o casi.
    (LSRL, art. 141.2 LSA).
 9. **Objeto social de SCM**: la versión de 2007 no recoge la venta de equipos
    ni la consultoría; ¿se amplió después?
-10. **Estado civil (caso cerrado)**: según Jaime, en los tres casos las
+10. **Estado civil (caso cerrado)**: según el socio, en los tres casos las
     participaciones de SCM son privativas y el cónyuge no interviene. Queda
-    solo confirmar que Jaime no tiene capitulaciones.
+    solo confirmar que Jaime Cerezo no tiene capitulaciones.
 
 ## 8. Documentación disponible y pendiente
 
 | Documento o dato | Estado |
 |---|---|
 | Escritura de constitución de SCM: fragmento de la suscripción | Disponible |
-| Estatutos de SCM | Versión original de 2007 disponible (texto pegado por Jaime, sin cotejar). **Texto vigente pendiente**: estatutos refundidos, escrituras de modificación o nota informativa del Registro Mercantil |
-| Estatutos de Cerebel, Daosme y Volna | Disponibles (texto pegado por Jaime, sin cotejar con la escritura) |
+| Estatutos de SCM | Versión original de 2007 disponible (texto aportado por el socio, sin cotejar). **Texto vigente pendiente**: estatutos refundidos, escrituras de modificación o nota informativa del Registro Mercantil |
+| Estatutos de Cerebel, Daosme y Volna | Disponibles (texto aportado por el socio, sin cotejar con la escritura) |
 | Balance y cuenta de resultados de SCM, 2025 | Disponibles (extracto contable) |
 | Balance y cuenta de resultados de SCM a 01-11-2026 | Disponibles (provisionales) |
 | Cuentas anuales 2025 de SCM aprobadas y depositadas | **Pendiente** (pedidas) |
@@ -238,8 +237,8 @@ no tuvieron actividad, o casi.
 | Importes facturados en 2026 por cada sociedad a SCM, Fluxia y Dideso | **Pendiente** |
 | Empleados y medios propios de las tres sociedades personales | **Pendiente** |
 | Origen por ejercicios de las reservas de SCM | **Pendiente** (pedido, opcional) |
-| Capitulaciones matrimoniales de Jaime (confirmar que no hay) | **Pendiente** |
-| Balances 2025 de las tres sociedades personales | No se piden (casi nulos, según Jaime) |
+| Capitulaciones matrimoniales de Jaime Cerezo (confirmar que no hay) | **Pendiente** |
+| Balances 2025 de las tres sociedades personales | No se piden (casi nulos, según el socio) |
 
 ---
 
@@ -247,13 +246,13 @@ no tuvieron actividad, o casi.
 su numeración y el valor de adquisición de SCM (escritura de constitución);
 el objeto social, el inicio de operaciones y el régimen de transmisión de
 SCM según la **versión original de 2007** de sus estatutos (texto aportado
-por Jaime y sin cotejar; vigencia pendiente);
+por el socio y sin cotejar; vigencia pendiente);
 la denominación, el domicilio, el inicio de operaciones, el capital, el objeto
 social y el régimen de administración de Cerebel, Daosme y Volna (estatutos,
-texto aportado por Jaime y sin cotejar), y todas las cifras económicas de SCM
+texto aportado por el socio y sin cotejar), y todas las cifras económicas de SCM
 (extractos contables, provisionales en 2026). Lo marcado con ¹ y el resto,
 en especial los CIF, los socios y administradores, la actividad, las
 participaciones en Fluxia y Dideso, la facturación entre sociedades, la
 inexistencia de pacto de socios, el estado civil, y el **cargo de
-administrador remunerado y el domicilio actual de SCM**, es **manifestado por Jaime
+administrador remunerado y el domicilio actual de SCM**, es **manifestado por el socio
 y no verificado**.
