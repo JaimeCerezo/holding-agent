@@ -86,34 +86,27 @@ Todo F1, 2026-11-01, salvo que se indique. Detalle en las fichas.
 - [ ] Empleados y medios propios.
 
 ### De cada socio (Jaime, David, Alejandro)
-- [ ] Estado civil y régimen económico matrimonial. Si las participaciones
-      de SCM son gananciales, puede hacer falta el consentimiento del
-      cónyuge.
 
-Estado civil (F1, 2026-11-01, sin verificar):
+**Estado civil y régimen económico: cerrado** (F1, 2026-11-01, sin
+verificar). En los tres casos las participaciones de SCM se consideran
+privativas y el cónyuge no interviene en la aportación.
 
-| Socio | Estado civil | Cuándo / dónde | ¿Antes de suscribir SCM (enero 2007)? |
-|---|---|---|---|
-| Jaime Cerezo | Casado | Antes de 2007, en Cataluña | Sí |
-| David Oset o Alejandro Galisteo | No casado | — | — |
-| El otro de los dos | Casado | Hace poco, en Cataluña | No (después de 2007) |
+| Socio | Estado civil | Régimen / carácter de las participaciones de SCM |
+|---|---|---|
+| Jaime Cerezo | Casado antes de 2007, en Cataluña; vecindad civil catalana al casarse | Separación de bienes, salvo capitulaciones. Su tercio de SCM se considera privativo |
+| David Oset y Alejandro Galisteo | Uno no está casado; el otro se casó hace poco (después de 2007), en Cataluña | Privativas en los dos casos (suscritas antes del matrimonio o sin matrimonio). Cuál es cuál no importa, según Jaime |
 
-Cuál de los dos, David o Alejandro, es el casado: **pendiente** (Jaime no lo
-ha dicho).
+> **Nota (dictada por Jaime a Aris, F1, 2026-11-01)**: el régimen económico
+> no lo determina el lugar de la boda, sino la vecindad civil de los
+> cónyuges al casarse. Con vecindad civil catalana y sin capitulaciones,
+> rige la separación de bienes. Jaime dio su propia vecindad civil; la de
+> su cónyuge no se dijo expresamente.
 
-> **Nota (dictada por Jaime a Aris, F1, 2026-11-01; la confirma el
-> abogado)**: el régimen económico no lo determina el lugar de la boda,
-> sino la vecindad civil de los cónyuges al casarse. Si ambos tienen la
-> vecindad civil catalana y no hay capitulaciones, rige la separación de
-> bienes y el cónyuge no tiene que intervenir en la aportación.
-> Quien se casó después de 2007 tiene sus participaciones de SCM como
-> privativas en cualquier régimen. **El único caso que el abogado debe
-> confirmar es el de Jaime.**
-
-- [ ] Vecindad civil de Jaime y de su cónyuge al casarse.
-- [ ] Que Jaime no tiene capitulaciones matrimoniales.
+- [ ] Comprobación menor, para el abogado: que Jaime no tiene
+      capitulaciones matrimoniales (no se ha preguntado explícitamente).
 
 ## Historial
 
 - 2026-11-01 — Fichero creado con el dictado de Jaime (F1).
 - 2026-11-01 — Añadido estado civil de los socios y nota sobre el régimen económico (F1).
+- 2026-11-01 — Jaime: vecindad civil catalana al casarse; el estado civil queda cerrado; quitado el pendiente de cuál de David o Alejandro es el casado. Única comprobación: capitulaciones de Jaime (F1).
