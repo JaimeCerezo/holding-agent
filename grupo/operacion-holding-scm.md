@@ -54,10 +54,10 @@ Todo F1, 2026-11-01, salvo que se indique. Detalle en las fichas.
   compras ni transmisiones posteriores.
 - Valor de adquisición por socio: **1.020 €** (102 participaciones × 10 €; F2).
 - Los estatutos no limitan la transmisión de participaciones (según Jaime).
-- Valoración aproximada de Jaime: ~350.000 €, que serían las reservas
-  actuales. El método de valoración lo decide el abogado.
-- Fondos propios aproximados: ~350.000 € de reservas + 3.060 € de capital
-  ≈ 353.060 €.
+- Sin cambios de capital desde la constitución: **indicio fuerte** (el
+  capital escriturado del balance a 01-11-2026 coincide con la escritura).
+- Reservas: 333.071,54 € (F2, balance provisional a 01-11-2026; precisa los
+  «unos 350.000 €» que dio Jaime).
 - Facturación 2025: ~1.200.000 € (aprox.). Plantilla: ~14 personas (aprox.).
 
 **Cerebel** (`sociedades/cerebel/ficha.md`)
@@ -93,15 +93,47 @@ Daosme y Volna a SCM y Fluxia). En 2025 su actividad fue nula o casi nula;
 puede que Cerebel facturara algo, muy poco. Sus balances de 2025 son casi
 nulos.
 
+## Valoración de SCM: datos contables
+
+Fuente: F2, balance provisional a 01-11-2026
+(`sociedades/scm/balance-provisional-2026-11-01.md`). **El método y la
+fecha de valoración los decide el abogado**; esto son solo las cifras
+contables.
+
+| Base | SCM (100 %) | Por tercio | Plusvalía latente por socio (tercio − 1.020 €) |
+|---|---:|---:|---:|
+| Fondos propios con el resultado provisional de 2026 | 550.764,43 € | ≈ 183.588 € | ≈ 182.568 € |
+| Fondos propios sin el resultado de 2026 (capital + reservas) | 336.131,54 € | ≈ 112.044 € | ≈ 111.024 € |
+
+- El resultado de 2026 (214.632,89 € a 01-11) es **provisional** y
+  previsiblemente **antes del Impuesto sobre Sociedades**.
+- Valor de adquisición de cada socio: 1.020 € (escritura, F2).
+
+**Punto para el abogado — el calendario importa**: repartir el resultado y
+las reservas antes o después de la aportación cambia el valor aportado y su
+tratamiento fiscal.
+
 ## Lo que falta
 
 ### De SCM
 - [x] Número, valor nominal y numeración de las participaciones: resuelto
       con la escritura de constitución (F2,
-      `sociedades/scm/escritura-constitucion-suscripcion.md`). Falta
-      confirmar que no hubo ampliaciones ni reducciones posteriores.
-- [ ] Últimas cuentas anuales (balance con fondos propios).
+      `sociedades/scm/escritura-constitucion-suscripcion.md`).
+- [x] Sin cambios de capital posteriores: **indicio fuerte** (capital del
+      balance a 01-11-2026 = capital de la constitución). No es
+      confirmación registral.
+- [x] Patrimonio neto y pasivo a 01-11-2026: recibido (F2, provisional).
+- [ ] **Activo del balance**: hace falta para valorar y para ver la
+      composición de los activos (tesorería frente a actividad), relevante
+      para que aplique el régimen de aportación.
+- [ ] Cuentas anuales 2025 cerradas y depositadas.
 - [ ] Pacto de socios, si existe.
+
+Partidas con **signo negativo** en el pasivo, señaladas sin interpretar
+(que las revise el gestor; no es tema de holding): III. Deudas a corto
+plazo (-8.704,83 €), 2. Deuda con entidades de crédito (-1.006,63 €),
+5. Otros pasivos financieros (-7.698,20 €) y 4. Personal (remuneraciones
+pendientes de pago) (-30.588,99 €).
 
 ### De Cerebel, Daosme y Volna (de cada una)
 - [x] Estatutos de **Cerebel**: recibidos 2026-11-01 (F2, pegados por Jaime
@@ -191,3 +223,4 @@ privativas y el cónyuge no interviene en la aportación.
 - 2026-11-01 — Recibidos los estatutos de Volna (F2): mismo modelo salvo el objeto social (CNAE principal 74.99). Cerrado el bloque de estatutos; sugerencia de ampliar el objeto social de las tres en la misma operación.
 - 2026-11-01 — Quitados de pendientes los balances 2025 de Cerebel, Daosme y Volna; añadido el contexto de que su facturación empezó en 2026 (F1).
 - 2026-11-01 — Escritura de constitución de SCM (F2): capital 3.060 €, 306 participaciones de 10 €, numeración, valor de adquisición 1.020 €, fondos propios ≈ 353.060 €, nombres completos.
+- 2026-11-01 — Balance provisional de SCM a 01-11-2026 (F2): datos contables de valoración, plusvalía latente, punto de calendario, partidas negativas señaladas y nuevos pendientes (activo, cuentas 2025).

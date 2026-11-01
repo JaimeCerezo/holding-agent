@@ -44,8 +44,10 @@ Capital social: **3.060 €** — F2 (escritura de constitución), 2026-11-01.
 306 participaciones de **10 €** de valor nominal (1.020 € / 102), numeradas
 de la 1 a la 306. — F2.
 **Corrección**: F1 decía 3.006 €; probablemente una transposición de
-cifras. Falta confirmar que no hubo ampliaciones ni reducciones de capital
-después de la constitución.
+cifras.
+Sin cambios de capital desde la constitución: **indicio fuerte**. El capital
+escriturado en el balance a 01-11-2026 (3.060 €, F2) coincide con el de la
+escritura de constitución. No es una confirmación registral.
 
 ### Origen y valor de adquisición de las participaciones
 
@@ -70,11 +72,38 @@ capital de cada uno. — F1, 2026-11-01.
 
 ### Valoración
 
-~350.000 € (**aprox.**), cifra de Jaime: según él, son las reservas
-actuales. Fondos propios aproximados: ~350.000 € de reservas + 3.060 € de
-capital ≈ 353.060 €. No es una valoración técnica; el método lo decidirá el abogado.
-— F1, 2026-11-01. Balance con fondos propios de las últimas cuentas:
-**pendiente**.
+Jaime dio «unos 350.000 €, que son las reservas actuales» (F1). Queda
+precisado por el balance provisional (F2): reservas **333.071,54 €**. No es
+una valoración técnica; el método y la fecha los decide el abogado. Ver
+`grupo/operacion-holding-scm.md`.
+
+## Datos económicos
+
+### Balance provisional a 01-11-2026 (patrimonio neto y pasivo)
+
+Fuente: F2, balance de situación pegado por Jaime el 2026-11-01; copia en
+`sociedades/scm/balance-provisional-2026-11-01.md`. **Extracto del
+ejercicio en curso, no son cuentas anuales cerradas.** Falta el activo.
+
+| Partida | Importe (€) |
+|---|---:|
+| Capital escriturado | 3.060,00 |
+| Reservas | 333.071,54 |
+| — Legal y estatutarias | 4.313,04 |
+| — Otras reservas | 328.758,50 |
+| Resultado del ejercicio 2026 (a 01-11, **provisional**, previsiblemente antes del Impuesto sobre Sociedades) | 214.632,89 |
+| **Fondos propios** | **550.764,43** |
+| Pasivo corriente | 72.864,52 |
+| **Total patrimonio neto y pasivo** | **623.628,95** |
+
+Partidas con **signo negativo** en el pasivo, señaladas sin interpretar
+(que las revise el gestor; no es tema de holding): III. Deudas a corto
+plazo (-8.704,83 €), 2. Deuda con entidades de crédito (-1.006,63 €),
+5. Otros pasivos financieros (-7.698,20 €) y 4. Personal (remuneraciones
+pendientes de pago) (-30.588,99 €).
+
+Cuentas anuales 2025 cerradas y depositadas: **pendiente**. Activo del
+balance: **pendiente**.
 
 ## Órgano de administración
 
@@ -103,3 +132,4 @@ Fecha de nombramiento y duración del cargo: **pendiente**.
 - 2026-11-01 — Jaime confirma que su 33,33 % es a título personal: Cerebel no participa en SCM, solo le factura servicios. Quitada la nota de la duda (F1).
 - 2026-11-01 — Añadidos origen y valor de adquisición de las participaciones, que los estatutos no limitan la transmisión y la valoración aproximada de Jaime (~350.000 €, reservas). Relacionado con `grupo/operacion-holding-scm.md` (F1).
 - 2026-11-01 — Fragmento de la escritura de constitución (F2): capital 3.060 € (no 3.006 €), 306 participaciones de 10 €, numeración por socio, valor de adquisición 1.020 € y nombres completos de los socios.
+- 2026-11-01 — Balance provisional a 01-11-2026 (F2): reservas 333.071,54 € (precisa los ~350.000 € de F1), fondos propios 550.764,43 €; capital 3.060 € coincide con la constitución (indicio fuerte de que no hubo cambios).
