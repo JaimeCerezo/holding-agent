@@ -109,7 +109,9 @@ el total del activo cuadra con el de patrimonio neto y pasivo.
 | Reservas | 333.071,54 |
 | — Legal y estatutarias | 4.313,04 |
 | — Otras reservas | 328.758,50 |
-| Resultado del ejercicio 2026 (a 01-11, **provisional**, previsiblemente antes del Impuesto sobre Sociedades) | 214.632,89 |
+| Resultado del ejercicio (línea del balance) | 214.632,89 |
+| — de ello, resultado de 2025 sin aplicar (resuelto por cálculo) | 3.060,14 |
+| — de ello, resultado de 2026 a 01-11 (**provisional**: antes de impuestos y sin amortizaciones) | 211.572,75 |
 | **Fondos propios** | **550.764,43** |
 | Pasivo corriente | 72.864,52 |
 | **Total patrimonio neto y pasivo** | **623.628,95** |
@@ -162,16 +164,18 @@ Observaciones sobre los dos balances, anotadas como datos sin interpretar
 - Las reservas son idénticas en el balance 2025 y en el provisional de
   2026: 333.071,54 €. El resultado de 2025 (3.060,14 €) no aparece en el
   balance de 2026, ni sumado a reservas ni como resultado de ejercicios
-  anteriores. Puede que se repartiera como dividendo, que no se haya
-  registrado aún su aplicación o que esté dentro del resultado de 2026.
-  **Pendiente del gestor.**
+  anteriores. **Resuelto por cálculo** con la PyG provisional de 2026: el
+  resultado del balance de 2026 (214.632,89 €) menos el de la PyG de 2026
+  (211.572,75 €) da 3.060,14 €, exactamente el resultado de 2025. Es decir,
+  el resultado de 2025 aún no está aplicado: sigue en la línea «resultado
+  del ejercicio» del balance de 2026; no se repartió como dividendo ni pasó
+  a reservas. **Que el gestor confirme** que falta registrar la aplicación.
 - El resultado de 2025 (3.060,14 €) es muy bajo para una cifra de negocios
-  de 1.086.230,60 €, frente a los 214.632,89 € provisionales de 2026 hasta
+  de 1.086.230,60 €, frente a los 211.572,75 € provisionales de 2026 hasta
   octubre. **Respondida en parte por la PyG 2025**: el beneficio bajo se
   explica por la estructura de gastos (personal 53,3 %, servicios
   exteriores 20,8 %). Sigue abierto por qué el provisional de 2026 da
-  214.633 € y qué ajustes de cierre faltan (retribuciones, impuesto,
-  amortizaciones).
+  211.573 € (ver PyG 2026 provisional).
 - Las partidas que en 2026 tenían signo negativo (deudas a corto plazo,
   personal) en 2025 son positivas o no aparecen. Refuerza que el balance de
   2026 es provisional y sin ajustes de cierre.
@@ -207,6 +211,32 @@ Los 574,21 € de ingresos financieros son «de valores negociables y de
 créditos del activo inmovilizado — de empresas del grupo y asociadas»: SCM
 tiene, o tuvo en 2025, un crédito con alguna empresa del grupo o asociada.
 Cuál, y si sigue vivo: **pendiente**. Ver `grupo/operacion-holding-scm.md`.
+
+### PyG 2026 provisional (resumen, a 01-11-2026)
+
+Fuente: F2, pegada por Jaime el 2026-11-01; copia en
+`sociedades/scm/pyg-2026-provisional.md`. Sumas comprobadas. **Provisional**:
+enero a octubre, sin impuesto ni amortizaciones contabilizados.
+
+| Partida | 2026 (a 01-11) (€) | % | 2025 (€) | % |
+|---|---:|---:|---:|---:|
+| Cifra de negocios | 956.297,30 | 100,0 % | 1.086.230,60 | 100,0 % |
+| Aprovisionamientos | -162.192,84 | 17,0 % | -289.180,41 | 26,6 % |
+| Otros ingresos de explotación | 12.358,61 | 1,3 % | 23.888,37 | 2,2 % |
+| Gastos de personal | -397.291,86 | 41,5 % | -578.872,24 | 53,3 % |
+| Otros gastos de explotación (servicios exteriores 2026: 199.108,63) | -199.613,59 | 20,9 % | -228.784,93 | 21,1 % |
+| Amortización | 0,00 | — | -8.945,21 | 0,8 % |
+| Enajenaciones de inmovilizado | +2.687,87 | 0,3 % | -125,63 | 0,0 % |
+| Otros resultados | -100,00 | 0,0 % | -57,10 | 0,0 % |
+| **Resultado de explotación** | **212.145,49** | 22,2 % | **4.153,45** | 0,4 % |
+| Resultado financiero (2026: -1,63 de intereses de deudas con empresas del grupo o asociadas) | -572,74 | | -150,63 | |
+| Impuesto sobre Sociedades | 0,00 | | -942,68 | |
+| **Resultado del ejercicio** | **211.572,75** | 22,1 % | **3.060,14** | 0,3 % |
+
+Estimación **orientativa, no contable**: con el impuesto al 25 % y unas
+amortizaciones como las de 2025, el resultado neto de 2026 hasta octubre
+rondaría ≈ 152.000 € ((211.573 − 8.945) × 0,75). Faltan además noviembre y
+diciembre.
 
 Confirmar que el balance y la PyG de 2025 son los de las cuentas aprobadas
 y depositadas: **pendiente**.
@@ -244,3 +274,4 @@ Fecha de nombramiento y duración del cargo: **pendiente**.
 - 2026-11-01 — Añadido el activo del balance 2025 (F2): total 481.485,56 €, tesorería 273.402,38 € (56,8 %).
 - 2026-11-01 — Añadido el patrimonio neto y pasivo de 2025 (F2): fondos propios 339.191,68 €, resultado 2025 3.060,14 €; observaciones para el gestor.
 - 2026-11-01 — PyG 2025 (F2): cifra de negocios 1.086.230,60 € (corrige ~1,2 M€ de F1), resultado 3.060,14 €; ingresos financieros de empresas del grupo (crédito por identificar).
+- 2026-11-01 — PyG 2026 provisional (F2): resultado 2026 a 01-11 = 211.572,75 €; los 214.632,89 € del balance incluyen los 3.060,14 € de 2025 sin aplicar (resuelto por cálculo).

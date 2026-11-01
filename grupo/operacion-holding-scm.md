@@ -104,11 +104,22 @@ contables.
 | Base | SCM (100 %) | Por tercio | Plusvalía latente por socio (tercio − 1.020 €) |
 |---|---:|---:|---:|
 | Fondos propios con el resultado provisional de 2026 | 550.764,43 € | ≈ 183.588 € | ≈ 182.568 € |
-| Fondos propios sin el resultado de 2026 (capital + reservas) | 336.131,54 € | ≈ 112.044 € | ≈ 111.024 € |
-| Fondos propios a cierre de 2025 (F2, `sociedades/scm/balance-2025.md`) | 339.191,68 € | ≈ 113.064 € | ≈ 112.044 € |
+| Fondos propios sin el resultado de 2026 = fondos propios a cierre de 2025 (F2, `sociedades/scm/balance-2025.md`) | 339.191,68 € | ≈ 113.064 € | ≈ 112.044 € |
+| Solo capital + reservas (sin el resultado de 2025 ni el de 2026) | 336.131,54 € | ≈ 112.044 € | ≈ 111.024 € |
 
-- El resultado de 2026 (214.632,89 € a 01-11) es **provisional** y
-  previsiblemente **antes del Impuesto sobre Sociedades**.
+- Desglose de los fondos propios del balance de 2026 (550.764,43 €, total
+  correcto): capital 3.060 € + reservas 333.071,54 € + **resultado de 2025
+  sin aplicar 3.060,14 €** + **resultado de 2026 a 01-11 211.572,75 €**
+  (PyG provisional 2026, `sociedades/scm/pyg-2026-provisional.md`).
+  Antes se anotó la fila «sin el resultado de 2026» como 336.131,54 €, sin
+  descontar que la línea de resultado incluía los 3.060,14 € de 2025: la
+  cifra correcta es 339.191,68 €.
+- El resultado de 2026 es **antes de impuestos** (impuesto 0, confirmado) y
+  **sin amortizaciones** (0, frente a 8.945,21 € en 2025). Faltan además
+  noviembre y diciembre.
+- **Estimación orientativa, no contable**: con el impuesto al 25 % y
+  amortizaciones como las de 2025, el resultado neto de 2026 hasta octubre
+  rondaría ≈ 152.000 € ((211.573 − 8.945) × 0,75).
 - Valor de adquisición de cada socio: 1.020 € (escritura, F2).
 
 **Punto para el abogado — el calendario importa**: repartir el resultado y
@@ -147,19 +158,33 @@ de 2025 es 142.293,88 € (no ≈ 145.354 €).
 
 **Preguntas para el gestor** (datos, sin interpretar; detalle en
 `sociedades/scm/ficha.md`):
-- **Aplicación del resultado de 2025**: las reservas son idénticas en 2025
-  y en el provisional de 2026 (333.071,54 €); el resultado de 2025
-  (3.060,14 €) no aparece en 2026. ¿Se repartió como dividendo, falta
-  registrar su aplicación o está dentro del resultado de 2026?
+- **Aplicación del resultado de 2025 — resuelto por cálculo**: 214.632,89 €
+  (resultado del balance de 2026) − 211.572,75 € (PyG 2026) = 3.060,14 €,
+  exactamente el resultado de 2025. No está aplicado: sigue en la línea
+  «resultado del ejercicio» del balance de 2026; no se repartió como
+  dividendo ni pasó a reservas. **Que el gestor confirme** que falta
+  registrar la aplicación del resultado.
 - **Resultado de 2025 muy bajo** (3.060,14 € con 1.086.230,60 € de cifra de
   negocios): **respondida en parte** por la PyG 2025. Se explica por la
   estructura de gastos: personal 53,3 % y servicios exteriores 20,8 % de la
   cifra de negocios. **Sigue abierto**: por qué el provisional de 2026 da
-  214.633 € y qué ajustes de cierre faltan (retribuciones, impuesto,
-  amortizaciones).
+  211.573 € (ver la pregunta siguiente).
+- **¿Por qué baja el personal y los aprovisionamientos en 2026?** Personal:
+  de 578.872 € en 2025 a 397.292 € en diez meses de 2026 (a ritmo de 2025
+  serían ≈ 482.000 €). Aprovisionamientos: del 26,6 % al 17,0 % de la cifra
+  de negocios. **Pregunta concreta**: ¿las retribuciones de los socios
+  dejaron de ser nómina en 2026 y pasaron a facturarlas Cerebel, Daosme y
+  Volna? Cuadraría con que esas sociedades empiezan a facturar en 2026; en
+  ese caso estarían en servicios exteriores. **Hipótesis nuestra**, que la
+  confirme el gestor. Dato a tener en cuenta al comprobarla: los servicios
+  exteriores de 2026 (199.109 € en diez meses) solo superan en ≈ 11.000 €
+  el ritmo de 2025 (225.701 € al año ≈ 188.084 € en diez meses).
 - **¿Las retribuciones de los socios están dentro de los gastos de
-  personal?** Dato para el abogado, en relación con la futura facturación
-  de Cerebel, Daosme y Volna a SCM.
+  personal?** Dato para el abogado, en relación con la facturación de
+  Cerebel, Daosme y Volna a SCM.
+- **Empresas del grupo o asociadas**: en 2026 hay deudas con empresas del
+  grupo o asociadas (1,63 € de intereses) y en 2025 había créditos a
+  empresas del grupo (574,21 € de ingresos). ¿Con qué sociedades?
 - Las partidas con signo negativo en 2026 (deudas a corto plazo, personal)
   en 2025 son positivas o no aparecen: refuerza que el balance de 2026 es
   provisional y sin ajustes de cierre.
@@ -201,12 +226,17 @@ de operaciones. Que valore cómo encaja.
 - [x] PyG de 2025: recibida (F2, `sociedades/scm/pyg-2025.md`).
 - [ ] Confirmar si el balance y la PyG de 2025 son los de las cuentas
       aprobadas y depositadas.
-- [ ] Gestor, pregunta 2: dónde está el resultado de 2025 en el balance de
-      2026.
-- [ ] Gestor, resto de la pregunta 3: por qué el provisional de 2026 da
-      214.633 €, qué ajustes de cierre faltan, y si las retribuciones de los
-      socios están en gastos de personal.
-- [ ] Crédito con empresa del grupo o asociada: con cuál y si sigue vivo.
+- [x] PyG 2026 provisional a 01-11-2026: recibida (F2).
+- [x] Gestor, pregunta 2 (resultado de 2025 en el balance de 2026):
+      **resuelta por cálculo**; falta que el gestor confirme que la
+      aplicación está sin registrar.
+- [ ] Gestor: por qué bajan personal y aprovisionamientos en 2026, y si las
+      retribuciones de los socios pasaron de nómina a facturación de
+      Cerebel, Daosme y Volna (hipótesis nuestra).
+- [ ] Gestor: ajustes de cierre de 2026 (impuesto, amortizaciones,
+      noviembre y diciembre).
+- [ ] Empresas del grupo o asociadas: con cuáles hay crédito (2025) y
+      deuda (2026), y si siguen vivos.
 - [x] Pacto de socios: **no hay** (Jaime, F1, 2026-11-01).
 - [ ] Cuentas anuales 2025 completas de SCM (balance y PyG cerrados y
       depositados). **Ya pedidas a Jaime** (2026-11-01).
@@ -321,3 +351,4 @@ privativas y el cónyuge no interviene en la aportación.
 - 2026-11-01 — Recibido el activo del balance 2025 (F2): tesorería 56,8 %; inferencia sobre fondos propios y pasivo de 2025, a confirmar.
 - 2026-11-01 — Patrimonio neto y pasivo de 2025 (F2): corregida la inferencia (fondos propios 339.191,68 €), nueva base de valoración y preguntas para el gestor.
 - 2026-11-01 — PyG 2025 de SCM (F2): pregunta 3 respondida en parte, crédito con empresa del grupo, valoración por rentabilidad; pendientes actualizados.
+- 2026-11-01 — PyG 2026 provisional de SCM (F2): pregunta 2 resuelta por cálculo, desglose de fondos propios corregido, estimación orientativa del neto 2026, nuevas preguntas para el gestor.
