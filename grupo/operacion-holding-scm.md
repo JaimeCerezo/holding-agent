@@ -153,8 +153,19 @@ de operaciones. Que valore cómo encaja.
       confirmación registral.
 - [x] Balance completo a 01-11-2026 (activo, patrimonio neto y pasivo):
       recibido (F2, provisional).
-- [ ] Cuentas anuales 2025 cerradas y depositadas.
-- [ ] Pacto de socios, si existe.
+- [x] Pacto de socios: **no hay** (Jaime, F1, 2026-11-01).
+- [ ] Cuentas anuales 2025 completas de SCM (balance y PyG cerrados y
+      depositados). **Ya pedidas a Jaime** (2026-11-01).
+- [ ] Opcional, de su gestor: origen por ejercicios de las reservas, y
+      resultado 2026 neto de impuestos o previsión de cierre. **Ya pedidos
+      a Jaime** (2026-11-01).
+
+Sin pacto de socios y sin restricciones estatutarias, no hay derechos de
+adquisición preferente que se activen con la aportación (según Jaime, F1,
+2026-11-01). Para el abogado: que «los estatutos no limitan la transmisión»
+lo dijo Jaime y no lo hemos visto (no tenemos los estatutos de SCM);
+conviene que confirme también que no aplica el régimen supletorio de la
+LSC para estatutos que no regulan la transmisión.
 
 Partidas con **signo negativo** en el pasivo, señaladas sin interpretar
 (que las revise el gestor; no es tema de holding): III. Deudas a corto
@@ -252,3 +263,4 @@ privativas y el cónyuge no interviene en la aportación.
 - 2026-11-01 — Escritura de constitución de SCM (F2): capital 3.060 €, 306 participaciones de 10 €, numeración, valor de adquisición 1.020 €, fondos propios ≈ 353.060 €, nombres completos.
 - 2026-11-01 — Balance provisional de SCM a 01-11-2026 (F2): datos contables de valoración, plusvalía latente, punto de calendario, partidas negativas señaladas y nuevos pendientes (activo, cuentas 2025).
 - 2026-11-01 — Activo de SCM (F2): composición, puntos para el abogado sobre entidad patrimonial (art. 5.2 LIS) y dividendos (art. 21 LIS); quitado el activo de pendientes.
+- 2026-11-01 — Sin pacto de socios en SCM (F1); pendientes ya pedidos a Jaime: cuentas 2025 completas y, opcional, origen de reservas y resultado 2026 neto.

@@ -68,7 +68,7 @@ capital de cada uno. — F1, 2026-11-01.
 
 - Los estatutos **no limitan** la transmisión de participaciones (según
   Jaime, no verificado contra los estatutos). — F1, 2026-11-01.
-- Pacto de socios: si existe, **pendiente**.
+- **No hay pacto de socios** (según Jaime). — F1, 2026-11-01.
 
 ### Valoración
 
@@ -151,3 +151,4 @@ Fecha de nombramiento y duración del cargo: **pendiente**.
 - 2026-11-01 — Fragmento de la escritura de constitución (F2): capital 3.060 € (no 3.006 €), 306 participaciones de 10 €, numeración por socio, valor de adquisición 1.020 € y nombres completos de los socios.
 - 2026-11-01 — Balance provisional a 01-11-2026 (F2): reservas 333.071,54 € (precisa los ~350.000 € de F1), fondos propios 550.764,43 €; capital 3.060 € coincide con la constitución (indicio fuerte de que no hubo cambios).
 - 2026-11-01 — Añadido el activo del balance provisional (F2): total 623.628,95 €, tesorería 440.024,79 € (70,6 %).
+- 2026-11-01 — Jaime: no hay pacto de socios (F1).
