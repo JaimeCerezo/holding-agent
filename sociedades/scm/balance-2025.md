@@ -1,6 +1,6 @@
 # SCM — Balance de situación 2025 (ejercicio 01-01-2025 a 31-12-2025)
 
-> Fuente F2: texto literal pegado por Jaime en el chat con Aris el 2026-11-01. Extracto contable (diario «Todos»); no consta si es el balance de las cuentas anuales aprobadas y depositadas. De momento solo el ACTIVO; faltan patrimonio neto y pasivo, y la cuenta de pérdidas y ganancias.
+> Fuente F2: texto literal pegado por Jaime en el chat con Aris el 2026-11-01. Extracto contable (diario «Todos»); no consta si es el balance de las cuentas anuales aprobadas y depositadas. Activo y patrimonio neto y pasivo (pegados por separado el mismo día). Falta la cuenta de pérdidas y ganancias.
 
 Balance de situación – ACTIVO (2025)
 Empresa: SCM LOGÍSTICA Y TRAZABILIDAD S.L.
@@ -29,3 +29,26 @@ Diario: Todos
 | VII. Efectivo y otros activos líquidos equivalentes | 273.402,38 |
 | 1. Tesorería | 273.402,38 |
 | TOTAL ACTIVO | 481.485,56 |
+
+## PATRIMONIO NETO Y PASIVO
+
+| Concepto | Importe (€) |
+|---|---:|
+| A) PATRIMONIO NETO | 339.191,68 |
+| A-1) Fondos propios | 339.191,68 |
+| I. Capital | 3.060,00 |
+| 1. Capital escriturado | 3.060,00 |
+| III. Reservas | 333.071,54 |
+| 1. Legal y estatutarias | 4.313,04 |
+| 2. Otras reservas | 328.758,50 |
+| VII. Resultado del ejercicio | 3.060,14 |
+| C) PASIVO CORRIENTE | 142.293,88 |
+| III. Deudas a corto plazo | 5.575,41 |
+| 2. Deuda con entidades de crédito | 2.057,19 |
+| 3. Acreedores por arrendamiento financiero | 3.518,22 |
+| V. Acreedores comerciales y otras cuentas a pagar | 136.718,47 |
+| 1. Proveedores | 45.519,74 |
+| b) Proveedores a corto plazo | 45.519,74 |
+| 3. Acreedores varios | 11.387,04 |
+| 6. Otras deudas con las Administraciones Públicas | 79.811,69 |
+| TOTAL PATRIMONIO NETO Y PASIVO | 481.485,56 |

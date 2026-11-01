@@ -104,6 +104,7 @@ contables.
 |---|---:|---:|---:|
 | Fondos propios con el resultado provisional de 2026 | 550.764,43 € | ≈ 183.588 € | ≈ 182.568 € |
 | Fondos propios sin el resultado de 2026 (capital + reservas) | 336.131,54 € | ≈ 112.044 € | ≈ 111.024 € |
+| Fondos propios a cierre de 2025 (F2, `sociedades/scm/balance-2025.md`) | 339.191,68 € | ≈ 113.064 € | ≈ 112.044 € |
 
 - El resultado de 2026 (214.632,89 € a 01-11) es **provisional** y
   previsiblemente **antes del Impuesto sobre Sociedades**.
@@ -125,12 +126,25 @@ Contexto: al cierre de 2025 la tesorería ya era el **56,8 %** del activo
 (273.402,38 € de 481.485,56 €; F2, `sociedades/scm/balance-2025.md`), frente
 al 70,6 % a 01-11-2026.
 
-**Inferencia, a confirmar cuando llegue el pasivo de 2025**: si el resultado
-de 2025 se aplicó íntegro a reservas y no hubo dividendos en 2026, las
-reservas de 2026 (333.071,54 €) deberían coincidir con los fondos propios
-al cierre de 2025 menos el capital. Entonces los fondos propios a cierre de
-2025 serían ≈ 336.131,54 € y el pasivo de 2025 rondaría ≈ 145.354 €
-(481.485,56 − 336.131,54). **No es un dato; es una inferencia.**
+**Inferencia corregida con el pasivo de 2025** (F2): los fondos propios a
+cierre de 2025 son **339.191,68 €**, no ≈ 336.131,54 € como se infirió; la
+diferencia es el resultado de 2025 (3.060,14 €), que no se contó. El pasivo
+de 2025 es 142.293,88 € (no ≈ 145.354 €).
+
+**Preguntas para el gestor** (datos, sin interpretar; detalle en
+`sociedades/scm/ficha.md`):
+- **Aplicación del resultado de 2025**: las reservas son idénticas en 2025
+  y en el provisional de 2026 (333.071,54 €); el resultado de 2025
+  (3.060,14 €) no aparece en 2026. ¿Se repartió como dividendo, falta
+  registrar su aplicación o está dentro del resultado de 2026?
+- **Resultado de 2025 muy bajo** (3.060,14 € con ~1,2 M€ de facturación,
+  frente a 214.632,89 € provisionales en 2026 hasta octubre): ¿por qué?
+  Puede haber ajustes de cierre que el provisional de 2026 aún no tiene
+  (impuesto, amortizaciones, retribuciones de los socios). Para valorar, el
+  abogado querrá saberlo.
+- Las partidas con signo negativo en 2026 (deudas a corto plazo, personal)
+  en 2025 son positivas o no aparecen: refuerza que el balance de 2026 es
+  provisional y sin ajustes de cierre.
 
 **Punto para el abogado — ¿SCM es entidad patrimonial?** (observación
 nuestra, no una conclusión)
@@ -165,8 +179,10 @@ de operaciones. Que valore cómo encaja.
 - [x] Balance completo a 01-11-2026 (activo, patrimonio neto y pasivo):
       recibido (F2, provisional).
 - [x] Activo del balance 2025: recibido (F2, `sociedades/scm/balance-2025.md`).
-- [ ] Patrimonio neto y pasivo de 2025.
+- [x] Patrimonio neto y pasivo de 2025: recibido (F2).
 - [ ] PyG de 2025.
+- [ ] Gestor: aplicación del resultado de 2025 y por qué el resultado de
+      2025 es tan bajo (ver «Preguntas para el gestor»).
 - [ ] Confirmar si el balance 2025 recibido es el de las cuentas aprobadas
       y depositadas.
 - [x] Pacto de socios: **no hay** (Jaime, F1, 2026-11-01).
@@ -281,3 +297,4 @@ privativas y el cónyuge no interviene en la aportación.
 - 2026-11-01 — Activo de SCM (F2): composición, puntos para el abogado sobre entidad patrimonial (art. 5.2 LIS) y dividendos (art. 21 LIS); quitado el activo de pendientes.
 - 2026-11-01 — Sin pacto de socios en SCM (F1); pendientes ya pedidos a Jaime: cuentas 2025 completas y, opcional, origen de reservas y resultado 2026 neto.
 - 2026-11-01 — Recibido el activo del balance 2025 (F2): tesorería 56,8 %; inferencia sobre fondos propios y pasivo de 2025, a confirmar.
+- 2026-11-01 — Patrimonio neto y pasivo de 2025 (F2): corregida la inferencia (fondos propios 339.191,68 €), nueva base de valoración y preguntas para el gestor.

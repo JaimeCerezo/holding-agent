@@ -120,12 +120,14 @@ plazo (-8.704,83 €), 2. Deuda con entidades de crédito (-1.006,63 €),
 5. Otros pasivos financieros (-7.698,20 €) y 4. Personal (remuneraciones
 pendientes de pago) (-30.588,99 €).
 
-### Balance 2025 (activo)
+### Balance 2025
 
 Fuente: F2, pegado por Jaime el 2026-11-01; copia en
 `sociedades/scm/balance-2025.md`. Ejercicio 01-01-2025 a 31-12-2025. **No
-consta** si es el balance de las cuentas aprobadas y depositadas. Solo el
-activo; faltan patrimonio neto y pasivo, y la PyG. Subtotales comprobados.
+consta** si es el balance de las cuentas aprobadas y depositadas. Activo y
+patrimonio neto y pasivo (cuadran: 481.485,56 €); falta la PyG.
+
+**Activo**
 
 | Partida | Importe (€) | % del activo |
 |---|---:|---:|
@@ -140,8 +142,42 @@ activo; faltan patrimonio neto y pasivo, y la PyG. Subtotales comprobados.
 | **Activo corriente** | **449.855,50** | 93,4 % |
 | **Total activo** | **481.485,56** | 100 % |
 
-Cuentas anuales 2025 cerradas y depositadas (balance completo y PyG):
-**pendiente**.
+**Patrimonio neto y pasivo**
+
+| Partida | Importe (€) |
+|---|---:|
+| Capital escriturado | 3.060,00 |
+| Reservas | 333.071,54 |
+| — Legal y estatutarias | 4.313,04 |
+| — Otras reservas | 328.758,50 |
+| Resultado del ejercicio 2025 | 3.060,14 |
+| **Fondos propios** | **339.191,68** |
+| Deudas a corto plazo (entidades de crédito 2.057,19; arrendamiento financiero 3.518,22) | 5.575,41 |
+| Acreedores comerciales y otras cuentas a pagar (proveedores 45.519,74; acreedores varios 11.387,04; AAPP 79.811,69) | 136.718,47 |
+| **Pasivo corriente** | **142.293,88** |
+| **Total patrimonio neto y pasivo** | **481.485,56** |
+
+Observaciones sobre los dos balances, anotadas como datos sin interpretar
+(que las aclare el gestor):
+- Las reservas son idénticas en el balance 2025 y en el provisional de
+  2026: 333.071,54 €. El resultado de 2025 (3.060,14 €) no aparece en el
+  balance de 2026, ni sumado a reservas ni como resultado de ejercicios
+  anteriores. Puede que se repartiera como dividendo, que no se haya
+  registrado aún su aplicación o que esté dentro del resultado de 2026.
+  **Pendiente del gestor.**
+- El resultado de 2025 (3.060,14 €) es muy bajo para una facturación de
+  ~1,2 M€, frente a los 214.632,89 € provisionales de 2026 hasta octubre.
+  **Pregunta**: ¿por qué? Puede haber ajustes de cierre que el provisional
+  de 2026 aún no tiene (impuesto, amortizaciones, retribuciones de los
+  socios). Solo pregunta.
+- Las partidas que en 2026 tenían signo negativo (deudas a corto plazo,
+  personal) en 2025 son positivas o no aparecen. Refuerza que el balance de
+  2026 es provisional y sin ajustes de cierre.
+- Dato curioso, sin interpretar: el resultado de 2025 (3.060,14 €) casi
+  coincide con el capital (3.060,00 €).
+
+PyG de 2025 y confirmar que es el balance de las cuentas aprobadas y
+depositadas: **pendiente**.
 
 ## Órgano de administración
 
@@ -174,3 +210,4 @@ Fecha de nombramiento y duración del cargo: **pendiente**.
 - 2026-11-01 — Añadido el activo del balance provisional (F2): total 623.628,95 €, tesorería 440.024,79 € (70,6 %).
 - 2026-11-01 — Jaime: no hay pacto de socios (F1).
 - 2026-11-01 — Añadido el activo del balance 2025 (F2): total 481.485,56 €, tesorería 273.402,38 € (56,8 %).
+- 2026-11-01 — Añadido el patrimonio neto y pasivo de 2025 (F2): fondos propios 339.191,68 €, resultado 2025 3.060,14 €; observaciones para el gestor.
