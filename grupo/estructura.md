@@ -15,6 +15,13 @@ Jaime Cerezo (PF)          100 % ───> Cerebel Gestión S.L.U.             
 David Oset (PF)            100 % ───> Daosme Gestión S.L.U.              [sociedades/daosme/]
 
 Alejandro Galisteo (PF)    100 % ───> Volna Moria S.L.U.                 [sociedades/volna/]
+
+Cerebel                     20 % ─┐
+Daosme                      20 % ─┤
+Volna                       20 % ─┼─> Fluxia Consulting S.L.             [sociedades/fluxia/]
+Michel Guerrero (PF)        20 % ─┤
+Jordi Felip (PF)            10 % ─┤
+Diego Gil (PF)              10 % ─┘
 ```
 
 PF = persona física. El 33,33 % de Jaime en SCM es a título personal, no a
@@ -30,19 +37,25 @@ través de Cerebel (aclarado por Jaime, F1, 2026-11-01).
 | David Oset | Daosme | 100 % (socio único) | Administrador único |
 | Alejandro Galisteo | SCM | 33,33 % | Administrador solidario |
 | Alejandro Galisteo | Volna | 100 % (socio único) | Administrador único |
+| Michel Guerrero | Fluxia | 20 % | **pendiente** |
+| Jordi Felip | Fluxia | 10 % | **pendiente** |
+| Diego Gil | Fluxia | 10 % | **pendiente** |
+
+Jaime, David y Alex participan además en Fluxia indirectamente, con el 20 %
+cada uno a través de su S.L.U. de gestión (Cerebel, Daosme y Volna).
 
 ### Participaciones entre sociedades
 
 | De | En | Participación | Fuente | Fecha |
 |---|---|---|---|---|
 | Cerebel | SCM | **Ninguna** | F1 | 2026-11-01 |
-| Cerebel | Fluxia | **Pendiente** (si participa o solo factura) | — | — |
+| Cerebel | Fluxia | 20 % | F1 | 2026-11-01 |
 | Cerebel | Dideso | **Pendiente** (si participa o solo factura) | — | — |
 | Daosme | SCM | **Ninguna** (los socios de SCM son las tres PF) | F1 | 2026-11-01 |
-| Daosme | Fluxia | **Pendiente** (no dicho) | — | — |
+| Daosme | Fluxia | 20 % | F1 | 2026-11-01 |
 | Daosme | Dideso | **Ninguna** (sin ninguna relación con Dideso) | F1 | 2026-11-01 |
 | Volna | SCM | **Ninguna** | F1 | 2026-11-01 |
-| Volna | Fluxia | **Pendiente** | — | — |
+| Volna | Fluxia | 20 % | F1 | 2026-11-01 |
 | Volna | Dideso | **Ninguna** (sin ninguna relación con Dideso) | F1 | 2026-11-01 |
 | Volna | Daosme | **Ninguna** (sin ninguna relación con Daosme) | F1 | 2026-11-01 |
 
@@ -64,6 +77,10 @@ importes.
 | Volna | SCM | **pendiente** | **pendiente** |
 | Volna | Fluxia | **pendiente** | **pendiente** |
 
+Fluxia es a la vez **participada y cliente** de Cerebel, Daosme y Volna:
+cada una tiene el 20 % y además le factura servicios de dirección, gestión
+y administración (F1, 2026-11-01).
+
 Daosme no factura a Dideso: no tiene ninguna relación con ella (F1,
 2026-11-01). Volna tampoco: no tiene ninguna relación con Dideso ni con
 Daosme (F1, 2026-11-01).
@@ -75,6 +92,9 @@ Daosme (F1, 2026-11-01).
   B21854500), Cerebel (Jaime Cerezo, B21854518) y Daosme (David Oset,
   B21854542). Los tres CIF son casi consecutivos. Anotado el 2026-11-01 a
   partir de los datos dictados (F1); no se ha comprobado qué implica.
+- Fluxia se constituyó en octubre de 2025 y facturó unos 50.000 € en 2025:
+  esa facturación cubriría solo unos tres meses. Puede ser correcto;
+  conviene confirmarlo con Jaime (anotado el 2026-11-01).
 
 ## Sociedades registradas
 
@@ -84,21 +104,22 @@ Daosme (F1, 2026-11-01).
 | `cerebel` | Cerebel Gestión S.L.U. | **pendiente** | `sociedades/cerebel/ficha.md` |
 | `daosme` | Daosme Gestión S.L.U. | **pendiente** | `sociedades/daosme/ficha.md` |
 | `volna` | Volna Moria S.L.U. | **pendiente** | `sociedades/volna/ficha.md` |
+| `fluxia` | Fluxia Consulting S.L. | **pendiente** | `sociedades/fluxia/ficha.md` |
 
 ## Sociedades nombradas, sin ficha todavía
 
-Jaime las describirá más adelante (F1, 2026-11-01). Solo se sabe que
-Cerebel factura a las dos; Daosme y Volna solo a Fluxia (ninguna de las
-dos tiene relación con Dideso).
+Jaime la describirá más adelante (F1, 2026-11-01). Solo se sabe que
+Cerebel le factura y que Daosme y Volna no tienen ninguna relación con ella.
 
 | Nombre | Datos |
 |---|---|
-| Fluxia | **pendiente** |
 | Dideso | **pendiente** |
 
 ## Pendiente
 
-- Si Cerebel participa en Fluxia y Dideso, y en qué porcentaje; fichas de ambas.
+- Si Cerebel participa en Dideso, y en qué porcentaje; ficha de Dideso.
 - Importes que Cerebel factura a cada sociedad.
-- Si Daosme y Volna participan en Fluxia; periodicidad e importes de lo que facturan.
+- Periodicidad e importes de lo que facturan Daosme y Volna.
+- Relación de Fluxia con SCM y Dideso.
+- Cargos de los socios en Fluxia (órgano de administración).
 - Si hay más sociedades.

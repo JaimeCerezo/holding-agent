@@ -50,7 +50,7 @@ Administrador único: Alejandro (Alex) Galisteo. — F1, 2026-11-01.
 | Sociedad | Factura de Volna | Participación de Volna | Fuente | Fecha |
 |---|---|---|---|---|
 | SCM (`sociedades/scm/`) | Sí; periodicidad e importe **pendientes** | **Ninguna** | F1 | 2026-11-01 |
-| Fluxia (sin ficha) | Sí; periodicidad e importe **pendientes** | **Pendiente** | F1 | 2026-11-01 |
+| Fluxia (`sociedades/fluxia/`) | Sí; periodicidad e importe **pendientes** | 20 % | F1 | 2026-11-01 |
 | Dideso (sin ficha) | No | Ninguna: Jaime dice que no tiene ninguna relación con Dideso | F1 | 2026-11-01 |
 | Daosme (`sociedades/daosme/`) | No | Ninguna: Jaime dice que no tiene ninguna relación con Daosme | F1 | 2026-11-01 |
 | Cerebel (`sociedades/cerebel/`) | **Pendiente** (no dicho) | **Pendiente** (no dicho) | — | — |
@@ -59,3 +59,4 @@ Administrador único: Alejandro (Alex) Galisteo. — F1, 2026-11-01.
 
 - 2026-11-01 — Ficha creada con el dictado de Jaime (F1).
 - 2026-11-01 — Añadidas constitución (mayo de 2025) y que no tiene ninguna relación con Dideso ni con Daosme (F1).
+- 2026-11-01 — Participación en Fluxia: 20 % (dato de la ficha de Fluxia, F1).

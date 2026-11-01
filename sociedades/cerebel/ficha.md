@@ -27,8 +27,9 @@ y administración», a SCM, Fluxia y Dideso, con un importe distinto para
 cada una. — F1, 2026-11-01.
 Jaime lo describió al principio como facturar «a las sociedades en las que
 tiene participaciones», pero eso es inexacto: SCM es cliente, no
-participada (aclarado por Jaime, F1, 2026-11-01). En Fluxia y Dideso está
-**pendiente** si Cerebel participa en ellas o solo les factura.
+participada (aclarado por Jaime, F1, 2026-11-01). En Fluxia, Cerebel es
+socia (20 %) además de facturarle. En Dideso está **pendiente** si participa
+o solo le factura.
 Objeto social según estatutos y CNAE: **pendiente**.
 
 ## Socios
@@ -53,7 +54,7 @@ Administrador único: Jaime Cerezo. — F1, 2026-11-01.
 | Sociedad | Factura mensual de Cerebel | Participación de Cerebel | Fuente | Fecha |
 |---|---|---|---|---|
 | SCM (`sociedades/scm/`) | Sí; importe **pendiente** | **Ninguna** (el 33,33 % de Jaime en SCM es a título personal) | F1 | 2026-11-01 |
-| Fluxia (sin ficha) | Sí; importe **pendiente** | **Pendiente** si participa o solo factura | F1 | 2026-11-01 |
+| Fluxia (`sociedades/fluxia/`) | Sí; importe **pendiente** | 20 % | F1 | 2026-11-01 |
 | Dideso (sin ficha) | Sí; importe **pendiente** | **Pendiente** si participa o solo factura | F1 | 2026-11-01 |
 
 ## Historial
@@ -61,3 +62,4 @@ Administrador único: Jaime Cerezo. — F1, 2026-11-01.
 - 2026-11-01 — Ficha creada con el dictado de Jaime (F1).
 - 2026-11-01 — Jaime aclara que Cerebel no participa en SCM (solo le factura). Corregida la descripción de la actividad y quitada la duda (F1).
 - 2026-11-01 — Jaime corrige el capital social: 3.000 €, no 3.006 € (era un error). Añadida la constitución, mayo de 2025 aprox. (F1).
+- 2026-11-01 — Participación en Fluxia: 20 % (dato de la ficha de Fluxia, F1).

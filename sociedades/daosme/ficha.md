@@ -50,7 +50,7 @@ Administrador único: David Oset. — F1, 2026-11-01.
 | Sociedad | Factura de Daosme | Participación de Daosme | Fuente | Fecha |
 |---|---|---|---|---|
 | SCM (`sociedades/scm/`) | Sí; importe y periodicidad **pendientes** | **Ninguna** (los socios de SCM son las tres personas físicas) | F1 | 2026-11-01 |
-| Fluxia (sin ficha) | Sí; importe y periodicidad **pendientes** | **Pendiente** (no dicho) | F1 | 2026-11-01 |
+| Fluxia (`sociedades/fluxia/`) | Sí; importe y periodicidad **pendientes** | 20 % | F1 | 2026-11-01 |
 | Dideso (sin ficha) | No | Ninguna: Jaime dice que no tiene ninguna relación con Dideso | F1 | 2026-11-01 |
 | Volna (`sociedades/volna/`) | No | Ninguna: Jaime dice que Volna no tiene ninguna relación con Daosme | F1 | 2026-11-01 |
 | Cerebel (`sociedades/cerebel/`) | **Pendiente** (no dicho) | **Pendiente** (no dicho) | — | — |
@@ -60,3 +60,4 @@ Administrador único: David Oset. — F1, 2026-11-01.
 - 2026-11-01 — Ficha creada con el dictado de Jaime (F1).
 - 2026-11-01 — Añadidas actividad (sociedad de gestión de David Oset) y relaciones: factura a SCM y Fluxia, ninguna relación con Dideso (F1).
 - 2026-11-01 — Añadida la fila de Volna: ninguna relación (misma afirmación de Jaime registrada en la ficha de Volna, F1).
+- 2026-11-01 — Participación en Fluxia: 20 % (dato de la ficha de Fluxia, F1).
