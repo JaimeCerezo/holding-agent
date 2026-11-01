@@ -121,6 +121,17 @@ Total activo 623.628,95 € (cuadra con patrimonio neto y pasivo). Tesorería
 financieras a largo plazo 3.453,70 €. Detalle en
 `sociedades/scm/ficha.md`.
 
+Contexto: al cierre de 2025 la tesorería ya era el **56,8 %** del activo
+(273.402,38 € de 481.485,56 €; F2, `sociedades/scm/balance-2025.md`), frente
+al 70,6 % a 01-11-2026.
+
+**Inferencia, a confirmar cuando llegue el pasivo de 2025**: si el resultado
+de 2025 se aplicó íntegro a reservas y no hubo dividendos en 2026, las
+reservas de 2026 (333.071,54 €) deberían coincidir con los fondos propios
+al cierre de 2025 menos el capital. Entonces los fondos propios a cierre de
+2025 serían ≈ 336.131,54 € y el pasivo de 2025 rondaría ≈ 145.354 €
+(481.485,56 − 336.131,54). **No es un dato; es una inferencia.**
+
 **Punto para el abogado — ¿SCM es entidad patrimonial?** (observación
 nuestra, no una conclusión)
 - La tesorería es el 70,6 % del activo.
@@ -153,6 +164,11 @@ de operaciones. Que valore cómo encaja.
       confirmación registral.
 - [x] Balance completo a 01-11-2026 (activo, patrimonio neto y pasivo):
       recibido (F2, provisional).
+- [x] Activo del balance 2025: recibido (F2, `sociedades/scm/balance-2025.md`).
+- [ ] Patrimonio neto y pasivo de 2025.
+- [ ] PyG de 2025.
+- [ ] Confirmar si el balance 2025 recibido es el de las cuentas aprobadas
+      y depositadas.
 - [x] Pacto de socios: **no hay** (Jaime, F1, 2026-11-01).
 - [ ] Cuentas anuales 2025 completas de SCM (balance y PyG cerrados y
       depositados). **Ya pedidas a Jaime** (2026-11-01).
@@ -264,3 +280,4 @@ privativas y el cónyuge no interviene en la aportación.
 - 2026-11-01 — Balance provisional de SCM a 01-11-2026 (F2): datos contables de valoración, plusvalía latente, punto de calendario, partidas negativas señaladas y nuevos pendientes (activo, cuentas 2025).
 - 2026-11-01 — Activo de SCM (F2): composición, puntos para el abogado sobre entidad patrimonial (art. 5.2 LIS) y dividendos (art. 21 LIS); quitado el activo de pendientes.
 - 2026-11-01 — Sin pacto de socios en SCM (F1); pendientes ya pedidos a Jaime: cuentas 2025 completas y, opcional, origen de reservas y resultado 2026 neto.
+- 2026-11-01 — Recibido el activo del balance 2025 (F2): tesorería 56,8 %; inferencia sobre fondos propios y pasivo de 2025, a confirmar.

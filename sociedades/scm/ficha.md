@@ -120,7 +120,28 @@ plazo (-8.704,83 €), 2. Deuda con entidades de crédito (-1.006,63 €),
 5. Otros pasivos financieros (-7.698,20 €) y 4. Personal (remuneraciones
 pendientes de pago) (-30.588,99 €).
 
-Cuentas anuales 2025 cerradas y depositadas: **pendiente**.
+### Balance 2025 (activo)
+
+Fuente: F2, pegado por Jaime el 2026-11-01; copia en
+`sociedades/scm/balance-2025.md`. Ejercicio 01-01-2025 a 31-12-2025. **No
+consta** si es el balance de las cuentas aprobadas y depositadas. Solo el
+activo; faltan patrimonio neto y pasivo, y la PyG. Subtotales comprobados.
+
+| Partida | Importe (€) | % del activo |
+|---|---:|---:|
+| Inmovilizado material | 12.963,96 | 2,7 % |
+| Inversiones financieras a largo plazo | 3.453,70 | 0,7 % |
+| Activos por impuesto diferido | 15.212,40 | 3,2 % |
+| **Activo no corriente** | **31.630,06** | 6,6 % |
+| Clientes | 149.094,85 | 31,0 % |
+| Activos por impuesto corriente | 506,50 | 0,1 % |
+| Periodificaciones a corto plazo | 26.851,77 | 5,6 % |
+| Tesorería | 273.402,38 | **56,8 %** |
+| **Activo corriente** | **449.855,50** | 93,4 % |
+| **Total activo** | **481.485,56** | 100 % |
+
+Cuentas anuales 2025 cerradas y depositadas (balance completo y PyG):
+**pendiente**.
 
 ## Órgano de administración
 
@@ -152,3 +173,4 @@ Fecha de nombramiento y duración del cargo: **pendiente**.
 - 2026-11-01 — Balance provisional a 01-11-2026 (F2): reservas 333.071,54 € (precisa los ~350.000 € de F1), fondos propios 550.764,43 €; capital 3.060 € coincide con la constitución (indicio fuerte de que no hubo cambios).
 - 2026-11-01 — Añadido el activo del balance provisional (F2): total 623.628,95 €, tesorería 440.024,79 € (70,6 %).
 - 2026-11-01 — Jaime: no hay pacto de socios (F1).
+- 2026-11-01 — Añadido el activo del balance 2025 (F2): total 481.485,56 €, tesorería 273.402,38 € (56,8 %).
