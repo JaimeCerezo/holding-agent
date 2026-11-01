@@ -102,7 +102,7 @@ enero a octubre, a 01-11-2026.
 
 ⁴ Incluye el resultado de 2025 (3.060,14 €), que **aún no está aplicado**, y
 el de 2026 hasta octubre (211.572,75 €). Deducido por cálculo; pendiente de
-que lo confirme el gestor.
+confirmar.
 ⁵ Con partidas de signo negativo propias de un balance sin ajustes de cierre:
 deudas a corto plazo (-8.704,83 €) y personal, remuneraciones pendientes de
 pago (-30.588,99 €).
@@ -223,19 +223,6 @@ no tuvieron actividad, o casi.
 | Origen por ejercicios de las reservas de SCM | **Pendiente** (pedido, opcional) |
 | Capitulaciones matrimoniales de Jaime (confirmar que no hay) | **Pendiente** |
 | Balances 2025 de las tres sociedades personales | No se piden (casi nulos, según Jaime) |
-
-**Preguntas abiertas para el gestor de SCM**
-
-- Confirmar que la aplicación del resultado de 2025 está sin registrar.
-- Ajustes de cierre de 2026: impuesto, amortizaciones, noviembre y diciembre,
-  y previsión del resultado neto.
-- Por qué bajan los gastos de personal en 2026 (397.292 € en diez meses
-  frente a unos 482.000 € al ritmo de 2025): ¿menos plantilla, pagas o primas
-  al cierre?
-- Por qué bajan los aprovisionamientos (del 26,6 % al 17,0 % de la cifra de
-  negocios; en 2026 no hay trabajos realizados por otras empresas).
-- Con qué empresas del grupo o asociadas hay crédito (2025) y deuda (2026).
-- Partidas del pasivo con signo negativo en el balance provisional.
 
 ---
 
