@@ -13,6 +13,8 @@ Alejandro Galisteo (PF)  33,33 % ─┘
 Jaime Cerezo (PF)          100 % ───> Cerebel Gestión S.L.U.             [sociedades/cerebel/]
 
 David Oset (PF)            100 % ───> Daosme Gestión S.L.U.              [sociedades/daosme/]
+
+Alejandro Galisteo (PF)    100 % ───> Volna Moria S.L.U.                 [sociedades/volna/]
 ```
 
 PF = persona física. El 33,33 % de Jaime en SCM es a título personal, no a
@@ -27,6 +29,7 @@ través de Cerebel (aclarado por Jaime, F1, 2026-11-01).
 | David Oset | SCM | 33,33 % | Administrador solidario |
 | David Oset | Daosme | 100 % (socio único) | Administrador único |
 | Alejandro Galisteo | SCM | 33,33 % | Administrador solidario |
+| Alejandro Galisteo | Volna | 100 % (socio único) | Administrador único |
 
 ### Participaciones entre sociedades
 
@@ -38,13 +41,17 @@ través de Cerebel (aclarado por Jaime, F1, 2026-11-01).
 | Daosme | SCM | **Ninguna** (los socios de SCM son las tres PF) | F1 | 2026-11-01 |
 | Daosme | Fluxia | **Pendiente** (no dicho) | — | — |
 | Daosme | Dideso | **Ninguna** (sin ninguna relación con Dideso) | F1 | 2026-11-01 |
+| Volna | SCM | **Ninguna** | F1 | 2026-11-01 |
+| Volna | Fluxia | **Pendiente** | — | — |
+| Volna | Dideso | **Pendiente** (no dicho) | — | — |
 
 ## Facturación entre sociedades (2026-11-01)
 
-Cerebel (sociedad de gestión de Jaime) y Daosme (la de David Oset)
-facturan «servicios de dirección, gestión y administración» (F1,
-2026-11-01). Cerebel lo hace mensualmente y con importe distinto para cada
-una; de Daosme no se ha dicho periodicidad ni importes.
+Cerebel (sociedad de gestión de Jaime), Daosme (la de David Oset) y Volna
+(la de Alex Galisteo) facturan servicios de dirección, gestión y
+administración (F1, 2026-11-01). Cerebel lo hace mensualmente y con importe
+distinto para cada una; de Daosme y Volna no se ha dicho periodicidad ni
+importes.
 
 | De | A | Periodicidad | Importe |
 |---|---|---|---|
@@ -53,9 +60,19 @@ una; de Daosme no se ha dicho periodicidad ni importes.
 | Cerebel | Dideso | Mensual | **pendiente** |
 | Daosme | SCM | **pendiente** | **pendiente** |
 | Daosme | Fluxia | **pendiente** | **pendiente** |
+| Volna | SCM | **pendiente** | **pendiente** |
+| Volna | Fluxia | **pendiente** | **pendiente** |
 
 Daosme no factura a Dideso: no tiene ninguna relación con ella (F1,
-2026-11-01).
+2026-11-01). Si Volna tiene relación con Dideso: **pendiente** (no dicho).
+
+## Observaciones (sin conclusiones)
+
+- Cada uno de los tres socios de SCM tiene una S.L.U. de gestión propia, de
+  la que es socio y administrador único: Volna (Alex Galisteo, CIF
+  B21854500), Cerebel (Jaime Cerezo, B21854518) y Daosme (David Oset,
+  B21854542). Los tres CIF son casi consecutivos. Anotado el 2026-11-01 a
+  partir de los datos dictados (F1); no se ha comprobado qué implica.
 
 ## Sociedades registradas
 
@@ -64,11 +81,13 @@ Daosme no factura a Dideso: no tiene ninguna relación con ella (F1,
 | `scm` | SCM Logística y Trazabilidad S.L. | Activa | `sociedades/scm/ficha.md` |
 | `cerebel` | Cerebel Gestión S.L.U. | **pendiente** | `sociedades/cerebel/ficha.md` |
 | `daosme` | Daosme Gestión S.L.U. | **pendiente** | `sociedades/daosme/ficha.md` |
+| `volna` | Volna Moria S.L.U. | **pendiente** | `sociedades/volna/ficha.md` |
 
 ## Sociedades nombradas, sin ficha todavía
 
 Jaime las describirá más adelante (F1, 2026-11-01). Solo se sabe que
-Cerebel factura a las dos y Daosme solo a Fluxia.
+Cerebel factura a las dos, Daosme solo a Fluxia y Volna a Fluxia (con
+Dideso, no dicho).
 
 | Nombre | Datos |
 |---|---|
@@ -79,5 +98,6 @@ Cerebel factura a las dos y Daosme solo a Fluxia.
 
 - Si Cerebel participa en Fluxia y Dideso, y en qué porcentaje; fichas de ambas.
 - Importes que Cerebel factura a cada sociedad.
-- Si Daosme participa en Fluxia; periodicidad e importes de lo que factura Daosme.
+- Si Daosme y Volna participan en Fluxia; periodicidad e importes de lo que facturan.
+- Si Volna tiene relación con Dideso.
 - Si hay más sociedades.
