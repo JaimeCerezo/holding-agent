@@ -53,7 +53,18 @@ Todo F1, 2026-11-01, salvo que se indique. Detalle en las fichas.
 - Socios: los tres, 33,33 % cada uno, suscrito en la constitución. Sin
   compras ni transmisiones posteriores.
 - Valor de adquisición por socio: **1.020 €** (102 participaciones × 10 €; F2).
-- Los estatutos no limitan la transmisión de participaciones (según Jaime).
+- Transmisión de participaciones (estatutos, art. 9, F2): libre entre
+  socios, a cónyuge, ascendientes o descendientes, a sociedades «del mismo
+  grupo que la transmitente» y mortis causa; fuera de esos casos, régimen
+  legal. Matiza lo que dijo Jaime («los estatutos no limitan», F1). Ver el
+  punto de la junta más abajo.
+- Estatutos (F2, `sociedades/scm/estatutos.md`): inicio de operaciones
+  01-01-2007; objeto social sin CNAE, sin consultoría logística ni tenencia
+  de participaciones; **cargo de administrador gratuito** (art. 19).
+- **Discrepancia de domicilio**: estatutos, C/ Barcelona, 26, 1.º 2.ª,
+  Sant Quirze del Vallès (art. 6); en uso y en los balances, Ronda Maiols,
+  1, Local 425. Domicilio registral vigente **pendiente**; a valorar por el
+  abogado (¿traslado posterior, inscrito o no?).
 - Sin cambios de capital desde la constitución: **indicio fuerte** (el
   capital escriturado del balance a 01-11-2026 coincide con la escritura).
 - Reservas: 333.071,54 € (F2, balance provisional a 01-11-2026; precisa los
@@ -195,14 +206,17 @@ de 2025 es 142.293,88 € (no ≈ 145.354 €).
 **Punto para el abogado — doble vía de cobro de los socios** (puntos a
 revisar, sin conclusión). Desde 2026 cada socio cobra de SCM por dos vías:
 su nómina y la factura de su sociedad (servicios de dirección, gestión y
-administración; Jaime, F1, 2026-11-01). Tras la operación, la sociedad que
-factura será además socia del 33,33 % de SCM. A revisar:
+administración; Jaime, F1, 2026-11-01). A eso se suma que los tres
+administran SCM y el cargo es **gratuito** (estatutos, art. 19, F2): la
+nómina responde presumiblemente a una relación laboral. Si la sociedad que
+factura pasara a ser socia de SCM, sería además parte vinculada como socia.
+A revisar:
 - que esos servicios son distintos de lo que el socio ya hace como
   trabajador o como administrador, para justificarlos y que el gasto sea
   deducible para SCM;
 - la valoración a mercado, como operación vinculada;
-- si el cargo de administrador de SCM es o no retribuido según sus
-  estatutos, que no hemos visto.
+- cómo se delimitan las tres cosas: cargo de administrador gratuito,
+  trabajo con nómina y servicios facturados por su sociedad.
 
 **Punto para el abogado — ¿SCM es entidad patrimonial?** (observación
 nuestra, no una conclusión)
@@ -250,7 +264,10 @@ de operaciones. Que valore cómo encaja.
 - [ ] Gestor: por qué baja el personal en 2026 (¿menos plantilla?, ¿pagas o
       primas al cierre?) y por qué bajan los aprovisionamientos.
 - [ ] Importe facturado en 2026 a SCM por Cerebel, Daosme y Volna, cada una.
-- [ ] Estatutos de SCM: si el cargo de administrador es retribuido.
+- [x] Estatutos de SCM: **recibidos** (F2, texto literal, arts. 1 a 25,
+      sin cotejar; `sociedades/scm/estatutos.md`). Cargo de administrador
+      **gratuito** (art. 19).
+- [ ] Domicilio registral vigente de SCM (estatutos y uso no coinciden).
 - [ ] Gestor: ajustes de cierre de 2026 (impuesto, amortizaciones,
       noviembre y diciembre).
 - [ ] Empresas del grupo o asociadas: con cuáles hay crédito (2025) y
@@ -262,12 +279,18 @@ de operaciones. Que valore cómo encaja.
       resultado 2026 neto de impuestos o previsión de cierre. **Ya pedidos
       a Jaime** (2026-11-01).
 
-Sin pacto de socios y sin restricciones estatutarias, no hay derechos de
-adquisición preferente que se activen con la aportación (según Jaime, F1,
-2026-11-01). Para el abogado: que «los estatutos no limitan la transmisión»
-lo dijo Jaime y no lo hemos visto (no tenemos los estatutos de SCM);
-conviene que confirme también que no aplica el régimen supletorio de la
-LSC para estatutos que no regulan la transmisión.
+**Punto para el abogado — consentimiento de la junta de SCM** (pregunta,
+sin conclusión). No hay pacto de socios (Jaime, F1). Los estatutos (art. 9,
+F2) se remiten a los arts. 28 y siguientes de la antigua LSRL y declaran
+libre la transmisión, entre otros casos, a «Sociedades pertenecientes al
+mismo grupo que la transmitente». Fuera de esos casos rige el régimen legal
+(art. 107.2 LSC, según el coordinador: comunicación a la sociedad y
+consentimiento de la junta). Preguntas: ¿encaja la aportación de un socio
+persona física a su sociedad 100 % en «sociedad del mismo grupo que la
+transmitente»? Si no encaja, ¿qué consentimiento y qué mayoría hacen falta,
+siendo los tres socios transmitentes? Los acuerdos de junta son por mayoría
+legal (art. 12). Nota menor: los estatutos citan normas derogadas (LSRL,
+art. 141.2 LSA).
 
 Partidas con **signo negativo** en el pasivo, señaladas sin interpretar
 (que las revise el gestor; no es tema de holding): III. Deudas a corto
@@ -372,3 +395,4 @@ privativas y el cónyuge no interviene en la aportación.
 - 2026-11-01 — PyG 2026 provisional de SCM (F2): pregunta 2 resuelta por cálculo, desglose de fondos propios corregido, estimación orientativa del neto 2026, nuevas preguntas para el gestor.
 - 2026-11-01 — Jaime: las nóminas de los socios siguen; las facturas de sus sociedades se suman. Descartada la hipótesis; bajada de personal pasa a pregunta para el gestor; punto para el abogado sobre la doble vía de cobro (F1).
 - 2026-11-01 — Dossier resumen para el abogado (borrador para revisión de Jaime): `dossiers/2026-11-01-dossier-abogado-holding-scm.md`. Por indicación de Jaime, sin estructura objetivo ni propuestas: solo datos y preguntas.
+- 2026-11-01 — Estatutos de SCM recibidos (F2): régimen de transmisión (art. 9) y punto de la junta, cargo de administrador gratuito (art. 19) en la doble vía, discrepancia de domicilio.

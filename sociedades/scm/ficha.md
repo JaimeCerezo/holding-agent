@@ -7,8 +7,11 @@ cuentas anuales.
 
 [F2] fragmento literal de la escritura de constitución (suscripción de
 participaciones) pegado por Jaime en el chat, 2026-11-01; copia en
-`sociedades/scm/escritura-constitucion-suscripcion.md`. Donde F2 y F1
-coinciden en el mismo dato, manda F2.
+`sociedades/scm/escritura-constitucion-suscripcion.md`. También F2: los
+estatutos completos (arts. 1 a 25), texto literal pegado por Jaime el
+2026-11-01, no cotejado con la escritura; copia en
+`sociedades/scm/estatutos.md`. Donde F2 y F1 coinciden en el mismo dato,
+manda F2.
 
 Leyenda: **aprox.** = cifra aproximada según la fuente · **pendiente** = sin
 dato todavía · **sin confirmar** = dato sin fuente documental.
@@ -21,16 +24,36 @@ dato todavía · **sin confirmar** = dato sin fuente documental.
 | Nombre corto | SCM | F1 | 2026-11-01 |
 | Forma jurídica | Sociedad limitada (por la razón social) | F1 | 2026-11-01 |
 | CIF | B64405590 | F1 | 2026-11-01 |
-| Domicilio social | Ronda Maiols, 1, Local 425, 08192 Sant Quirze del Vallès (Barcelona). Jaime lo dio como «el domicilio»: **sin confirmar** que coincida con el registral | F1 | 2026-11-01 |
+| Domicilio estatutario | C/ Barcelona, 26, 1.º 2.ª, 08192 Sant Quirze del Vallès (Barcelona) (art. 6) | F2 | 2026-11-01 |
+| Domicilio en uso | Ronda Maiols, 1, Local 425, 08192 Sant Quirze del Vallès (Barcelona): lo dio Jaime y figura en la cabecera de los balances | F1 + F2 | 2026-11-01 |
+| **Discrepancia de domicilio** | Los estatutos y la dirección en uso no coinciden. Puede haber un traslado posterior, inscrito o no: domicilio registral vigente **pendiente** de confirmar. A valorar por el abogado | — | 2026-11-01 |
 | Sede / base | Sant Quirze del Vallès (Barcelona) | F1 | 2026-11-01 |
-| Fecha de constitución | Enero de 2007 (día **pendiente**) | F1 | 2026-11-01 |
+| Fecha de constitución | Enero de 2007 (día de la escritura **pendiente**) | F1 | 2026-11-01 |
+| Inicio de operaciones | 01-01-2007 (art. 4) | F2 | 2026-11-01 |
+| Duración | Indefinida (art. 4) | F2 | 2026-11-01 |
+| Ejercicio social | Cierra el 31 de diciembre (art. 5) | F2 | 2026-11-01 |
 | Estado | Activa | F1 | 2026-11-01 |
 
 ## Actividad
 
 Desarrollo de un software de gestión de almacén (SGA) y consultoría
 logística en el ámbito del almacén. — F1, 2026-11-01.
-Objeto social según estatutos y CNAE: **pendiente**.
+
+### Objeto social (art. 2, F2)
+
+Servicios de estudio y análisis de procesos para su tratamiento mecánico,
+de programación para equipos electrónicos, de registro de datos en soportes
+de entrada para ordenadores, venta de programas, proceso de datos por cuenta
+de terceros y otros servicios independientes de elaboración de datos y
+tabulación. El art. 3 excluye las actividades con requisitos legales
+especiales que la sociedad no cumpla.
+- **Sin CNAE** en los estatutos.
+- **No menciona la consultoría logística** como tal (anotado, sin
+  interpretar).
+- **No incluye la tenencia de participaciones.** El art. 18 b) faculta a
+  los administradores para operar con acciones y participaciones y tomar
+  participación en otras sociedades, pero es una facultad de representación,
+  no objeto social.
 
 ## Socios
 
@@ -40,7 +63,7 @@ Objeto social según estatutos y CNAE: **pendiente**.
 | David Oset Membrado | Persona física | 33,33 % (102 participaciones, n.º 1 a 102) | F1 + F2 | 2026-11-01 |
 | Alejandro Galisteo Arribas («Alex Galisteo») | Persona física | 33,33 % (102 participaciones, n.º 205 a 306) | F1 + F2 | 2026-11-01 |
 
-Capital social: **3.060 €** — F2 (escritura de constitución), 2026-11-01.
+Capital social: **3.060 €** — F2 (escritura de constitución), confirmado por los estatutos (art. 7: 306 participaciones de 10 €, n.º 1 a 306, íntegramente suscrito y desembolsado), 2026-11-01.
 306 participaciones de **10 €** de valor nominal (1.020 € / 102), numeradas
 de la 1 a la 306. — F2.
 **Corrección**: F1 decía 3.006 €; probablemente una transposición de
@@ -66,8 +89,19 @@ capital de cada uno. — F1, 2026-11-01.
 
 ### Estatutos y pacto de socios
 
-- Los estatutos **no limitan** la transmisión de participaciones (según
-  Jaime, no verificado contra los estatutos). — F1, 2026-11-01.
+- **Régimen de transmisión (art. 9, F2)**: se remite a «los artículos 28 y
+  siguientes de la Ley» (la antigua LSRL) y declara libre la transmisión
+  voluntaria inter vivos entre socios, a favor del cónyuge, ascendientes o
+  descendientes del socio o de «Sociedades pertenecientes al mismo grupo que
+  la transmitente», y las mortis causa. Fuera de esos casos rige el régimen
+  legal (hoy, según el coordinador, art. 107.2 LSC: comunicación a la
+  sociedad y consentimiento de la junta). **Matiza** lo dicho por Jaime
+  («los estatutos no limitan la transmisión», F1). Transmisión en documento
+  público (art. 8).
+- Junta: acuerdos por la mayoría legal (art. 12); convocatoria por correo
+  certificado con acuse de recibo (art. 13).
+- Los estatutos citan normas derogadas (LSRL; art. 141.2 de la LSA en el
+  art. 20). Nota menor.
 - **No hay pacto de socios** (según Jaime). — F1, 2026-11-01.
 
 ### Valoración
@@ -255,7 +289,13 @@ y depositadas: **pendiente**.
 
 Tres administradores solidarios: Jaime Cerezo Berbel, David Oset Membrado y
 Alejandro Galisteo Arribas (los mismos tres socios). — F1, 2026-11-01.
-Fecha de nombramiento y duración del cargo: **pendiente**.
+Fecha de nombramiento: **pendiente**.
+
+Según estatutos (F2): la junta elige entre administrador único, dos
+mancomunados, hasta cinco solidarios o consejo de 3 a 7 miembros (arts. 15 y
+20); no hace falta ser socio (art. 16); cargo por plazo indefinido (art. 17);
+**cargo gratuito (art. 19)**. Los socios cobran además nómina de SCM (F1) y,
+desde 2026, sus sociedades facturan a SCM (ver `grupo/operacion-holding-scm.md`).
 
 ## Magnitudes
 
@@ -286,3 +326,4 @@ Fecha de nombramiento y duración del cargo: **pendiente**.
 - 2026-11-01 — PyG 2025 (F2): cifra de negocios 1.086.230,60 € (corrige ~1,2 M€ de F1), resultado 3.060,14 €; ingresos financieros de empresas del grupo (crédito por identificar).
 - 2026-11-01 — PyG 2026 provisional (F2): resultado 2026 a 01-11 = 211.572,75 €; los 214.632,89 € del balance incluyen los 3.060,14 € de 2025 sin aplicar (resuelto por cálculo).
 - 2026-11-01 — Jaime: las nóminas de los socios siguen y las facturas de sus sociedades se suman; bajada de personal 2026 sin explicar (F1).
+- 2026-11-01 — Estatutos completos (F2): objeto social (sin CNAE, sin consultoría logística ni tenencia de participaciones), inicio de operaciones 01-01-2007, ejercicio, domicilio estatutario C/ Barcelona 26 (discrepa de Ronda Maiols), capital confirmado, régimen de transmisión (art. 9, matiza lo dicho por Jaime) y cargo de administrador gratuito (art. 19).
