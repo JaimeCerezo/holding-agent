@@ -8,8 +8,9 @@ cuentas anuales.
 [F2] fragmento literal de la escritura de constitución (suscripción de
 participaciones) pegado por Jaime en el chat, 2026-11-01; copia en
 `sociedades/scm/escritura-constitucion-suscripcion.md`. También F2: los
-estatutos completos (arts. 1 a 25), texto literal pegado por Jaime el
-2026-11-01, no cotejado con la escritura; copia en
+estatutos completos (arts. 1 a 25) **en su versión original de 2007, no
+vigente** (Jaime, F1: hubo modificaciones posteriores no vistas), texto
+literal pegado por Jaime el 2026-11-01, no cotejado con la escritura; copia en
 `sociedades/scm/estatutos.md`. Donde F2 y F1 coinciden en el mismo dato,
 manda F2.
 
@@ -24,14 +25,13 @@ dato todavía · **sin confirmar** = dato sin fuente documental.
 | Nombre corto | SCM | F1 | 2026-11-01 |
 | Forma jurídica | Sociedad limitada (por la razón social) | F1 | 2026-11-01 |
 | CIF | B64405590 | F1 | 2026-11-01 |
-| Domicilio estatutario | C/ Barcelona, 26, 1.º 2.ª, 08192 Sant Quirze del Vallès (Barcelona) (art. 6) | F2 | 2026-11-01 |
-| Domicilio en uso | Ronda Maiols, 1, Local 425, 08192 Sant Quirze del Vallès (Barcelona): lo dio Jaime y figura en la cabecera de los balances | F1 + F2 | 2026-11-01 |
-| **Discrepancia de domicilio** | Los estatutos y la dirección en uso no coinciden. Puede haber un traslado posterior, inscrito o no: domicilio registral vigente **pendiente** de confirmar. A valorar por el abogado | — | 2026-11-01 |
+| Domicilio social vigente | Ronda Maiols, 1, Local 425, 08192 Sant Quirze del Vallès (Barcelona), según Jaime y la cabecera de los balances; fruto de traslados posteriores a 2007 (texto de la modificación no visto) | F1 + F2 | 2026-11-01 |
+| Domicilio en 2007 (historial) | C/ Barcelona, 26, 1.º 2.ª, 08192 Sant Quirze del Vallès (art. 6 de los estatutos originales). Según Jaime, el domicilio ha cambiado varias veces desde entonces | F2 + F1 | 2026-11-01 |
 | Sede / base | Sant Quirze del Vallès (Barcelona) | F1 | 2026-11-01 |
 | Fecha de constitución | Enero de 2007 (día de la escritura **pendiente**) | F1 | 2026-11-01 |
-| Inicio de operaciones | 01-01-2007 (art. 4) | F2 | 2026-11-01 |
-| Duración | Indefinida (art. 4) | F2 | 2026-11-01 |
-| Ejercicio social | Cierra el 31 de diciembre (art. 5) | F2 | 2026-11-01 |
+| Inicio de operaciones | 01-01-2007 (art. 4, estatutos de 2007) | F2 | 2026-11-01 |
+| Duración | Indefinida (art. 4; según la versión de 2007; pendiente de confirmar si sigue vigente) | F2 | 2026-11-01 |
+| Ejercicio social | Cierra el 31 de diciembre (art. 5; según la versión de 2007; pendiente de confirmar si sigue vigente) | F2 | 2026-11-01 |
 | Estado | Activa | F1 | 2026-11-01 |
 
 ## Actividad
@@ -40,6 +40,8 @@ Desarrollo de un software de gestión de almacén (SGA) y consultoría
 logística en el ámbito del almacén. — F1, 2026-11-01.
 
 ### Objeto social (art. 2, F2)
+
+**Según la versión de 2007; pendiente de confirmar si sigue vigente.**
 
 Servicios de estudio y análisis de procesos para su tratamiento mecánico,
 de programación para equipos electrónicos, de registro de datos en soportes
@@ -88,6 +90,9 @@ conserva lo que suscribió. El valor de adquisición es la aportación al
 capital de cada uno. — F1, 2026-11-01.
 
 ### Estatutos y pacto de socios
+
+Los artículos citados aquí son **de la versión de 2007; pendiente de
+confirmar si siguen vigentes** (Jaime, F1: hubo modificaciones posteriores).
 
 - **Régimen de transmisión (art. 9, F2)**: se remite a «los artículos 28 y
   siguientes de la Ley» (la antigua LSRL) y declara libre la transmisión
@@ -291,11 +296,19 @@ Tres administradores solidarios: Jaime Cerezo Berbel, David Oset Membrado y
 Alejandro Galisteo Arribas (los mismos tres socios). — F1, 2026-11-01.
 Fecha de nombramiento: **pendiente**.
 
-Según estatutos (F2): la junta elige entre administrador único, dos
-mancomunados, hasta cinco solidarios o consejo de 3 a 7 miembros (arts. 15 y
-20); no hace falta ser socio (art. 16); cargo por plazo indefinido (art. 17);
-**cargo gratuito (art. 19)**. Los socios cobran además nómina de SCM (F1) y,
-desde 2026, sus sociedades facturan a SCM (ver `grupo/operacion-holding-scm.md`).
+**Cargo remunerado** (Jaime, F1, 2026-11-01): una modificación estatutaria
+posterior a 2007, que no hemos visto, cambió el art. 19 original («el cargo
+de Administrador es gratuito»). Desde cuándo y cómo se fija la retribución:
+**pendiente**.
+
+Según los estatutos de 2007 (F2; pendiente de confirmar si siguen vigentes):
+la junta elige entre administrador único, dos mancomunados, hasta cinco
+solidarios o consejo de 3 a 7 miembros (arts. 15 y 20); no hace falta ser
+socio (art. 16); cargo por plazo indefinido (art. 17).
+
+Los socios cobran así de SCM por tres vías: retribución como
+administradores, nómina (F1) y, desde 2026, las facturas de sus sociedades
+(ver `grupo/operacion-holding-scm.md`).
 
 ## Magnitudes
 
@@ -327,3 +340,4 @@ desde 2026, sus sociedades facturan a SCM (ver `grupo/operacion-holding-scm.md`)
 - 2026-11-01 — PyG 2026 provisional (F2): resultado 2026 a 01-11 = 211.572,75 €; los 214.632,89 € del balance incluyen los 3.060,14 € de 2025 sin aplicar (resuelto por cálculo).
 - 2026-11-01 — Jaime: las nóminas de los socios siguen y las facturas de sus sociedades se suman; bajada de personal 2026 sin explicar (F1).
 - 2026-11-01 — Estatutos completos (F2): objeto social (sin CNAE, sin consultoría logística ni tenencia de participaciones), inicio de operaciones 01-01-2007, ejercicio, domicilio estatutario C/ Barcelona 26 (discrepa de Ronda Maiols), capital confirmado, régimen de transmisión (art. 9, matiza lo dicho por Jaime) y cargo de administrador gratuito (art. 19).
+- 2026-11-01 — Jaime (F1): los estatutos son la versión original de 2007, no vigente. Cargo de administrador **remunerado** por modificación posterior (art. 19 «gratuito» ya no vigente); domicilio vigente Ronda Maiols 1 (C/ Barcelona 26 era el de 2007): quitada la discrepancia. Resto de artículos pendiente de confirmar vigencia.

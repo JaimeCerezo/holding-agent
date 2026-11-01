@@ -53,18 +53,21 @@ Todo F1, 2026-11-01, salvo que se indique. Detalle en las fichas.
 - Socios: los tres, 33,33 % cada uno, suscrito en la constitución. Sin
   compras ni transmisiones posteriores.
 - Valor de adquisición por socio: **1.020 €** (102 participaciones × 10 €; F2).
-- Transmisión de participaciones (estatutos, art. 9, F2): libre entre
+- Transmisión de participaciones (estatutos de 2007, art. 9, F2; vigencia
+  pendiente de confirmar): libre entre
   socios, a cónyuge, ascendientes o descendientes, a sociedades «del mismo
   grupo que la transmitente» y mortis causa; fuera de esos casos, régimen
   legal. Matiza lo que dijo Jaime («los estatutos no limitan», F1). Ver el
   punto de la junta más abajo.
-- Estatutos (F2, `sociedades/scm/estatutos.md`): inicio de operaciones
+- Estatutos (F2, `sociedades/scm/estatutos.md`): **versión original de
+  2007, no vigente** (Jaime, F1). Según esa versión: inicio de operaciones
   01-01-2007; objeto social sin CNAE, sin consultoría logística ni tenencia
-  de participaciones; **cargo de administrador gratuito** (art. 19).
-- **Discrepancia de domicilio**: estatutos, C/ Barcelona, 26, 1.º 2.ª,
-  Sant Quirze del Vallès (art. 6); en uso y en los balances, Ronda Maiols,
-  1, Local 425. Domicilio registral vigente **pendiente**; a valorar por el
-  abogado (¿traslado posterior, inscrito o no?).
+  de participaciones. Vigencia del objeto y del resto: pendiente.
+- **Cargo de administrador remunerado** (Jaime, F1): modificación
+  estatutaria posterior a 2007, no vista; el art. 19 original decía
+  «gratuito». Desde cuándo y cómo se fija: pendiente.
+- Domicilio vigente: Ronda Maiols, 1, Local 425, Sant Quirze del Vallès
+  (Jaime y balances), tras varios traslados; el de 2007 era C/ Barcelona, 26.
 - Sin cambios de capital desde la constitución: **indicio fuerte** (el
   capital escriturado del balance a 01-11-2026 coincide con la escritura).
 - Reservas: 333.071,54 € (F2, balance provisional a 01-11-2026; precisa los
@@ -203,20 +206,16 @@ de 2025 es 142.293,88 € (no ≈ 145.354 €).
   en 2025 son positivas o no aparecen: refuerza que el balance de 2026 es
   provisional y sin ajustes de cierre.
 
-**Punto para el abogado — doble vía de cobro de los socios** (puntos a
-revisar, sin conclusión). Desde 2026 cada socio cobra de SCM por dos vías:
-su nómina y la factura de su sociedad (servicios de dirección, gestión y
-administración; Jaime, F1, 2026-11-01). A eso se suma que los tres
-administran SCM y el cargo es **gratuito** (estatutos, art. 19, F2): la
-nómina responde presumiblemente a una relación laboral. Si la sociedad que
-factura pasara a ser socia de SCM, sería además parte vinculada como socia.
-A revisar:
-- que esos servicios son distintos de lo que el socio ya hace como
-  trabajador o como administrador, para justificarlos y que el gasto sea
-  deducible para SCM;
-- la valoración a mercado, como operación vinculada;
-- cómo se delimitan las tres cosas: cargo de administrador gratuito,
-  trabajo con nómina y servicios facturados por su sociedad.
+**Punto para el abogado — triple vía de cobro de los socios** (preguntas,
+sin conclusión). Desde 2026 cada socio cobra de SCM por tres vías (Jaime,
+F1, 2026-11-01): retribución como administrador (cargo remunerado por
+modificación estatutaria posterior a 2007, texto no visto), nómina, y la
+factura de su sociedad personal por servicios de dirección, gestión y
+administración. Si la sociedad que factura pasara a ser socia de SCM, sería
+además parte vinculada como socia. Preguntas:
+- ¿cómo se delimitan y justifican las tres vías entre sí?
+- ¿qué implica para la deducibilidad de cada gasto en SCM?
+- ¿cómo se valoran a mercado como operación vinculada?
 
 **Punto para el abogado — ¿SCM es entidad patrimonial?** (observación
 nuestra, no una conclusión)
@@ -264,10 +263,11 @@ de operaciones. Que valore cómo encaja.
 - [ ] Gestor: por qué baja el personal en 2026 (¿menos plantilla?, ¿pagas o
       primas al cierre?) y por qué bajan los aprovisionamientos.
 - [ ] Importe facturado en 2026 a SCM por Cerebel, Daosme y Volna, cada una.
-- [x] Estatutos de SCM: **recibidos** (F2, texto literal, arts. 1 a 25,
-      sin cotejar; `sociedades/scm/estatutos.md`). Cargo de administrador
-      **gratuito** (art. 19).
-- [ ] Domicilio registral vigente de SCM (estatutos y uso no coinciden).
+- [x] Estatutos de SCM, **versión original de 2007**: recibidos (F2,
+      texto literal, arts. 1 a 25, sin cotejar; `sociedades/scm/estatutos.md`).
+- [ ] Estatutos de SCM, **texto vigente**: estatutos refundidos, escrituras
+      de modificación o nota informativa del Registro Mercantil. Incluye
+      desde cuándo y cómo se fija la retribución del administrador.
 - [ ] Gestor: ajustes de cierre de 2026 (impuesto, amortizaciones,
       noviembre y diciembre).
 - [ ] Empresas del grupo o asociadas: con cuáles hay crédito (2025) y
@@ -280,8 +280,8 @@ de operaciones. Que valore cómo encaja.
       a Jaime** (2026-11-01).
 
 **Punto para el abogado — consentimiento de la junta de SCM** (pregunta,
-sin conclusión). No hay pacto de socios (Jaime, F1). Los estatutos (art. 9,
-F2) se remiten a los arts. 28 y siguientes de la antigua LSRL y declaran
+sin conclusión). No hay pacto de socios (Jaime, F1). Los estatutos de 2007
+(art. 9, F2; **pendiente de confirmar si sigue vigente**) se remiten a los arts. 28 y siguientes de la antigua LSRL y declaran
 libre la transmisión, entre otros casos, a «Sociedades pertenecientes al
 mismo grupo que la transmitente». Fuera de esos casos rige el régimen legal
 (art. 107.2 LSC, según el coordinador: comunicación a la sociedad y
@@ -396,3 +396,4 @@ privativas y el cónyuge no interviene en la aportación.
 - 2026-11-01 — Jaime: las nóminas de los socios siguen; las facturas de sus sociedades se suman. Descartada la hipótesis; bajada de personal pasa a pregunta para el gestor; punto para el abogado sobre la doble vía de cobro (F1).
 - 2026-11-01 — Dossier resumen para el abogado (borrador para revisión de Jaime): `dossiers/2026-11-01-dossier-abogado-holding-scm.md`. Por indicación de Jaime, sin estructura objetivo ni propuestas: solo datos y preguntas.
 - 2026-11-01 — Estatutos de SCM recibidos (F2): régimen de transmisión (art. 9) y punto de la junta, cargo de administrador gratuito (art. 19) en la doble vía, discrepancia de domicilio.
+- 2026-11-01 — Jaime (F1): los estatutos de SCM son la versión de 2007, no vigente; cargo de administrador remunerado (triple vía de cobro); domicilio vigente Ronda Maiols, sin discrepancia; texto vigente pendiente.

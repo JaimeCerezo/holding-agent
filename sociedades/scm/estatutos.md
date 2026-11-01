@@ -1,6 +1,14 @@
 # Estatutos de SCM Logística y Trazabilidad, S.L.
 
 > Fuente F2: texto literal pegado por Jaime en el chat con Aris el 2026-11-01, en dos trozos (el primero se cortaba en mitad del art. 4; el segundo empieza con su continuación). Completo: arts. 1 a 25. No es copia cotejada de la escritura.
+>
+> **Versión original de constitución (2007). No es el texto vigente** (Jaime, F1, 2026-11-01). Ha habido modificaciones posteriores que no hemos visto.
+>
+> **Modificaciones posteriores conocidas** (manifestadas por Jaime, F1, 2026-11-01; texto no visto):
+> - **Art. 19, retribución del administrador**: el cargo pasó a ser **remunerado**; el «gratuito» de abajo ya no está vigente. Fecha y forma de fijar la retribución: pendientes.
+> - **Art. 6, domicilio**: ha cambiado varias veces. El vigente es Ronda Maiols, 1, Local 425, 08192 Sant Quirze del Vallès (coincide con los balances). La C/ Barcelona, 26 de abajo es el de 2007.
+>
+> Puede haber más cambios (objeto social, transmisión u otros artículos). Texto vigente **pendiente**: estatutos refundidos, escrituras de modificación o nota informativa del Registro Mercantil.
 
 ESTATUTOS DE LA SOCIEDAD
 
