@@ -165,19 +165,51 @@ Observaciones sobre los dos balances, anotadas como datos sin interpretar
   anteriores. Puede que se repartiera como dividendo, que no se haya
   registrado aún su aplicación o que esté dentro del resultado de 2026.
   **Pendiente del gestor.**
-- El resultado de 2025 (3.060,14 €) es muy bajo para una facturación de
-  ~1,2 M€, frente a los 214.632,89 € provisionales de 2026 hasta octubre.
-  **Pregunta**: ¿por qué? Puede haber ajustes de cierre que el provisional
-  de 2026 aún no tiene (impuesto, amortizaciones, retribuciones de los
-  socios). Solo pregunta.
+- El resultado de 2025 (3.060,14 €) es muy bajo para una cifra de negocios
+  de 1.086.230,60 €, frente a los 214.632,89 € provisionales de 2026 hasta
+  octubre. **Respondida en parte por la PyG 2025**: el beneficio bajo se
+  explica por la estructura de gastos (personal 53,3 %, servicios
+  exteriores 20,8 %). Sigue abierto por qué el provisional de 2026 da
+  214.633 € y qué ajustes de cierre faltan (retribuciones, impuesto,
+  amortizaciones).
 - Las partidas que en 2026 tenían signo negativo (deudas a corto plazo,
   personal) en 2025 son positivas o no aparecen. Refuerza que el balance de
   2026 es provisional y sin ajustes de cierre.
 - Dato curioso, sin interpretar: el resultado de 2025 (3.060,14 €) casi
   coincide con el capital (3.060,00 €).
 
-PyG de 2025 y confirmar que es el balance de las cuentas aprobadas y
-depositadas: **pendiente**.
+### PyG 2025 (resumen)
+
+Fuente: F2, pegada por Jaime el 2026-11-01; copia en
+`sociedades/scm/pyg-2025.md`. Sumas comprobadas. **No consta** si es la de
+las cuentas aprobadas y depositadas.
+
+| Partida | Importe (€) | % s/ cifra de negocios |
+|---|---:|---:|
+| Cifra de negocios | 1.086.230,60 | 100,0 % |
+| — Ventas | 1.059.037,34 | 97,5 % |
+| — Prestaciones de servicios | 27.193,26 | 2,5 % |
+| Aprovisionamientos | -289.180,41 | 26,6 % |
+| Otros ingresos de explotación | 23.888,37 | 2,2 % |
+| Gastos de personal (sueldos 479.274,87; cargas sociales 99.597,37) | -578.872,24 | 53,3 % |
+| Otros gastos de explotación (servicios exteriores 225.701,33) | -228.784,93 | 21,1 % |
+| Amortización | -8.945,21 | 0,8 % |
+| Enajenaciones de inmovilizado y otros resultados | -182,73 | 0,0 % |
+| **Resultado de explotación** | **4.153,45** | 0,4 % |
+| Ingresos financieros (todos de empresas del grupo y asociadas) | 574,21 | |
+| Gastos financieros (deudas con terceros) | -724,84 | |
+| **Resultado financiero** | **-150,63** | |
+| **Resultado antes de impuestos** | **4.002,82** | |
+| Impuesto sobre Sociedades (tipo efectivo ≈ 23,6 %) | -942,68 | |
+| **Resultado del ejercicio** | **3.060,14** | 0,3 % |
+
+Los 574,21 € de ingresos financieros son «de valores negociables y de
+créditos del activo inmovilizado — de empresas del grupo y asociadas»: SCM
+tiene, o tuvo en 2025, un crédito con alguna empresa del grupo o asociada.
+Cuál, y si sigue vivo: **pendiente**. Ver `grupo/operacion-holding-scm.md`.
+
+Confirmar que el balance y la PyG de 2025 son los de las cuentas aprobadas
+y depositadas: **pendiente**.
 
 ## Órgano de administración
 
@@ -190,8 +222,8 @@ Fecha de nombramiento y duración del cargo: **pendiente**.
 | Campo | Valor | Fuente | Fecha |
 |---|---|---|---|
 | Plantilla | ~14 personas, socios incluidos (**aprox.**) | F1 | 2026-11-01 |
-| Facturación | ~1.200.000 € (**aprox.**) | F1 | 2026-11-01 |
-| Ejercicio de la facturación | 2025 («el año pasado», dicho en noviembre de 2026) | F1 | 2026-11-01 |
+| Facturación (cifra de negocios) | **1.086.230,60 €** (PyG 2025). Corrige los «unos 1.200.000 €» de F1: discrepancia de ≈ 114.000 € (≈ 9,5 %) | F2 | 2026-11-01 |
+| Ejercicio de la facturación | 2025 | F2 | 2026-11-01 |
 
 ## Participaciones en otras sociedades
 
@@ -211,3 +243,4 @@ Fecha de nombramiento y duración del cargo: **pendiente**.
 - 2026-11-01 — Jaime: no hay pacto de socios (F1).
 - 2026-11-01 — Añadido el activo del balance 2025 (F2): total 481.485,56 €, tesorería 273.402,38 € (56,8 %).
 - 2026-11-01 — Añadido el patrimonio neto y pasivo de 2025 (F2): fondos propios 339.191,68 €, resultado 2025 3.060,14 €; observaciones para el gestor.
+- 2026-11-01 — PyG 2025 (F2): cifra de negocios 1.086.230,60 € (corrige ~1,2 M€ de F1), resultado 3.060,14 €; ingresos financieros de empresas del grupo (crédito por identificar).
