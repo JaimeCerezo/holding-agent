@@ -90,6 +90,30 @@ Todo F1, 2026-11-01, salvo que se indique. Detalle en las fichas.
       de SCM son gananciales, puede hacer falta el consentimiento del
       cónyuge.
 
+Estado civil (F1, 2026-11-01, sin verificar):
+
+| Socio | Estado civil | Cuándo / dónde | ¿Antes de suscribir SCM (enero 2007)? |
+|---|---|---|---|
+| Jaime Cerezo | Casado | Antes de 2007, en Cataluña | Sí |
+| David Oset o Alejandro Galisteo | No casado | — | — |
+| El otro de los dos | Casado | Hace poco, en Cataluña | No (después de 2007) |
+
+Cuál de los dos, David o Alejandro, es el casado: **pendiente** (Jaime no lo
+ha dicho).
+
+> **Nota (dictada por Jaime a Aris, F1, 2026-11-01; la confirma el
+> abogado)**: el régimen económico no lo determina el lugar de la boda,
+> sino la vecindad civil de los cónyuges al casarse. Si ambos tienen la
+> vecindad civil catalana y no hay capitulaciones, rige la separación de
+> bienes y el cónyuge no tiene que intervenir en la aportación.
+> Quien se casó después de 2007 tiene sus participaciones de SCM como
+> privativas en cualquier régimen. **El único caso que el abogado debe
+> confirmar es el de Jaime.**
+
+- [ ] Vecindad civil de Jaime y de su cónyuge al casarse.
+- [ ] Que Jaime no tiene capitulaciones matrimoniales.
+
 ## Historial
 
 - 2026-11-01 — Fichero creado con el dictado de Jaime (F1).
+- 2026-11-01 — Añadido estado civil de los socios y nota sobre el régimen económico (F1).
