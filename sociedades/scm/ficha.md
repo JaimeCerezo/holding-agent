@@ -15,8 +15,8 @@ dato todavía · **sin confirmar** = dato sin fuente documental.
 | Razón social | SCM Logística y Trazabilidad S.L. | F1 | 2026-11-01 |
 | Nombre corto | SCM | F1 | 2026-11-01 |
 | Forma jurídica | Sociedad limitada (por la razón social) | F1 | 2026-11-01 |
-| CIF | **pendiente** | — | — |
-| Domicilio social exacto | **pendiente** | — | — |
+| CIF | B64405590 | F1 | 2026-11-01 |
+| Domicilio social | Ronda Maiols, 1, Local 425, 08192 Sant Quirze del Vallès (Barcelona). Jaime lo dio como «el domicilio»: **sin confirmar** que coincida con el registral | F1 | 2026-11-01 |
 | Sede / base | Sant Quirze del Vallès (Barcelona) | F1 | 2026-11-01 |
 | Fecha de constitución | **pendiente** | — | — |
 | Estado | Activa | F1 | 2026-11-01 |
@@ -49,7 +49,7 @@ Fecha de nombramiento y duración del cargo: **pendiente**.
 |---|---|---|---|
 | Plantilla | ~14 personas, socios incluidos (**aprox.**) | F1 | 2026-11-01 |
 | Facturación | ~1.200.000 € (**aprox.**) | F1 | 2026-11-01 |
-| Ejercicio de la facturación | **pendiente** (Jaime no lo dijo) | — | — |
+| Ejercicio de la facturación | 2025 («el año pasado», dicho en noviembre de 2026) | F1 | 2026-11-01 |
 
 ## Participaciones en otras sociedades
 
@@ -58,3 +58,4 @@ Fecha de nombramiento y duración del cargo: **pendiente**.
 ## Historial
 
 - 2026-11-01 — Ficha creada con el dictado de Jaime (F1).
+- 2026-11-01 — Añadidos CIF, domicilio y ejercicio de la facturación (2025), mismo dictado (F1).
