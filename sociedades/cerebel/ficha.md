@@ -23,8 +23,12 @@ dato todavía · **sin confirmar** = dato sin fuente documental.
 ## Actividad
 
 Según Jaime: emite facturas mensuales, por «servicios de dirección, gestión
-y administración», a las sociedades en las que tiene participaciones: SCM,
-Fluxia y Dideso, con un importe distinto para cada una. — F1, 2026-11-01.
+y administración», a SCM, Fluxia y Dideso, con un importe distinto para
+cada una. — F1, 2026-11-01.
+Jaime lo describió al principio como facturar «a las sociedades en las que
+tiene participaciones», pero eso es inexacto: SCM es cliente, no
+participada (aclarado por Jaime, F1, 2026-11-01). En Fluxia y Dideso está
+**pendiente** si Cerebel participa en ellas o solo les factura.
 Objeto social según estatutos y CNAE: **pendiente**.
 
 ## Socios
@@ -48,19 +52,11 @@ Administrador único: Jaime Cerezo. — F1, 2026-11-01.
 
 | Sociedad | Factura mensual de Cerebel | Participación de Cerebel | Fuente | Fecha |
 |---|---|---|---|---|
-| SCM (`sociedades/scm/`) | Sí; importe **pendiente** | **Pendiente de confirmar con Jaime** (ver abajo) | F1 | 2026-11-01 |
-| Fluxia (sin ficha) | Sí; importe **pendiente** | **Pendiente** | F1 | 2026-11-01 |
-| Dideso (sin ficha) | Sí; importe **pendiente** | **Pendiente** | F1 | 2026-11-01 |
-
-### Pendiente de confirmar con Jaime: ¿Cerebel participa en SCM?
-
-Jaime dijo que Cerebel factura «a las sociedades de las que tiene
-participaciones», y SCM es una de ellas. Pero de SCM dictó que los socios
-son tres personas físicas (Jaime Cerezo, David Oset y Alejandro Galisteo,
-33,33 % cada uno). No se sabe si el 33,33 % de Jaime en SCM lo tiene él a
-título personal o a través de Cerebel. **No resuelto**: la ficha de SCM se
-mantiene tal como se dictó hasta que Jaime lo aclare.
+| SCM (`sociedades/scm/`) | Sí; importe **pendiente** | **Ninguna** (el 33,33 % de Jaime en SCM es a título personal) | F1 | 2026-11-01 |
+| Fluxia (sin ficha) | Sí; importe **pendiente** | **Pendiente** si participa o solo factura | F1 | 2026-11-01 |
+| Dideso (sin ficha) | Sí; importe **pendiente** | **Pendiente** si participa o solo factura | F1 | 2026-11-01 |
 
 ## Historial
 
 - 2026-11-01 — Ficha creada con el dictado de Jaime (F1).
+- 2026-11-01 — Jaime aclara que Cerebel no participa en SCM (solo le factura). Corregida la descripción de la actividad y quitada la duda (F1).

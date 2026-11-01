@@ -31,17 +31,12 @@ Objeto social según estatutos y CNAE: **pendiente**.
 
 | Socio | Tipo | Participación | Fuente | Fecha |
 |---|---|---|---|---|
-| Jaime Cerezo | Persona física | 33,33 % | F1 | 2026-11-01 |
+| Jaime Cerezo | Persona física, a título personal (no vía Cerebel) | 33,33 % | F1 | 2026-11-01 |
 | David Oset | Persona física | 33,33 % | F1 | 2026-11-01 |
 | Alejandro Galisteo («Alex Galisteo») | Persona física | 33,33 % | F1 | 2026-11-01 |
 
 Capital social: 3.006 € — F1, 2026-11-01.
 Número de participaciones y valor nominal: **pendiente**.
-
-> **Pendiente de confirmar con Jaime**: no se sabe si el 33,33 % de Jaime
-> Cerezo lo tiene a título personal o a través de Cerebel Gestión S.L.U.
-> Se mantiene lo dictado hasta que lo aclare. Ver
-> `sociedades/cerebel/ficha.md` y `grupo/estructura.md`.
 
 ## Órgano de administración
 
@@ -67,3 +62,4 @@ Fecha de nombramiento y duración del cargo: **pendiente**.
 - 2026-11-01 — Añadidos CIF, domicilio y ejercicio de la facturación (2025), mismo dictado (F1).
 - 2026-11-01 — Añadidos fecha de constitución (enero de 2007) y capital social (3.006 €), mismo dictado (F1).
 - 2026-11-01 — Añadida nota de referencia a la duda sobre la participación de Jaime (personal o vía Cerebel). Sin cambios en los datos.
+- 2026-11-01 — Jaime confirma que su 33,33 % es a título personal: Cerebel no participa en SCM, solo le factura servicios. Quitada la nota de la duda (F1).
