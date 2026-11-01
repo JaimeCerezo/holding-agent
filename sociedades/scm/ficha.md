@@ -60,4 +60,4 @@ Fecha de nombramiento y duración del cargo: **pendiente**.
 
 - 2026-11-01 — Ficha creada con el dictado de Jaime (F1).
 - 2026-11-01 — Añadidos CIF, domicilio y ejercicio de la facturación (2025), mismo dictado (F1).
-- 2026-11-01 — Añadidos fecha de constitución (enero de 2007) y capital social (3.006 €), mismo dictado (F1). Jaime está buscando la nota simple del Registro Mercantil para verificar.
+- 2026-11-01 — Añadidos fecha de constitución (enero de 2007) y capital social (3.006 €), mismo dictado (F1).
