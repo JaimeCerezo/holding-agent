@@ -72,8 +72,11 @@ Todo F1, 2026-11-01, salvo que se indique. Detalle en las fichas.
   Participa en Fluxia (20 %).
 
 **Volna Moria** (`sociedades/volna/ficha.md`)
-- CIF B21854500; S.L.U., socio y administrador único Alejandro Galisteo;
-  capital 3.000 €; constituida en mayo de 2025.
+- CIF B21854500; Volna Moria, S.L., unipersonal; socio y administrador
+  único Alejandro Galisteo (cargo gratuito, F2); capital 3.000 € en 3.000
+  participaciones de 1 € (F2); inicio de operaciones 16-04-2025 (F2).
+- CNAE principal 74.99 (no 70.20, que es secundario); el objeto social no
+  incluye tenencia de participaciones (F2, ver hallazgos).
 - Factura servicios de dirección, gestión y administración a SCM y Fluxia.
   Participa en Fluxia (20 %).
 
@@ -92,13 +95,21 @@ Todo F1, 2026-11-01, salvo que se indique. Detalle en las fichas.
       `sociedades/daosme/estatutos.md`). **Mismo modelo que los de
       Cerebel**, verificado con un diff literal: solo cambian denominación,
       inicio de operaciones (16-04-2025) y domicilio.
-- [ ] Estatutos de **Volna**. Previsiblemente del mismo modelo (constituida
-      a la vez y con CIF correlativo), pero **no verificado**.
+- [x] Estatutos de **Volna**: recibidos 2026-11-01 (F2, texto literal;
+      `sociedades/volna/estatutos.md`). Mismo modelo que Daosme y Cerebel
+      en los arts. 1 y 3 a 9 (diff literal), **salvo el objeto social**
+      (art. 2): CNAE principal 74.99; sin 68.11; añade 85.59, 74.14, 73.11
+      y 82.99. Inicio de operaciones 16-04-2025, como Daosme.
+
+**Bloque de estatutos: cerrado.** Los tres están recibidos (texto literal,
+falta cotejo con la escritura) y en los tres falta la tenencia de
+participaciones.
 - [ ] Escritura de constitución de las tres.
-- [ ] Número y valor nominal de las participaciones de Volna (Cerebel y
-      Daosme: 3.000 de 1 €, numeradas 1–3.000, F2).
 - [ ] Cuentas o balance del ejercicio 2025.
 - [ ] Empleados y medios propios.
+
+Participaciones de las tres: 3.000 de 1 € cada una, numeradas de la 1 a
+la 3.000 (F2).
 
 #### Hallazgos en los estatutos de Cerebel (F2, 2026-11-01)
 
@@ -106,6 +117,12 @@ Todo F1, 2026-11-01, salvo que se indique. Detalle en las fichas.
 literal): mismo objeto social sin tenencia de participaciones (hoy tiene el
 20 % de Fluxia) y mismo cargo de administrador gratuito (que el abogado lo
 tenga en cuenta si David va a cobrar de Daosme).
+
+**Y a Volna**, con su propio objeto social: tampoco incluye la tenencia de
+participaciones (el 82.99, «otras actividades de apoyo a las empresas», no
+lo cubre; hoy tiene el 20 % de Fluxia), y su cargo de administrador también
+es gratuito (que el abogado lo tenga en cuenta si Alex va a cobrar de
+Volna).
 
 - **El objeto social no incluye la tenencia y gestión de participaciones**:
   no aparece el CNAE 64.20 ni una cláusula equivalente. CNAE principal
@@ -117,6 +134,10 @@ tenga en cuenta si David va a cobrar de Daosme).
   con «adquisición, tenencia, gestión y enajenación de participaciones» o
   el CNAE 64.20. Haría falta por la propia operación y para defender el
   motivo económico.
+- **Sugerencia para el abogado**: incluir la ampliación del objeto social
+  de las tres (Cerebel, Daosme y Volna) en la misma operación.
+- Si se cambia el CNAE principal para defender la condición de holding,
+  **Volna parte de 74.99**, no de 70.20 como Cerebel y Daosme.
 - **Cargo de administrador gratuito** (art. 7). Que el abogado lo tenga en
   cuenta si Jaime va a cobrar de Cerebel.
 
@@ -147,3 +168,4 @@ privativas y el cónyuge no interviene en la aportación.
 - 2026-11-01 — Jaime: vecindad civil catalana al casarse; el estado civil queda cerrado; quitado el pendiente de cuál de David o Alejandro es el casado. Única comprobación: capitulaciones de Jaime (F1).
 - 2026-11-01 — Recibidos los estatutos de Cerebel (F2): hallazgos sobre objeto social y cargo gratuito.
 - 2026-11-01 — Recibidos los estatutos de Daosme (F2): mismo modelo que Cerebel; los hallazgos se extienden a Daosme.
+- 2026-11-01 — Recibidos los estatutos de Volna (F2): mismo modelo salvo el objeto social (CNAE principal 74.99). Cerrado el bloque de estatutos; sugerencia de ampliar el objeto social de las tres en la misma operación.

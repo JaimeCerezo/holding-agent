@@ -32,7 +32,7 @@ Objeto social según estatutos y CNAE: **pendiente**.
 |---|---|---|---|---|
 | Cerebel Gestión, S.L. (gestión de Jaime Cerezo) | Sociedad (`sociedades/cerebel/`) | 20 % | F1 | 2026-11-01 |
 | Daosme Gestión, S.L. (gestión de David Oset) | Sociedad (`sociedades/daosme/`) | 20 % | F1 | 2026-11-01 |
-| Volna Moria S.L.U. (gestión de Alex Galisteo) | Sociedad (`sociedades/volna/`) | 20 % | F1 | 2026-11-01 |
+| Volna Moria, S.L. (gestión de Alex Galisteo) | Sociedad (`sociedades/volna/`) | 20 % | F1 | 2026-11-01 |
 | Michel Guerrero | Persona física | 20 % | F1 | 2026-11-01 |
 | Jordi Felip | Persona física | 10 % | F1 | 2026-11-01 |
 | Diego Gil | Persona física | 10 % | F1 | 2026-11-01 |

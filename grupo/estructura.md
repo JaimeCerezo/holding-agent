@@ -14,7 +14,7 @@ Jaime Cerezo (PF)          100 % ───> Cerebel Gestión, S.L.             [
 
 David Oset (PF)            100 % ───> Daosme Gestión, S.L.              [sociedades/daosme/]
 
-Alejandro Galisteo (PF)    100 % ───> Volna Moria S.L.U.                 [sociedades/volna/]
+Alejandro Galisteo (PF)    100 % ───> Volna Moria, S.L.                 [sociedades/volna/]
 
 Cerebel                     20 % ─┐
 Daosme                      20 % ─┤
@@ -127,7 +127,7 @@ Daosme (F1, 2026-11-01).
 | `scm` | SCM Logística y Trazabilidad S.L. | Activa | `sociedades/scm/ficha.md` |
 | `cerebel` | Cerebel Gestión, S.L. | **pendiente** | `sociedades/cerebel/ficha.md` |
 | `daosme` | Daosme Gestión, S.L. | **pendiente** | `sociedades/daosme/ficha.md` |
-| `volna` | Volna Moria S.L.U. | **pendiente** | `sociedades/volna/ficha.md` |
+| `volna` | Volna Moria, S.L. | **pendiente** | `sociedades/volna/ficha.md` |
 | `fluxia` | Fluxia Consulting S.L. | **pendiente** | `sociedades/fluxia/ficha.md` |
 | `dideso` | Dideso Management S.L. | **pendiente** | `sociedades/dideso/ficha.md` |
 | `scs-asset` | SCS Asset Advisors S.L. | no relevante (Jaime, 2026-11-01) | `sociedades/scs-asset/ficha.md` |
