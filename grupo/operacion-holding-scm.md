@@ -371,3 +371,4 @@ privativas y el cónyuge no interviene en la aportación.
 - 2026-11-01 — PyG 2025 de SCM (F2): pregunta 3 respondida en parte, crédito con empresa del grupo, valoración por rentabilidad; pendientes actualizados.
 - 2026-11-01 — PyG 2026 provisional de SCM (F2): pregunta 2 resuelta por cálculo, desglose de fondos propios corregido, estimación orientativa del neto 2026, nuevas preguntas para el gestor.
 - 2026-11-01 — Jaime: las nóminas de los socios siguen; las facturas de sus sociedades se suman. Descartada la hipótesis; bajada de personal pasa a pregunta para el gestor; punto para el abogado sobre la doble vía de cobro (F1).
+- 2026-11-01 — Dossier resumen para el abogado (borrador para revisión de Jaime): `dossiers/2026-11-01-dossier-abogado-holding-scm.md`. Por indicación de Jaime, sin estructura objetivo ni propuestas: solo datos y preguntas.
