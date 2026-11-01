@@ -18,3 +18,5 @@ cuentas anuales 2025.
 - Confirmar si los datos de 2025 son los de las cuentas anuales aprobadas y
   depositadas.
 - Si puede, origen por ejercicios de las reservas de SCM (333.071,54 €).
+- Retribución de los administradores: dónde está contabilizada, desde cuándo
+  se cobra y con qué acuerdo de junta o modificación estatutaria.

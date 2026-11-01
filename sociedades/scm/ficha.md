@@ -38,6 +38,11 @@ dato todavía · **sin confirmar** = dato sin fuente documental.
 
 Desarrollo de un software de gestión de almacén (SGA) y consultoría
 logística en el ámbito del almacén. — F1, 2026-11-01.
+**Venta de equipos**, además de programas. — F1, 2026-11-01. Explica el
+consumo de mercaderías (246.439,15 € en 2025) y que el 97,5 % de la cifra de
+negocios de 2025 figure como ventas.
+
+Observación, sin conclusión: el objeto social de la versión de 2007 solo menciona la «venta de programas», no la de equipos ni la consultoría logística. Falta confirmar si se amplió en una modificación posterior; se verá con el texto vigente o la nota del Registro.
 
 ### Objeto social (art. 2, F2)
 
@@ -341,3 +346,4 @@ administradores, nómina (F1) y, desde 2026, las facturas de sus sociedades
 - 2026-11-01 — Jaime: las nóminas de los socios siguen y las facturas de sus sociedades se suman; bajada de personal 2026 sin explicar (F1).
 - 2026-11-01 — Estatutos completos (F2): objeto social (sin CNAE, sin consultoría logística ni tenencia de participaciones), inicio de operaciones 01-01-2007, ejercicio, domicilio estatutario C/ Barcelona 26 (discrepa de Ronda Maiols), capital confirmado, régimen de transmisión (art. 9, matiza lo dicho por Jaime) y cargo de administrador gratuito (art. 19).
 - 2026-11-01 — Jaime (F1): los estatutos son la versión original de 2007, no vigente. Cargo de administrador **remunerado** por modificación posterior (art. 19 «gratuito» ya no vigente); domicilio vigente Ronda Maiols 1 (C/ Barcelona 26 era el de 2007): quitada la discrepancia. Resto de artículos pendiente de confirmar vigencia.
+- 2026-11-01 — Jaime (F1): SCM también vende equipos; observación sobre el objeto social de 2007 (solo «venta de programas»).

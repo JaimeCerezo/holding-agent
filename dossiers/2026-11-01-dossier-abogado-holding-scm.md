@@ -48,7 +48,7 @@ Resto de socios: Fluxia (Michel Guerrero 20 %, Jordi Felip 10 %, Diego Gil
 | Socios | Los tres, 102 participaciones cada uno | Jaime Cerezo, 100 % ¹ | David Oset, 100 % ¹ | Alejandro Galisteo, 100 % ¹ |
 | Administración | Tres administradores solidarios (los tres socios) ¹; cargo **remunerado** (modificación estatutaria posterior a 2007, según Jaime; texto no visto) | Administrador único, Jaime Cerezo ¹; cargo **gratuito** (art. 7) | Administrador único, David Oset ¹; cargo **gratuito** (art. 7) | Administrador único, Alejandro Galisteo ¹; cargo **gratuito** (art. 7) |
 | CNAE principal / objeto | Sin CNAE en estatutos. Objeto (art. 2, versión de 2007 ⁴): estudio y análisis de procesos, programación, registro y proceso de datos por cuenta de terceros y venta de programas | 70.20 | 70.20 | 74.99 (70.20 como secundario) |
-| Actividad | Software de gestión de almacén (SGA) y consultoría logística ¹ (el objeto social no menciona la consultoría logística) | Servicios de dirección, gestión y administración ¹ | Ídem ¹ | Ídem ¹ |
+| Actividad | Software de gestión de almacén (SGA), venta de equipos y consultoría logística ¹. El objeto de la versión de 2007 solo menciona la «venta de programas» ⁴ | Servicios de dirección, gestión y administración ¹ | Ídem ¹ | Ídem ¹ |
 | Tenencia de participaciones en el objeto social | **No**, en la versión de 2007 ⁴ (el art. 18 b) faculta a los administradores a operar con participaciones; es facultad, no objeto) | **No** (ni CNAE 64.20 ni cláusula equivalente) | **No** | **No** |
 | Otras participaciones | Sin datos | Fluxia 20 % · Dideso 50 % ¹ | Fluxia 20 % ¹ | Fluxia 20 % ¹ |
 | Actividad en 2025 | Plena (ver apartado 5) | Nula o casi nula ¹ | Nula ¹ | Nula ¹ |
@@ -218,9 +218,11 @@ no tuvieron actividad, o casi.
    siendo los tres socios transmitentes? Los acuerdos de junta son por
    mayoría legal (art. 12). Nota menor: los estatutos citan normas derogadas
    (LSRL, art. 141.2 LSA).
-9. **Estado civil (caso cerrado)**: según Jaime, en los tres casos las
-   participaciones de SCM son privativas y el cónyuge no interviene. Queda
-   solo confirmar que Jaime no tiene capitulaciones.
+9. **Objeto social de SCM**: la versión de 2007 no recoge la venta de equipos
+   ni la consultoría; ¿se amplió después?
+10. **Estado civil (caso cerrado)**: según Jaime, en los tres casos las
+    participaciones de SCM son privativas y el cónyuge no interviene. Queda
+    solo confirmar que Jaime no tiene capitulaciones.
 
 ## 8. Documentación disponible y pendiente
 

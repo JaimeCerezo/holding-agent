@@ -63,6 +63,8 @@ Todo F1, 2026-11-01, salvo que se indique. Detalle en las fichas.
   2007, no vigente** (Jaime, F1). Según esa versión: inicio de operaciones
   01-01-2007; objeto social sin CNAE, sin consultoría logística ni tenencia
   de participaciones. Vigencia del objeto y del resto: pendiente.
+- Actividad: SGA, **venta de equipos** (Jaime, F1, 2026-11-01) y
+  consultoría logística. Observación, sin conclusión: el objeto social de la versión de 2007 solo menciona la «venta de programas», no la de equipos ni la consultoría logística. Falta confirmar si se amplió en una modificación posterior; se verá con el texto vigente o la nota del Registro.
 - **Cargo de administrador remunerado** (Jaime, F1): modificación
   estatutaria posterior a 2007, no vista; el art. 19 original decía
   «gratuito». Desde cuándo y cómo se fija: pendiente.
@@ -397,3 +399,4 @@ privativas y el cónyuge no interviene en la aportación.
 - 2026-11-01 — Dossier resumen para el abogado (borrador para revisión de Jaime): `dossiers/2026-11-01-dossier-abogado-holding-scm.md`. Por indicación de Jaime, sin estructura objetivo ni propuestas: solo datos y preguntas.
 - 2026-11-01 — Estatutos de SCM recibidos (F2): régimen de transmisión (art. 9) y punto de la junta, cargo de administrador gratuito (art. 19) en la doble vía, discrepancia de domicilio.
 - 2026-11-01 — Jaime (F1): los estatutos de SCM son la versión de 2007, no vigente; cargo de administrador remunerado (triple vía de cobro); domicilio vigente Ronda Maiols, sin discrepancia; texto vigente pendiente.
+- 2026-11-01 — Jaime (F1): SCM vende también equipos; observación sobre el objeto social de 2007 frente a la actividad real.
