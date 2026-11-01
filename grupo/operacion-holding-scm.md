@@ -113,6 +113,35 @@ contables.
 las reservas antes o después de la aportación cambia el valor aportado y su
 tratamiento fiscal.
 
+## Composición del activo de SCM (F2, balance provisional a 01-11-2026)
+
+Total activo 623.628,95 € (cuadra con patrimonio neto y pasivo). Tesorería
+440.024,79 € (**70,6 %**); clientes 136.286,68 €; inmovilizado material
+10.370,80 €; activos por impuesto diferido 15.212,40 €; inversiones
+financieras a largo plazo 3.453,70 €. Detalle en
+`sociedades/scm/ficha.md`.
+
+**Punto para el abogado — ¿SCM es entidad patrimonial?** (observación
+nuestra, no una conclusión)
+- La tesorería es el 70,6 % del activo.
+- Para el régimen de aportación no dineraria, la entidad cuyas
+  participaciones se aportan no debe ser patrimonial: que más de la mitad
+  de su activo no esté afecto a una actividad económica.
+- La LIS (art. 5.2) no computa como no afectos los elementos cuyo precio de
+  adquisición no supere los beneficios no distribuidos procedentes de
+  actividades económicas del año y de los 10 anteriores.
+- Aquí la tesorería (≈ 440.025 €) es menor que reservas más resultado
+  (≈ 547.704 €). A primera vista juega a favor, pero lo debe confirmar el
+  abogado. Datos que puede necesitar para ello: de qué ejercicios proceden
+  las reservas (SCM existe desde 2007, así que parte podría ser de hace más
+  de 10 años) y el resultado de 2026 después de impuestos (el del balance es
+  provisional).
+
+**Punto para el abogado — tesorería y dividendos**: la tesorería acumulada y
+el posible reparto de dividendos a las holdings (exención del art. 21 LIS,
+con participación ≥ 5 %) suele ser parte del motivo económico de este tipo
+de operaciones. Que valore cómo encaja.
+
 ## Lo que falta
 
 ### De SCM
@@ -122,10 +151,8 @@ tratamiento fiscal.
 - [x] Sin cambios de capital posteriores: **indicio fuerte** (capital del
       balance a 01-11-2026 = capital de la constitución). No es
       confirmación registral.
-- [x] Patrimonio neto y pasivo a 01-11-2026: recibido (F2, provisional).
-- [ ] **Activo del balance**: hace falta para valorar y para ver la
-      composición de los activos (tesorería frente a actividad), relevante
-      para que aplique el régimen de aportación.
+- [x] Balance completo a 01-11-2026 (activo, patrimonio neto y pasivo):
+      recibido (F2, provisional).
 - [ ] Cuentas anuales 2025 cerradas y depositadas.
 - [ ] Pacto de socios, si existe.
 
@@ -224,3 +251,4 @@ privativas y el cónyuge no interviene en la aportación.
 - 2026-11-01 — Quitados de pendientes los balances 2025 de Cerebel, Daosme y Volna; añadido el contexto de que su facturación empezó en 2026 (F1).
 - 2026-11-01 — Escritura de constitución de SCM (F2): capital 3.060 €, 306 participaciones de 10 €, numeración, valor de adquisición 1.020 €, fondos propios ≈ 353.060 €, nombres completos.
 - 2026-11-01 — Balance provisional de SCM a 01-11-2026 (F2): datos contables de valoración, plusvalía latente, punto de calendario, partidas negativas señaladas y nuevos pendientes (activo, cuentas 2025).
+- 2026-11-01 — Activo de SCM (F2): composición, puntos para el abogado sobre entidad patrimonial (art. 5.2 LIS) y dividendos (art. 21 LIS); quitado el activo de pendientes.

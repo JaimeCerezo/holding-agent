@@ -79,11 +79,29 @@ una valoración técnica; el método y la fecha los decide el abogado. Ver
 
 ## Datos económicos
 
-### Balance provisional a 01-11-2026 (patrimonio neto y pasivo)
+### Balance provisional a 01-11-2026
 
 Fuente: F2, balance de situación pegado por Jaime el 2026-11-01; copia en
 `sociedades/scm/balance-provisional-2026-11-01.md`. **Extracto del
-ejercicio en curso, no son cuentas anuales cerradas.** Falta el activo.
+ejercicio en curso, no son cuentas anuales cerradas.** Balance completo:
+el total del activo cuadra con el de patrimonio neto y pasivo.
+
+**Activo**
+
+| Partida | Importe (€) | % del activo |
+|---|---:|---:|
+| Inmovilizado material | 10.370,80 | 1,7 % |
+| Inversiones financieras a largo plazo | 3.453,70 | 0,6 % |
+| Activos por impuesto diferido | 15.212,40 | 2,4 % |
+| **Activo no corriente** | **29.036,90** | 4,7 % |
+| Clientes | 136.286,68 | 21,9 % |
+| Activos por impuesto corriente y otros créditos con las AAPP | 8.679,92 | 1,4 % |
+| Periodificaciones a corto plazo | 9.600,66 | 1,5 % |
+| Tesorería | 440.024,79 | **70,6 %** |
+| **Activo corriente** | **594.592,05** | 95,3 % |
+| **Total activo** | **623.628,95** | 100 % |
+
+**Patrimonio neto y pasivo**
 
 | Partida | Importe (€) |
 |---|---:|
@@ -102,8 +120,7 @@ plazo (-8.704,83 €), 2. Deuda con entidades de crédito (-1.006,63 €),
 5. Otros pasivos financieros (-7.698,20 €) y 4. Personal (remuneraciones
 pendientes de pago) (-30.588,99 €).
 
-Cuentas anuales 2025 cerradas y depositadas: **pendiente**. Activo del
-balance: **pendiente**.
+Cuentas anuales 2025 cerradas y depositadas: **pendiente**.
 
 ## Órgano de administración
 
@@ -133,3 +150,4 @@ Fecha de nombramiento y duración del cargo: **pendiente**.
 - 2026-11-01 — Añadidos origen y valor de adquisición de las participaciones, que los estatutos no limitan la transmisión y la valoración aproximada de Jaime (~350.000 €, reservas). Relacionado con `grupo/operacion-holding-scm.md` (F1).
 - 2026-11-01 — Fragmento de la escritura de constitución (F2): capital 3.060 € (no 3.006 €), 306 participaciones de 10 €, numeración por socio, valor de adquisición 1.020 € y nombres completos de los socios.
 - 2026-11-01 — Balance provisional a 01-11-2026 (F2): reservas 333.071,54 € (precisa los ~350.000 € de F1), fondos propios 550.764,43 €; capital 3.060 € coincide con la constitución (indicio fuerte de que no hubo cambios).
+- 2026-11-01 — Añadido el activo del balance provisional (F2): total 623.628,95 €, tesorería 440.024,79 € (70,6 %).
