@@ -35,21 +35,27 @@ través de Cerebel (aclarado por Jaime, F1, 2026-11-01).
 | Cerebel | SCM | **Ninguna** | F1 | 2026-11-01 |
 | Cerebel | Fluxia | **Pendiente** (si participa o solo factura) | — | — |
 | Cerebel | Dideso | **Pendiente** (si participa o solo factura) | — | — |
-| Daosme | SCM, Cerebel, Fluxia, Dideso | **Pendiente** (no dicho) | — | — |
+| Daosme | SCM | **Ninguna** (los socios de SCM son las tres PF) | F1 | 2026-11-01 |
+| Daosme | Fluxia | **Pendiente** (no dicho) | — | — |
+| Daosme | Dideso | **Ninguna** (sin ninguna relación con Dideso) | F1 | 2026-11-01 |
 
 ## Facturación entre sociedades (2026-11-01)
 
-Cerebel factura mensualmente «servicios de dirección, gestión y
-administración», con importe distinto para cada una (F1, 2026-11-01):
+Cerebel (sociedad de gestión de Jaime) y Daosme (la de David Oset)
+facturan «servicios de dirección, gestión y administración» (F1,
+2026-11-01). Cerebel lo hace mensualmente y con importe distinto para cada
+una; de Daosme no se ha dicho periodicidad ni importes.
 
-| De | A | Importe mensual |
-|---|---|---|
-| Cerebel | SCM | **pendiente** |
-| Cerebel | Fluxia | **pendiente** |
-| Cerebel | Dideso | **pendiente** |
+| De | A | Periodicidad | Importe |
+|---|---|---|---|
+| Cerebel | SCM | Mensual | **pendiente** |
+| Cerebel | Fluxia | Mensual | **pendiente** |
+| Cerebel | Dideso | Mensual | **pendiente** |
+| Daosme | SCM | **pendiente** | **pendiente** |
+| Daosme | Fluxia | **pendiente** | **pendiente** |
 
-Daosme: si factura o recibe facturas de otras sociedades del grupo,
-**pendiente** (no dicho).
+Daosme no factura a Dideso: no tiene ninguna relación con ella (F1,
+2026-11-01).
 
 ## Sociedades registradas
 
@@ -62,7 +68,7 @@ Daosme: si factura o recibe facturas de otras sociedades del grupo,
 ## Sociedades nombradas, sin ficha todavía
 
 Jaime las describirá más adelante (F1, 2026-11-01). Solo se sabe que
-Cerebel les factura.
+Cerebel factura a las dos y Daosme solo a Fluxia.
 
 | Nombre | Datos |
 |---|---|
@@ -73,5 +79,5 @@ Cerebel les factura.
 
 - Si Cerebel participa en Fluxia y Dideso, y en qué porcentaje; fichas de ambas.
 - Importes que Cerebel factura a cada sociedad.
-- Actividad de Daosme y sus relaciones (participación o facturación) con las demás.
+- Si Daosme participa en Fluxia; periodicidad e importes de lo que factura Daosme.
 - Si hay más sociedades.
