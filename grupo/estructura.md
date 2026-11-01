@@ -31,18 +31,22 @@ través de Cerebel (aclarado por Jaime, F1, 2026-11-01).
 
 | Persona | Sociedad | Participación | Cargo |
 |---|---|---|---|
-| Jaime Cerezo | SCM | 33,33 % | Administrador solidario |
-| Jaime Cerezo | Cerebel | 100 % (socio único) | Administrador único |
-| David Oset | SCM | 33,33 % | Administrador solidario |
-| David Oset | Daosme | 100 % (socio único) | Administrador único |
-| Alejandro Galisteo | SCM | 33,33 % | Administrador solidario |
-| Alejandro Galisteo | Volna | 100 % (socio único) | Administrador único |
-| Michel Guerrero | Fluxia | 20 % | **pendiente** |
-| Jordi Felip | Fluxia | 10 % | **pendiente** |
-| Diego Gil | Fluxia | 10 % | **pendiente** |
+| Jaime Cerezo | SCM | 33,33 % directa | Administrador solidario |
+| Jaime Cerezo | Cerebel | 100 % directa (socio único) | Administrador único |
+| Jaime Cerezo | Fluxia | 20 % **indirecta**, vía Cerebel | Administrador solidario, a título personal |
+| David Oset | SCM | 33,33 % directa | Administrador solidario |
+| David Oset | Daosme | 100 % directa (socio único) | Administrador único |
+| David Oset | Fluxia | 20 % **indirecta**, vía Daosme | Administrador solidario, a título personal |
+| Alejandro Galisteo | SCM | 33,33 % directa | Administrador solidario |
+| Alejandro Galisteo | Volna | 100 % directa (socio único) | Administrador único |
+| Alejandro Galisteo | Fluxia | 20 % **indirecta**, vía Volna | Administrador solidario, a título personal |
+| Michel Guerrero | Fluxia | 20 % directa | Administrador solidario |
+| Jordi Felip | Fluxia | 10 % directa | — (socio, no administrador) |
+| Diego Gil | Fluxia | 10 % directa | — (socio, no administrador) |
 
-Jaime, David y Alex participan además en Fluxia indirectamente, con el 20 %
-cada uno a través de su S.L.U. de gestión (Cerebel, Daosme y Volna).
+En Fluxia, Jaime, David y Alex son administradores a título personal,
+pero su participación la tienen a través de sus S.L.U. de gestión (F1,
+2026-11-01).
 
 ### Participaciones entre sociedades
 
@@ -121,5 +125,5 @@ Cerebel le factura y que Daosme y Volna no tienen ninguna relación con ella.
 - Importes que Cerebel factura a cada sociedad.
 - Periodicidad e importes de lo que facturan Daosme y Volna.
 - Relación de Fluxia con SCM y Dideso.
-- Cargos de los socios en Fluxia (órgano de administración).
+- Capital social de Fluxia y periodo que cubre su facturación de 2025.
 - Si hay más sociedades.

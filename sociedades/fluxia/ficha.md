@@ -15,7 +15,7 @@ dato todavía · **sin confirmar** = dato sin fuente documental.
 | Razón social | Fluxia Consulting S.L. | F1 | 2026-11-01 |
 | Nombre corto | Fluxia | F1 | 2026-11-01 |
 | Forma jurídica | Sociedad limitada (por la razón social) | F1 | 2026-11-01 |
-| CIF | **pendiente** | — | — |
+| CIF | B22466304 | F1 | 2026-11-01 |
 | Domicilio social | C/ Aragó, 15, entresuelo 2.ª, 08015 Barcelona. Dado por Jaime: **sin confirmar** que coincida con el registral | F1 | 2026-11-01 |
 | Fecha de constitución | Octubre de 2025 (día **pendiente**) | F1 | 2026-11-01 |
 | Capital social | **pendiente** | — | — |
@@ -42,7 +42,12 @@ Número de participaciones y valor nominal: **pendiente**.
 
 ## Órgano de administración
 
-**Pendiente**.
+Administradores solidarios, cuatro personas físicas: Michel Guerrero, David
+Oset, Alex Galisteo y Jaime Cerezo. — F1, 2026-11-01.
+Jaime, David y Alex son administradores **a título personal**, aunque su
+participación la tienen a través de Cerebel, Daosme y Volna. Jordi Felip y
+Diego Gil son socios, no administradores.
+Fecha de nombramiento y duración del cargo: **pendiente**.
 
 ## Magnitudes
 
@@ -50,7 +55,7 @@ Número de participaciones y valor nominal: **pendiente**.
 |---|---|---|---|
 | Plantilla | **pendiente** | — | — |
 | Facturación | ~50.000 € (**aprox.**) | F1 | 2026-11-01 |
-| Ejercicio de la facturación | 2025 («el año pasado», dicho en noviembre de 2026) | F1 | 2026-11-01 |
+| Ejercicio de la facturación | 2025 («el año pasado», dicho en noviembre de 2026); periodo que cubre **pendiente** (ver observación) | F1 | 2026-11-01 |
 
 > **Observación, sin corregir nada**: con constitución en octubre de 2025,
 > la facturación de 2025 cubriría solo unos tres meses. Puede ser correcto,
@@ -68,3 +73,4 @@ Número de participaciones y valor nominal: **pendiente**.
 ## Historial
 
 - 2026-11-01 — Ficha creada con el dictado de Jaime (F1).
+- 2026-11-01 — Añadidos CIF y órgano de administración (cuatro administradores solidarios) (F1).
