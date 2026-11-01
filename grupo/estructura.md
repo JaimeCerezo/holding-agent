@@ -134,6 +134,13 @@ Daosme (F1, 2026-11-01).
 
 No queda ninguna sociedad nombrada sin ficha (2026-11-01).
 
+## Operaciones en estudio
+
+- Aportación del 33,33 % de cada socio de SCM a su sociedad personal
+  (Cerebel, Daosme, Volna), que pasarían a ser holdings: ver
+  `grupo/operacion-holding-scm.md`. En estudio por un abogado de Jaime
+  (F1, 2026-11-01); la estructura de arriba es la actual.
+
 ## Pendiente
 
 - Importes que Cerebel factura a cada sociedad.

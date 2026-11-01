@@ -36,7 +36,33 @@ Objeto social según estatutos y CNAE: **pendiente**.
 | Alejandro Galisteo («Alex Galisteo») | Persona física | 33,33 % | F1 | 2026-11-01 |
 
 Capital social: 3.006 € — F1, 2026-11-01.
-Número de participaciones y valor nominal: **pendiente**.
+Número de participaciones, valor nominal y **numeración** de las de cada
+socio: **pendiente**.
+
+### Origen y valor de adquisición de las participaciones
+
+| Socio | Origen | Fecha | Valor de adquisición | Fuente |
+|---|---|---|---|---|
+| Jaime Cerezo | Suscripción en la constitución (1/3) | Enero de 2007 | 1.002 € (1/3 de 3.006 €; **calculado** a partir del capital) | F1, 2026-11-01 |
+| David Oset | Suscripción en la constitución (1/3) | Enero de 2007 | 1.002 € (ídem) | F1, 2026-11-01 |
+| Alejandro Galisteo | Suscripción en la constitución (1/3) | Enero de 2007 | 1.002 € (ídem) | F1, 2026-11-01 |
+
+Según Jaime, no ha habido compras ni transmisiones posteriores: cada socio
+conserva lo que suscribió. El valor de adquisición es la aportación al
+capital de cada uno. — F1, 2026-11-01.
+
+### Estatutos y pacto de socios
+
+- Los estatutos **no limitan** la transmisión de participaciones (según
+  Jaime, no verificado contra los estatutos). — F1, 2026-11-01.
+- Pacto de socios: si existe, **pendiente**.
+
+### Valoración
+
+~350.000 € (**aprox.**), cifra de Jaime: según él, son las reservas
+actuales. No es una valoración técnica; el método lo decidirá el abogado.
+— F1, 2026-11-01. Balance con fondos propios de las últimas cuentas:
+**pendiente**.
 
 ## Órgano de administración
 
@@ -63,3 +89,4 @@ Fecha de nombramiento y duración del cargo: **pendiente**.
 - 2026-11-01 — Añadidos fecha de constitución (enero de 2007) y capital social (3.006 €), mismo dictado (F1).
 - 2026-11-01 — Añadida nota de referencia a la duda sobre la participación de Jaime (personal o vía Cerebel). Sin cambios en los datos.
 - 2026-11-01 — Jaime confirma que su 33,33 % es a título personal: Cerebel no participa en SCM, solo le factura servicios. Quitada la nota de la duda (F1).
+- 2026-11-01 — Añadidos origen y valor de adquisición de las participaciones, que los estatutos no limitan la transmisión y la valoración aproximada de Jaime (~350.000 €, reservas). Relacionado con `grupo/operacion-holding-scm.md` (F1).
