@@ -100,8 +100,8 @@ Todo F1, 2026-11-01, salvo que se indique. Detalle en las fichas.
   no aparece el CNAE 64.20 ni una cláusula equivalente. CNAE principal
   70.20 (consultoría de gestión empresarial); los secundarios son de
   informática, ferias, comercio TIC e inmobiliario. Esto ya aplica hoy, con
-  el 20 % de Fluxia y el 50 % de Dideso. Salvedad: la copia es una
-  transcripción resumida; conviene confirmarlo contra la escritura.
+  el 20 % de Fluxia y el 50 % de Dideso. Comprobado sobre el texto
+  literal del art. 2 que pegó Jaime; falta cotejarlo con la escritura.
 - **Para el abogado**: valorar si se amplía el objeto social, por ejemplo
   con «adquisición, tenencia, gestión y enajenación de participaciones» o
   el CNAE 64.20. Haría falta por la propia operación y para defender el
