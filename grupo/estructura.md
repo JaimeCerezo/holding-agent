@@ -22,6 +22,12 @@ Volna                       20 % ─┼─> Fluxia Consulting S.L.             [
 Michel Guerrero (PF)        20 % ─┤
 Jordi Felip (PF)            10 % ─┤
 Diego Gil (PF)              10 % ─┘
+
+Sílvia Cerezo (PF)         100 % ───> SCS Asset Advisors S.L.            [sociedades/scs-asset/]
+
+Cerebel                     50 % ─┐
+SCS Asset                   50 % ─┴─> Dideso Management S.L.             [sociedades/dideso/]
+                (50 % de SCS Asset deducido como lo restante, por confirmar)
 ```
 
 PF = persona física. El 33,33 % de Jaime en SCM es a título personal, no a
@@ -43,6 +49,9 @@ través de Cerebel (aclarado por Jaime, F1, 2026-11-01).
 | Michel Guerrero | Fluxia | 20 % directa | Administrador solidario |
 | Jordi Felip | Fluxia | 10 % directa | — (socio, no administrador) |
 | Diego Gil | Fluxia | 10 % directa | — (socio, no administrador) |
+| Jaime Cerezo | Dideso | 50 % **indirecta**, vía Cerebel | — |
+| Sílvia Cerezo | SCS Asset | 100 % directa (socia única) | Administradora única |
+| Sílvia Cerezo | Dideso | 50 % **indirecta**, vía SCS Asset (por confirmar) | Administradora única |
 
 En Fluxia, Jaime, David y Alex son administradores a título personal,
 pero su participación la tienen a través de sus S.L.U. de gestión (F1,
@@ -54,7 +63,7 @@ pero su participación la tienen a través de sus S.L.U. de gestión (F1,
 |---|---|---|---|---|
 | Cerebel | SCM | **Ninguna** | F1 | 2026-11-01 |
 | Cerebel | Fluxia | 20 % | F1 | 2026-11-01 |
-| Cerebel | Dideso | **Pendiente** (si participa o solo factura) | — | — |
+| Cerebel | Dideso | 50 % | F1 | 2026-11-01 |
 | Daosme | SCM | **Ninguna** (los socios de SCM son las tres PF) | F1 | 2026-11-01 |
 | Daosme | Fluxia | 20 % | F1 | 2026-11-01 |
 | Daosme | Dideso | **Ninguna** (sin ninguna relación con Dideso) | F1 | 2026-11-01 |
@@ -62,6 +71,11 @@ pero su participación la tienen a través de sus S.L.U. de gestión (F1,
 | Volna | Fluxia | 20 % | F1 | 2026-11-01 |
 | Volna | Dideso | **Ninguna** (sin ninguna relación con Dideso) | F1 | 2026-11-01 |
 | Volna | Daosme | **Ninguna** (sin ninguna relación con Daosme) | F1 | 2026-11-01 |
+| SCS Asset | Dideso | 50 %, **deducido** como lo restante; por confirmar | F1 | 2026-11-01 |
+| Fluxia | Dideso | **Ninguna** («Fluxia no tiene nada que ver con Dideso») | F1 | 2026-11-01 |
+
+Resumen de Cerebel: participa en Fluxia (20 %) y en Dideso (50 %); a SCM
+solo le factura.
 
 ## Facturación entre sociedades (2026-11-01)
 
@@ -83,7 +97,8 @@ importes.
 
 Fluxia es a la vez **participada y cliente** de Cerebel, Daosme y Volna:
 cada una tiene el 20 % y además le factura servicios de dirección, gestión
-y administración (F1, 2026-11-01).
+y administración (F1, 2026-11-01). Dideso es también participada (50 %) y
+cliente de Cerebel.
 
 Daosme no factura a Dideso: no tiene ninguna relación con ella (F1,
 2026-11-01). Volna tampoco: no tiene ninguna relación con Dideso ni con
@@ -99,6 +114,9 @@ Daosme (F1, 2026-11-01).
 - Fluxia se constituyó en octubre de 2025 y facturó unos 50.000 € en 2025:
   esa facturación cubriría solo unos tres meses. Puede ser correcto;
   conviene confirmarlo con Jaime (anotado el 2026-11-01).
+- Dideso se constituyó hacia agosto de 2025 y facturó unos 60.000 € en 2025:
+  cubriría unos cuatro o cinco meses. Puede ser correcto; conviene
+  confirmarlo con Jaime (anotado el 2026-11-01).
 
 ## Sociedades registradas
 
@@ -109,21 +127,18 @@ Daosme (F1, 2026-11-01).
 | `daosme` | Daosme Gestión S.L.U. | **pendiente** | `sociedades/daosme/ficha.md` |
 | `volna` | Volna Moria S.L.U. | **pendiente** | `sociedades/volna/ficha.md` |
 | `fluxia` | Fluxia Consulting S.L. | **pendiente** | `sociedades/fluxia/ficha.md` |
+| `dideso` | Dideso Management S.L. | **pendiente** | `sociedades/dideso/ficha.md` |
+| `scs-asset` | SCS Asset Advisors S.L. | **pendiente** | `sociedades/scs-asset/ficha.md` |
 
-## Sociedades nombradas, sin ficha todavía
-
-Jaime la describirá más adelante (F1, 2026-11-01). Solo se sabe que
-Cerebel le factura y que Daosme y Volna no tienen ninguna relación con ella.
-
-| Nombre | Datos |
-|---|---|
-| Dideso | **pendiente** |
+No queda ninguna sociedad nombrada sin ficha (2026-11-01).
 
 ## Pendiente
 
-- Si Cerebel participa en Dideso, y en qué porcentaje; ficha de Dideso.
+- Confirmar el 50 % de SCS Asset en Dideso.
 - Importes que Cerebel factura a cada sociedad.
 - Periodicidad e importes de lo que facturan Daosme y Volna.
-- Relación de Fluxia con SCM y Dideso.
+- Relación de Fluxia con SCM; de Dideso y SCS Asset con SCM y con las demás
+  no dichas.
+- Periodo que cubre la facturación de Dideso en 2025.
 - Capital social de Fluxia y periodo que cubre su facturación de 2025.
 - Si hay más sociedades.

@@ -68,9 +68,11 @@ Fecha de nombramiento y duración del cargo: **pendiente**.
 | Cerebel | Socia (20 %) y proveedora: le factura servicios de dirección, gestión y administración (mensual; importe **pendiente**) | F1 | 2026-11-01 |
 | Daosme | Socia (20 %) y proveedora: le factura servicios de dirección, gestión y administración (periodicidad e importe **pendientes**) | F1 | 2026-11-01 |
 | Volna | Socia (20 %) y proveedora: le factura servicios de dirección, gestión y administración (periodicidad e importe **pendientes**) | F1 | 2026-11-01 |
-| SCM, Dideso | **Pendiente** (no dicho) | — | — |
+| Dideso (`sociedades/dideso/`) | Ninguna relación («Fluxia no tiene nada que ver con Dideso») | F1 | 2026-11-01 |
+| SCM | **Pendiente** (no dicho) | — | — |
 
 ## Historial
 
 - 2026-11-01 — Ficha creada con el dictado de Jaime (F1).
 - 2026-11-01 — Añadidos CIF y órgano de administración (cuatro administradores solidarios) (F1).
+- 2026-11-01 — Ninguna relación con Dideso (F1).

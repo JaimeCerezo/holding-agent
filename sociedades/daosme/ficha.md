@@ -51,7 +51,7 @@ Administrador único: David Oset. — F1, 2026-11-01.
 |---|---|---|---|---|
 | SCM (`sociedades/scm/`) | Sí; importe y periodicidad **pendientes** | **Ninguna** (los socios de SCM son las tres personas físicas) | F1 | 2026-11-01 |
 | Fluxia (`sociedades/fluxia/`) | Sí; importe y periodicidad **pendientes** | 20 % | F1 | 2026-11-01 |
-| Dideso (sin ficha) | No | Ninguna: Jaime dice que no tiene ninguna relación con Dideso | F1 | 2026-11-01 |
+| Dideso (`sociedades/dideso/`) | No | Ninguna: Jaime dice que no tiene ninguna relación con Dideso | F1 | 2026-11-01 |
 | Volna (`sociedades/volna/`) | No | Ninguna: Jaime dice que Volna no tiene ninguna relación con Daosme | F1 | 2026-11-01 |
 | Cerebel (`sociedades/cerebel/`) | **Pendiente** (no dicho) | **Pendiente** (no dicho) | — | — |
 

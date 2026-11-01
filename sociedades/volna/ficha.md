@@ -51,7 +51,7 @@ Administrador único: Alejandro (Alex) Galisteo. — F1, 2026-11-01.
 |---|---|---|---|---|
 | SCM (`sociedades/scm/`) | Sí; periodicidad e importe **pendientes** | **Ninguna** | F1 | 2026-11-01 |
 | Fluxia (`sociedades/fluxia/`) | Sí; periodicidad e importe **pendientes** | 20 % | F1 | 2026-11-01 |
-| Dideso (sin ficha) | No | Ninguna: Jaime dice que no tiene ninguna relación con Dideso | F1 | 2026-11-01 |
+| Dideso (`sociedades/dideso/`) | No | Ninguna: Jaime dice que no tiene ninguna relación con Dideso | F1 | 2026-11-01 |
 | Daosme (`sociedades/daosme/`) | No | Ninguna: Jaime dice que no tiene ninguna relación con Daosme | F1 | 2026-11-01 |
 | Cerebel (`sociedades/cerebel/`) | **Pendiente** (no dicho) | **Pendiente** (no dicho) | — | — |
 
