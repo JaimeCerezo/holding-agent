@@ -12,7 +12,7 @@ Alejandro Galisteo (PF)  33,33 % ─┘
 
 Jaime Cerezo (PF)          100 % ───> Cerebel Gestión, S.L.             [sociedades/cerebel/]
 
-David Oset (PF)            100 % ───> Daosme Gestión S.L.U.              [sociedades/daosme/]
+David Oset (PF)            100 % ───> Daosme Gestión, S.L.              [sociedades/daosme/]
 
 Alejandro Galisteo (PF)    100 % ───> Volna Moria S.L.U.                 [sociedades/volna/]
 
@@ -126,7 +126,7 @@ Daosme (F1, 2026-11-01).
 |---|---|---|---|
 | `scm` | SCM Logística y Trazabilidad S.L. | Activa | `sociedades/scm/ficha.md` |
 | `cerebel` | Cerebel Gestión, S.L. | **pendiente** | `sociedades/cerebel/ficha.md` |
-| `daosme` | Daosme Gestión S.L.U. | **pendiente** | `sociedades/daosme/ficha.md` |
+| `daosme` | Daosme Gestión, S.L. | **pendiente** | `sociedades/daosme/ficha.md` |
 | `volna` | Volna Moria S.L.U. | **pendiente** | `sociedades/volna/ficha.md` |
 | `fluxia` | Fluxia Consulting S.L. | **pendiente** | `sociedades/fluxia/ficha.md` |
 | `dideso` | Dideso Management S.L. | **pendiente** | `sociedades/dideso/ficha.md` |

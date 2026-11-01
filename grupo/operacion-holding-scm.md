@@ -63,8 +63,11 @@ Todo F1, 2026-11-01, salvo que se indique. Detalle en las fichas.
   Dideso. Participa en Fluxia (20 %) y Dideso (50 %).
 
 **Daosme** (`sociedades/daosme/ficha.md`)
-- CIF B21854542; S.L.U., socio y administrador único David Oset; capital
-  3.000 €; constituida en mayo de 2025.
+- CIF B21854542; Daosme Gestión, S.L., unipersonal; socio y administrador
+  único David Oset (cargo gratuito, F2); capital 3.000 € en 3.000
+  participaciones de 1 € (F2); inicio de operaciones 16-04-2025 (F2).
+- CNAE principal 70.20; el objeto social no incluye tenencia de
+  participaciones (F2, ver hallazgos).
 - Factura servicios de dirección, gestión y administración a SCM y Fluxia.
   Participa en Fluxia (20 %).
 
@@ -83,18 +86,26 @@ Todo F1, 2026-11-01, salvo que se indique. Detalle en las fichas.
 
 ### De Cerebel, Daosme y Volna (de cada una)
 - [x] Estatutos de **Cerebel**: recibidos 2026-11-01 (F2, pegados por Jaime
-      en el chat; `sociedades/cerebel/estatutos.md`). Transcripción
-      resumida, no copia de la escritura.
-- [ ] Estatutos de **Daosme** y **Volna**. Probablemente del mismo modelo
-      que Cerebel (se constituyeron a la vez y con CIF correlativos), pero
-      **no verificado**.
+      en el chat; `sociedades/cerebel/estatutos.md`). Texto literal, no
+      copia cotejada de la escritura.
+- [x] Estatutos de **Daosme**: recibidos 2026-11-01 (F2, texto literal;
+      `sociedades/daosme/estatutos.md`). **Mismo modelo que los de
+      Cerebel**, verificado con un diff literal: solo cambian denominación,
+      inicio de operaciones (16-04-2025) y domicilio.
+- [ ] Estatutos de **Volna**. Previsiblemente del mismo modelo (constituida
+      a la vez y con CIF correlativo), pero **no verificado**.
 - [ ] Escritura de constitución de las tres.
-- [ ] Número y valor nominal de las participaciones de Daosme y Volna
-      (Cerebel: 3.000 de 1 €, numeradas 1–3.000, F2).
+- [ ] Número y valor nominal de las participaciones de Volna (Cerebel y
+      Daosme: 3.000 de 1 €, numeradas 1–3.000, F2).
 - [ ] Cuentas o balance del ejercicio 2025.
 - [ ] Empleados y medios propios.
 
 #### Hallazgos en los estatutos de Cerebel (F2, 2026-11-01)
+
+**Aplican también a Daosme**, cuyos estatutos son el mismo modelo (diff
+literal): mismo objeto social sin tenencia de participaciones (hoy tiene el
+20 % de Fluxia) y mismo cargo de administrador gratuito (que el abogado lo
+tenga en cuenta si David va a cobrar de Daosme).
 
 - **El objeto social no incluye la tenencia y gestión de participaciones**:
   no aparece el CNAE 64.20 ni una cláusula equivalente. CNAE principal
@@ -135,3 +146,4 @@ privativas y el cónyuge no interviene en la aportación.
 - 2026-11-01 — Añadido estado civil de los socios y nota sobre el régimen económico (F1).
 - 2026-11-01 — Jaime: vecindad civil catalana al casarse; el estado civil queda cerrado; quitado el pendiente de cuál de David o Alejandro es el casado. Única comprobación: capitulaciones de Jaime (F1).
 - 2026-11-01 — Recibidos los estatutos de Cerebel (F2): hallazgos sobre objeto social y cargo gratuito.
+- 2026-11-01 — Recibidos los estatutos de Daosme (F2): mismo modelo que Cerebel; los hallazgos se extienden a Daosme.

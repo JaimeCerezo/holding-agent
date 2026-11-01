@@ -6,8 +6,8 @@ mismo día. **No verificado** contra escrituras, registro mercantil ni
 cuentas anuales.
 
 [F2] estatutos pegados por Jaime en el chat, 2026-11-01; copia en
-`sociedades/cerebel/estatutos.md`. Es una transcripción resumida, no copia
-de la escritura. Donde F2 y F1 coinciden en el mismo dato, manda F2.
+`sociedades/cerebel/estatutos.md`. Texto literal pegado por Jaime, no
+copia cotejada de la escritura. Donde F2 y F1 coinciden en el mismo dato, manda F2.
 
 Leyenda: **aprox.** = cifra aproximada según la fuente · **pendiente** = sin
 dato todavía · **sin confirmar** = dato sin fuente documental.
@@ -52,8 +52,8 @@ factura. A SCM solo le factura.
   intermediaria.
 - **No incluye** la tenencia y gestión de participaciones (ni CNAE 64.20 ni
   cláusula equivalente), aunque hoy tiene el 20 % de Fluxia y el 50 % de
-  Dideso. Ver `grupo/operacion-holding-scm.md`. Salvedad: F2 es una
-  transcripción resumida; conviene confirmarlo contra la escritura.
+  Dideso. Ver `grupo/operacion-holding-scm.md`. Comprobado sobre el texto
+  literal del art. 2; falta cotejarlo con la escritura.
 
 ## Socios
 
@@ -92,3 +92,4 @@ Solo personas físicas; cargo por tiempo indefinido y **gratuito**.
 - 2026-11-01 — Participación en Fluxia: 20 % (dato de la ficha de Fluxia, F1).
 - 2026-11-01 — Participación en Dideso: 50 %, dicho explícitamente por Jaime (F1).
 - 2026-11-01 — Añadidos los datos de los estatutos (F2): denominación, inicio de operaciones, ejercicio, objeto social y CNAE, participaciones, domicilio y régimen de administración. Anotada la discrepancia entre la constitución «mayo de 2025» (F1) y el inicio de operaciones (21-04-2025).
+- 2026-11-01 — Los estatutos guardados pasan a ser el texto literal (commit 9235e14); quitada la salvedad de «transcripción resumida».
