@@ -75,7 +75,8 @@ Solo personas físicas; cargo por tiempo indefinido y **gratuito**.
 | Campo | Valor | Fuente | Fecha |
 |---|---|---|---|
 | Plantilla | **pendiente** | — | — |
-| Facturación | **pendiente** | — | — |
+| Facturación 2025 | Nula o casi nula: sin actividad. Balance 2025 casi nulo (no se pide) | F1 | 2026-11-01 |
+| Facturación 2026 | Empezó en 2026: a SCM y Fluxia; importes **pendientes** | F1 | 2026-11-01 |
 
 ## Relación con otras sociedades
 
@@ -93,3 +94,4 @@ Solo personas físicas; cargo por tiempo indefinido y **gratuito**.
 - 2026-11-01 — Añadidas constitución (mayo de 2025) y que no tiene ninguna relación con Dideso ni con Daosme (F1).
 - 2026-11-01 — Participación en Fluxia: 20 % (dato de la ficha de Fluxia, F1).
 - 2026-11-01 — Añadidos los datos de los estatutos (F2; mismo modelo que Cerebel y Daosme salvo el objeto social, CNAE principal 74.99). Anotada la discrepancia entre la constitución «mayo de 2025» (F1) y el inicio de operaciones (16-04-2025).
+- 2026-11-01 — Facturación: empezó en 2026; 2025 sin actividad o casi; balance 2025 casi nulo, no se pide (F1).

@@ -80,6 +80,12 @@ Todo F1, 2026-11-01, salvo que se indique. Detalle en las fichas.
 - Factura servicios de dirección, gestión y administración a SCM y Fluxia.
   Participa en Fluxia (20 %).
 
+**Contexto para el abogado** (F1, 2026-11-01): la facturación de las tres
+sociedades personales empezó en 2026 (Cerebel a SCM, Fluxia y Dideso;
+Daosme y Volna a SCM y Fluxia). En 2025 su actividad fue nula o casi nula;
+puede que Cerebel facturara algo, muy poco. Sus balances de 2025 son casi
+nulos.
+
 ## Lo que falta
 
 ### De SCM
@@ -105,8 +111,12 @@ Todo F1, 2026-11-01, salvo que se indique. Detalle en las fichas.
 falta cotejo con la escritura) y en los tres falta la tenencia de
 participaciones.
 - [ ] Escritura de constitución de las tres.
-- [ ] Cuentas o balance del ejercicio 2025.
 - [ ] Empleados y medios propios.
+
+Balances 2025 de las tres: **no se piden**. Según Jaime son casi nulos
+(sin actividad) y para la operación no hacen falta: cada sociedad es 100 %
+de su socio, así que no hay dilución, y lo que se valora es SCM (F1,
+2026-11-01).
 
 Participaciones de las tres: 3.000 de 1 € cada una, numeradas de la 1 a
 la 3.000 (F2).
@@ -169,3 +179,4 @@ privativas y el cónyuge no interviene en la aportación.
 - 2026-11-01 — Recibidos los estatutos de Cerebel (F2): hallazgos sobre objeto social y cargo gratuito.
 - 2026-11-01 — Recibidos los estatutos de Daosme (F2): mismo modelo que Cerebel; los hallazgos se extienden a Daosme.
 - 2026-11-01 — Recibidos los estatutos de Volna (F2): mismo modelo salvo el objeto social (CNAE principal 74.99). Cerrado el bloque de estatutos; sugerencia de ampliar el objeto social de las tres en la misma operación.
+- 2026-11-01 — Quitados de pendientes los balances 2025 de Cerebel, Daosme y Volna; añadido el contexto de que su facturación empezó en 2026 (F1).

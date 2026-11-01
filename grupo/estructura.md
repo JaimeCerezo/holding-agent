@@ -87,6 +87,10 @@ administración (F1, 2026-11-01). Cerebel lo hace mensualmente y con importe
 distinto para cada una; de Daosme y Volna no se ha dicho periodicidad ni
 importes.
 
+Esta facturación **empezó en 2026**. En 2025 las tres sociedades no
+tuvieron actividad o casi; puede que Cerebel facturara algo, muy poco (F1,
+2026-11-01).
+
 | De | A | Periodicidad | Importe |
 |---|---|---|---|
 | Cerebel | SCM | Mensual | **pendiente** |

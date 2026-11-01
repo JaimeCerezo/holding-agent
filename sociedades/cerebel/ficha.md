@@ -74,7 +74,8 @@ Solo personas físicas; cargo por tiempo indefinido y **gratuito**.
 | Campo | Valor | Fuente | Fecha |
 |---|---|---|---|
 | Plantilla | **pendiente** | — | — |
-| Facturación | **pendiente** | — | — |
+| Facturación 2025 | Nula o casi nula: sin actividad; puede que facturara algo, muy poco. Balance 2025 casi nulo (no se pide) | F1 | 2026-11-01 |
+| Facturación 2026 | Empezó en 2026: a SCM, Fluxia y Dideso; importes **pendientes** | F1 | 2026-11-01 |
 
 ## Relación con otras sociedades
 
@@ -93,3 +94,4 @@ Solo personas físicas; cargo por tiempo indefinido y **gratuito**.
 - 2026-11-01 — Participación en Dideso: 50 %, dicho explícitamente por Jaime (F1).
 - 2026-11-01 — Añadidos los datos de los estatutos (F2): denominación, inicio de operaciones, ejercicio, objeto social y CNAE, participaciones, domicilio y régimen de administración. Anotada la discrepancia entre la constitución «mayo de 2025» (F1) y el inicio de operaciones (21-04-2025).
 - 2026-11-01 — Los estatutos guardados pasan a ser el texto literal (commit 9235e14); quitada la salvedad de «transcripción resumida».
+- 2026-11-01 — Facturación: empezó en 2026; 2025 sin actividad o casi; balance 2025 casi nulo, no se pide (F1).
