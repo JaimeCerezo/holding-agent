@@ -25,20 +25,22 @@ dato todavía · **sin confirmar** = dato sin fuente documental.
 
 Gestión inmobiliaria e intermediación en la compraventa de inmuebles. —
 F1, 2026-11-01.
-Objeto social según estatutos y CNAE: **pendiente**.
+Objeto social según estatutos y CNAE: no se amplía; la actividad no es
+relevante para el estudio de Jaime (Jaime, 2026-11-01).
 
 ## Socios
 
 | Socio | Tipo | Participación | Fuente | Fecha |
 |---|---|---|---|---|
 | Cerebel Gestión S.L.U. (gestión de Jaime Cerezo) | Sociedad (`sociedades/cerebel/`) | 50 % (dicho explícitamente) | F1 | 2026-11-01 |
-| SCS Asset Advisors S.L. (de Sílvia Cerezo) | Sociedad (`sociedades/scs-asset/`) | 50 %, **deducido** como lo restante; **por confirmar** (Jaime la nombró como la otra propietaria sin decir el porcentaje) | F1 | 2026-11-01 |
+| SCS Asset Advisors S.L. (de Sílvia Cerezo) | Sociedad (`sociedades/scs-asset/`) | 50 %, confirmado por Jaime | F1 | 2026-11-01 |
 
 Número de participaciones y valor nominal: **pendiente**.
 
 ## Órgano de administración
 
-Administradora única: Sílvia Cerezo. — F1, 2026-11-01.
+Administradora única: Sílvia Cerezo, familiar de Jaime Cerezo (parentesco
+no dicho). — F1, 2026-11-01.
 Fecha de nombramiento y duración del cargo: **pendiente**.
 
 ## Magnitudes
@@ -58,7 +60,7 @@ Fecha de nombramiento y duración del cargo: **pendiente**.
 | Sociedad | Relación | Fuente | Fecha |
 |---|---|---|---|
 | Cerebel | Socia (50 %) y proveedora: le factura servicios de dirección, gestión y administración (mensual; importe **pendiente**) | F1 | 2026-11-01 |
-| SCS Asset | Socia (50 %, por confirmar); facturación **pendiente** (no dicho) | F1 | 2026-11-01 |
+| SCS Asset | Socia (50 %); facturación **pendiente** (no dicho) | F1 | 2026-11-01 |
 | Daosme | Ninguna relación | F1 | 2026-11-01 |
 | Volna | Ninguna relación | F1 | 2026-11-01 |
 | Fluxia | Ninguna relación («Fluxia no tiene nada que ver con Dideso») | F1 | 2026-11-01 |
@@ -67,3 +69,4 @@ Fecha de nombramiento y duración del cargo: **pendiente**.
 ## Historial
 
 - 2026-11-01 — Ficha creada con el dictado de Jaime (F1).
+- 2026-11-01 — Jaime confirma el reparto 50 % Cerebel / 50 % SCS Asset; Sílvia Cerezo es familiar suya; la actividad no se amplía porque no es relevante para su estudio (F1).
