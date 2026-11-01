@@ -17,8 +17,8 @@ dato todavía · **sin confirmar** = dato sin fuente documental.
 | Forma jurídica | Sociedad limitada unipersonal (por la razón social) | F1 | 2026-11-01 |
 | CIF | B21854518 | F1 | 2026-11-01 |
 | Domicilio social | C/ Pintor Vilapuig, 81, 08192 Sant Quirze del Vallès (Barcelona). Jaime lo dio como «el domicilio»: **sin confirmar** que coincida con el registral | F1 | 2026-11-01 |
-| Fecha de constitución | **pendiente** | — | — |
-| Capital social | 3.006 € | F1 | 2026-11-01 |
+| Fecha de constitución | Mayo de 2025 (**aprox.**) | F1 | 2026-11-01 |
+| Capital social | 3.000 € (corregido; antes se anotó 3.006 € por error) | F1 | 2026-11-01 |
 
 ## Actividad
 
@@ -60,3 +60,4 @@ Administrador único: Jaime Cerezo. — F1, 2026-11-01.
 
 - 2026-11-01 — Ficha creada con el dictado de Jaime (F1).
 - 2026-11-01 — Jaime aclara que Cerebel no participa en SCM (solo le factura). Corregida la descripción de la actividad y quitada la duda (F1).
+- 2026-11-01 — Jaime corrige el capital social: 3.000 €, no 3.006 € (era un error). Añadida la constitución, mayo de 2025 aprox. (F1).
