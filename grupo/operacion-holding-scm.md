@@ -169,25 +169,40 @@ de 2025 es 142.293,88 € (no ≈ 145.354 €).
   estructura de gastos: personal 53,3 % y servicios exteriores 20,8 % de la
   cifra de negocios. **Sigue abierto**: por qué el provisional de 2026 da
   211.573 € (ver la pregunta siguiente).
-- **¿Por qué baja el personal y los aprovisionamientos en 2026?** Personal:
-  de 578.872 € en 2025 a 397.292 € en diez meses de 2026 (a ritmo de 2025
-  serían ≈ 482.000 €). Aprovisionamientos: del 26,6 % al 17,0 % de la cifra
-  de negocios. **Pregunta concreta**: ¿las retribuciones de los socios
-  dejaron de ser nómina en 2026 y pasaron a facturarlas Cerebel, Daosme y
-  Volna? Cuadraría con que esas sociedades empiezan a facturar en 2026; en
-  ese caso estarían en servicios exteriores. **Hipótesis nuestra**, que la
-  confirme el gestor. Dato a tener en cuenta al comprobarla: los servicios
-  exteriores de 2026 (199.109 € en diez meses) solo superan en ≈ 11.000 €
-  el ritmo de 2025 (225.701 € al año ≈ 188.084 € en diez meses).
-- **¿Las retribuciones de los socios están dentro de los gastos de
-  personal?** Dato para el abogado, en relación con la facturación de
-  Cerebel, Daosme y Volna a SCM.
+- ~~Hipótesis: las retribuciones de los socios dejaron de ser nómina en
+  2026 y pasaron a facturarlas Cerebel, Daosme y Volna.~~ **Descartada**
+  (Jaime, F1, 2026-11-01): las nóminas de los socios siguen igual; las
+  facturas de sus sociedades a SCM en 2026 se **suman** a las nóminas.
+  Con ello queda respondido también que las retribuciones de los socios
+  están en gastos de personal (son nómina).
+- **Bajada de personal en 2026, sin explicar**: 397.292 € en diez meses
+  frente a ≈ 482.000 € al ritmo de 2025 (578.872 € al año). ¿Hay menos
+  plantilla? ¿Hay pagas extra, primas u otros conceptos que se
+  contabilizan al cierre? Pregunta para el gestor.
+- **Bajada de aprovisionamientos**: del 26,6 % al 17,0 % de la cifra de
+  negocios (en 2026 no hay «trabajos realizados por otras empresas», que en
+  2025 fueron 42.741,26 €). Pregunta para el gestor.
+- **Importe facturado en 2026 a SCM por Cerebel, Daosme y Volna, cada
+  una**: pendiente. Probablemente está en servicios exteriores (225.701 €
+  en 2025; 199.109 € en diez meses de 2026).
 - **Empresas del grupo o asociadas**: en 2026 hay deudas con empresas del
   grupo o asociadas (1,63 € de intereses) y en 2025 había créditos a
   empresas del grupo (574,21 € de ingresos). ¿Con qué sociedades?
 - Las partidas con signo negativo en 2026 (deudas a corto plazo, personal)
   en 2025 son positivas o no aparecen: refuerza que el balance de 2026 es
   provisional y sin ajustes de cierre.
+
+**Punto para el abogado — doble vía de cobro de los socios** (puntos a
+revisar, sin conclusión). Desde 2026 cada socio cobra de SCM por dos vías:
+su nómina y la factura de su sociedad (servicios de dirección, gestión y
+administración; Jaime, F1, 2026-11-01). Tras la operación, la sociedad que
+factura será además socia del 33,33 % de SCM. A revisar:
+- que esos servicios son distintos de lo que el socio ya hace como
+  trabajador o como administrador, para justificarlos y que el gasto sea
+  deducible para SCM;
+- la valoración a mercado, como operación vinculada;
+- si el cargo de administrador de SCM es o no retribuido según sus
+  estatutos, que no hemos visto.
 
 **Punto para el abogado — ¿SCM es entidad patrimonial?** (observación
 nuestra, no una conclusión)
@@ -230,9 +245,12 @@ de operaciones. Que valore cómo encaja.
 - [x] Gestor, pregunta 2 (resultado de 2025 en el balance de 2026):
       **resuelta por cálculo**; falta que el gestor confirme que la
       aplicación está sin registrar.
-- [ ] Gestor: por qué bajan personal y aprovisionamientos en 2026, y si las
-      retribuciones de los socios pasaron de nómina a facturación de
-      Cerebel, Daosme y Volna (hipótesis nuestra).
+- [x] ¿Las nóminas de los socios pasaron a facturas? **No** (Jaime, F1):
+      las facturas de Cerebel, Daosme y Volna se suman a las nóminas.
+- [ ] Gestor: por qué baja el personal en 2026 (¿menos plantilla?, ¿pagas o
+      primas al cierre?) y por qué bajan los aprovisionamientos.
+- [ ] Importe facturado en 2026 a SCM por Cerebel, Daosme y Volna, cada una.
+- [ ] Estatutos de SCM: si el cargo de administrador es retribuido.
 - [ ] Gestor: ajustes de cierre de 2026 (impuesto, amortizaciones,
       noviembre y diciembre).
 - [ ] Empresas del grupo o asociadas: con cuáles hay crédito (2025) y
@@ -352,3 +370,4 @@ privativas y el cónyuge no interviene en la aportación.
 - 2026-11-01 — Patrimonio neto y pasivo de 2025 (F2): corregida la inferencia (fondos propios 339.191,68 €), nueva base de valoración y preguntas para el gestor.
 - 2026-11-01 — PyG 2025 de SCM (F2): pregunta 3 respondida en parte, crédito con empresa del grupo, valoración por rentabilidad; pendientes actualizados.
 - 2026-11-01 — PyG 2026 provisional de SCM (F2): pregunta 2 resuelta por cálculo, desglose de fondos propios corregido, estimación orientativa del neto 2026, nuevas preguntas para el gestor.
+- 2026-11-01 — Jaime: las nóminas de los socios siguen; las facturas de sus sociedades se suman. Descartada la hipótesis; bajada de personal pasa a pregunta para el gestor; punto para el abogado sobre la doble vía de cobro (F1).

@@ -233,6 +233,16 @@ enero a octubre, sin impuesto ni amortizaciones contabilizados.
 | Impuesto sobre Sociedades | 0,00 | | -942,68 | |
 | **Resultado del ejercicio** | **211.572,75** | 22,1 % | **3.060,14** | 0,3 % |
 
+Retribuciones de los socios (Jaime, F1, 2026-11-01): siguen cobrando
+nómina de SCM; desde 2026 sus sociedades (Cerebel, Daosme y Volna) además
+facturan a SCM servicios de dirección, gestión y administración. Las
+facturas se **suman** a las nóminas, no las sustituyen. Importe facturado
+por cada una en 2026: **pendiente** (probablemente en servicios
+exteriores). La bajada de personal en 2026 (397.292 € en diez meses frente
+a ≈ 482.000 € al ritmo de 2025) queda **sin explicar**: pregunta para el
+gestor (¿menos plantilla?, ¿pagas o primas al cierre?). Ver
+`grupo/operacion-holding-scm.md`.
+
 Estimación **orientativa, no contable**: con el impuesto al 25 % y unas
 amortizaciones como las de 2025, el resultado neto de 2026 hasta octubre
 rondaría ≈ 152.000 € ((211.573 − 8.945) × 0,75). Faltan además noviembre y
@@ -275,3 +285,4 @@ Fecha de nombramiento y duración del cargo: **pendiente**.
 - 2026-11-01 — Añadido el patrimonio neto y pasivo de 2025 (F2): fondos propios 339.191,68 €, resultado 2025 3.060,14 €; observaciones para el gestor.
 - 2026-11-01 — PyG 2025 (F2): cifra de negocios 1.086.230,60 € (corrige ~1,2 M€ de F1), resultado 3.060,14 €; ingresos financieros de empresas del grupo (crédito por identificar).
 - 2026-11-01 — PyG 2026 provisional (F2): resultado 2026 a 01-11 = 211.572,75 €; los 214.632,89 € del balance incluyen los 3.060,14 € de 2025 sin aplicar (resuelto por cálculo).
+- 2026-11-01 — Jaime: las nóminas de los socios siguen y las facturas de sus sociedades se suman; bajada de personal 2026 sin explicar (F1).
