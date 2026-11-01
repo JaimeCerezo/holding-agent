@@ -17,7 +17,7 @@ dato todavía · **sin confirmar** = dato sin fuente documental.
 | Forma jurídica | Sociedad limitada unipersonal (por la razón social) | F1 | 2026-11-01 |
 | CIF | B21854500 | F1 | 2026-11-01 |
 | Domicilio social | C/ de la Unió, 163, 08201 Sabadell (Barcelona). Dado por Jaime: **sin confirmar** que coincida con el registral | F1 | 2026-11-01 |
-| Fecha de constitución | **pendiente** | — | — |
+| Fecha de constitución | Mayo de 2025 (día **pendiente**) | F1 | 2026-11-01 |
 | Capital social | 3.000 € | F1 | 2026-11-01 |
 | Estado | **pendiente** | — | — |
 
@@ -51,9 +51,11 @@ Administrador único: Alejandro (Alex) Galisteo. — F1, 2026-11-01.
 |---|---|---|---|---|
 | SCM (`sociedades/scm/`) | Sí; periodicidad e importe **pendientes** | **Ninguna** | F1 | 2026-11-01 |
 | Fluxia (sin ficha) | Sí; periodicidad e importe **pendientes** | **Pendiente** | F1 | 2026-11-01 |
-| Dideso (sin ficha) | **Pendiente** (no dicho; no se deduce que no haya relación) | **Pendiente** | — | — |
-| Cerebel, Daosme | **Pendiente** (no dicho) | **Pendiente** (no dicho) | — | — |
+| Dideso (sin ficha) | No | Ninguna: Jaime dice que no tiene ninguna relación con Dideso | F1 | 2026-11-01 |
+| Daosme (`sociedades/daosme/`) | No | Ninguna: Jaime dice que no tiene ninguna relación con Daosme | F1 | 2026-11-01 |
+| Cerebel (`sociedades/cerebel/`) | **Pendiente** (no dicho) | **Pendiente** (no dicho) | — | — |
 
 ## Historial
 
 - 2026-11-01 — Ficha creada con el dictado de Jaime (F1).
+- 2026-11-01 — Añadidas constitución (mayo de 2025) y que no tiene ninguna relación con Dideso ni con Daosme (F1).

@@ -43,7 +43,8 @@ través de Cerebel (aclarado por Jaime, F1, 2026-11-01).
 | Daosme | Dideso | **Ninguna** (sin ninguna relación con Dideso) | F1 | 2026-11-01 |
 | Volna | SCM | **Ninguna** | F1 | 2026-11-01 |
 | Volna | Fluxia | **Pendiente** | — | — |
-| Volna | Dideso | **Pendiente** (no dicho) | — | — |
+| Volna | Dideso | **Ninguna** (sin ninguna relación con Dideso) | F1 | 2026-11-01 |
+| Volna | Daosme | **Ninguna** (sin ninguna relación con Daosme) | F1 | 2026-11-01 |
 
 ## Facturación entre sociedades (2026-11-01)
 
@@ -64,7 +65,8 @@ importes.
 | Volna | Fluxia | **pendiente** | **pendiente** |
 
 Daosme no factura a Dideso: no tiene ninguna relación con ella (F1,
-2026-11-01). Si Volna tiene relación con Dideso: **pendiente** (no dicho).
+2026-11-01). Volna tampoco: no tiene ninguna relación con Dideso ni con
+Daosme (F1, 2026-11-01).
 
 ## Observaciones (sin conclusiones)
 
@@ -86,8 +88,8 @@ Daosme no factura a Dideso: no tiene ninguna relación con ella (F1,
 ## Sociedades nombradas, sin ficha todavía
 
 Jaime las describirá más adelante (F1, 2026-11-01). Solo se sabe que
-Cerebel factura a las dos, Daosme solo a Fluxia y Volna a Fluxia (con
-Dideso, no dicho).
+Cerebel factura a las dos; Daosme y Volna solo a Fluxia (ninguna de las
+dos tiene relación con Dideso).
 
 | Nombre | Datos |
 |---|---|
@@ -99,5 +101,4 @@ Dideso, no dicho).
 - Si Cerebel participa en Fluxia y Dideso, y en qué porcentaje; fichas de ambas.
 - Importes que Cerebel factura a cada sociedad.
 - Si Daosme y Volna participan en Fluxia; periodicidad e importes de lo que facturan.
-- Si Volna tiene relación con Dideso.
 - Si hay más sociedades.
