@@ -18,7 +18,7 @@ dato todavía · **sin confirmar** = dato sin fuente documental.
 | CIF | B64405590 | F1 | 2026-11-01 |
 | Domicilio social | Ronda Maiols, 1, Local 425, 08192 Sant Quirze del Vallès (Barcelona). Jaime lo dio como «el domicilio»: **sin confirmar** que coincida con el registral | F1 | 2026-11-01 |
 | Sede / base | Sant Quirze del Vallès (Barcelona) | F1 | 2026-11-01 |
-| Fecha de constitución | **pendiente** | — | — |
+| Fecha de constitución | Enero de 2007 (día **pendiente**) | F1 | 2026-11-01 |
 | Estado | Activa | F1 | 2026-11-01 |
 
 ## Actividad
@@ -35,7 +35,8 @@ Objeto social según estatutos y CNAE: **pendiente**.
 | David Oset | Persona física | 33,33 % | F1 | 2026-11-01 |
 | Alejandro Galisteo («Alex Galisteo») | Persona física | 33,33 % | F1 | 2026-11-01 |
 
-Número de participaciones y capital social: **pendiente**.
+Capital social: 3.006 € — F1, 2026-11-01.
+Número de participaciones y valor nominal: **pendiente**.
 
 ## Órgano de administración
 
@@ -59,3 +60,4 @@ Fecha de nombramiento y duración del cargo: **pendiente**.
 
 - 2026-11-01 — Ficha creada con el dictado de Jaime (F1).
 - 2026-11-01 — Añadidos CIF, domicilio y ejercicio de la facturación (2025), mismo dictado (F1).
+- 2026-11-01 — Añadidos fecha de constitución (enero de 2007) y capital social (3.006 €), mismo dictado (F1). Jaime está buscando la nota simple del Registro Mercantil para verificar.
