@@ -59,11 +59,11 @@ factura. A SCM solo le factura.
 
 | Socio | Tipo | Participación | Fuente | Fecha |
 |---|---|---|---|---|
-| Jaime Cerezo | Persona física | 100 % (socio único) | F1 | 2026-11-01 |
+| Jaime Cerezo Berbel | Persona física | 100 % (socio único) | F1 | 2026-11-01 |
 
 ## Órgano de administración
 
-Administrador único: Jaime Cerezo. — F1, 2026-11-01.
+Administrador único: Jaime Cerezo Berbel. — F1, 2026-11-01.
 
 Según estatutos (F2, arts. 6 y 7): la junta puede elegir, sin modificar
 estatutos, entre administrador único, 2 a 5 solidarios o 2 mancomunados.

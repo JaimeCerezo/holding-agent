@@ -42,8 +42,8 @@ Número de participaciones y valor nominal: **pendiente**.
 
 ## Órgano de administración
 
-Administradores solidarios, cuatro personas físicas: Michel Guerrero, David
-Oset, Alex Galisteo y Jaime Cerezo. — F1, 2026-11-01.
+Administradores solidarios, cuatro personas físicas: Michel Guerrero,
+David Oset Membrado, Alejandro Galisteo Arribas y Jaime Cerezo Berbel. — F1, 2026-11-01.
 Jaime, David y Alex son administradores **a título personal**, aunque su
 participación la tienen a través de Cerebel, Daosme y Volna. Jordi Felip y
 Diego Gil son socios, no administradores.

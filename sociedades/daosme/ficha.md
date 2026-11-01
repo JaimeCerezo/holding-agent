@@ -51,11 +51,11 @@ Idéntico al de Cerebel (ver `sociedades/cerebel/ficha.md`):
 
 | Socio | Tipo | Participación | Fuente | Fecha |
 |---|---|---|---|---|
-| David Oset (el mismo socio de SCM) | Persona física | 100 % (socio único) | F1 | 2026-11-01 |
+| David Oset Membrado (el mismo socio de SCM) | Persona física | 100 % (socio único) | F1 | 2026-11-01 |
 
 ## Órgano de administración
 
-Administrador único: David Oset. — F1, 2026-11-01.
+Administrador único: David Oset Membrado. — F1, 2026-11-01.
 
 Según estatutos (F2, arts. 6 y 7): la junta puede elegir, sin modificar
 estatutos, entre administrador único, 2 a 5 solidarios o 2 mancomunados.

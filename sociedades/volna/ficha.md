@@ -60,11 +60,11 @@ y a Fluxia. — F1, 2026-11-01.
 
 | Socio | Tipo | Participación | Fuente | Fecha |
 |---|---|---|---|---|
-| Alejandro (Alex) Galisteo (el mismo socio de SCM) | Persona física | 100 % (socio único) | F1 | 2026-11-01 |
+| Alejandro Galisteo Arribas («Alex», el mismo socio de SCM) | Persona física | 100 % (socio único) | F1 | 2026-11-01 |
 
 ## Órgano de administración
 
-Administrador único: Alejandro (Alex) Galisteo. — F1, 2026-11-01.
+Administrador único: Alejandro Galisteo Arribas. — F1, 2026-11-01.
 
 Según estatutos (F2, arts. 6 y 7): la junta puede elegir, sin modificar
 estatutos, entre administrador único, 2 a 5 solidarios o 2 mancomunados.

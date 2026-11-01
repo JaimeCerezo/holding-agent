@@ -6,15 +6,15 @@ contra documentos). Detalle de cada sociedad en `sociedades/<slug>/ficha.md`.
 ## Participaciones (2026-11-01)
 
 ```
-Jaime Cerezo (PF)        33,33 % ─┐
-David Oset (PF)          33,33 % ─┼─> SCM Logística y Trazabilidad S.L.  [sociedades/scm/]
-Alejandro Galisteo (PF)  33,33 % ─┘
+Jaime Cerezo Berbel (PF)          33,33 % ─┐
+David Oset Membrado (PF)          33,33 % ─┼─> SCM Logística y Trazabilidad S.L.  [sociedades/scm/]
+Alejandro Galisteo Arribas (PF)   33,33 % ─┘
 
-Jaime Cerezo (PF)          100 % ───> Cerebel Gestión, S.L.             [sociedades/cerebel/]
+Jaime Cerezo Berbel (PF)            100 % ───> Cerebel Gestión, S.L.             [sociedades/cerebel/]
 
-David Oset (PF)            100 % ───> Daosme Gestión, S.L.              [sociedades/daosme/]
+David Oset Membrado (PF)            100 % ───> Daosme Gestión, S.L.              [sociedades/daosme/]
 
-Alejandro Galisteo (PF)    100 % ───> Volna Moria, S.L.                 [sociedades/volna/]
+Alejandro Galisteo Arribas (PF)     100 % ───> Volna Moria, S.L.                 [sociedades/volna/]
 
 Cerebel                     20 % ─┐
 Daosme                      20 % ─┤
@@ -36,19 +36,19 @@ través de Cerebel (aclarado por Jaime, F1, 2026-11-01).
 
 | Persona | Sociedad | Participación | Cargo |
 |---|---|---|---|
-| Jaime Cerezo | SCM | 33,33 % directa | Administrador solidario |
-| Jaime Cerezo | Cerebel | 100 % directa (socio único) | Administrador único |
-| Jaime Cerezo | Fluxia | 20 % **indirecta**, vía Cerebel | Administrador solidario, a título personal |
-| David Oset | SCM | 33,33 % directa | Administrador solidario |
-| David Oset | Daosme | 100 % directa (socio único) | Administrador único |
-| David Oset | Fluxia | 20 % **indirecta**, vía Daosme | Administrador solidario, a título personal |
-| Alejandro Galisteo | SCM | 33,33 % directa | Administrador solidario |
-| Alejandro Galisteo | Volna | 100 % directa (socio único) | Administrador único |
-| Alejandro Galisteo | Fluxia | 20 % **indirecta**, vía Volna | Administrador solidario, a título personal |
+| Jaime Cerezo Berbel | SCM | 33,33 % directa | Administrador solidario |
+| Jaime Cerezo Berbel | Cerebel | 100 % directa (socio único) | Administrador único |
+| Jaime Cerezo Berbel | Fluxia | 20 % **indirecta**, vía Cerebel | Administrador solidario, a título personal |
+| David Oset Membrado | SCM | 33,33 % directa | Administrador solidario |
+| David Oset Membrado | Daosme | 100 % directa (socio único) | Administrador único |
+| David Oset Membrado | Fluxia | 20 % **indirecta**, vía Daosme | Administrador solidario, a título personal |
+| Alejandro Galisteo Arribas | SCM | 33,33 % directa | Administrador solidario |
+| Alejandro Galisteo Arribas | Volna | 100 % directa (socio único) | Administrador único |
+| Alejandro Galisteo Arribas | Fluxia | 20 % **indirecta**, vía Volna | Administrador solidario, a título personal |
 | Michel Guerrero | Fluxia | 20 % directa | Administrador solidario |
 | Jordi Felip | Fluxia | 10 % directa | — (socio, no administrador) |
 | Diego Gil | Fluxia | 10 % directa | — (socio, no administrador) |
-| Jaime Cerezo | Dideso | 50 % **indirecta**, vía Cerebel | — |
+| Jaime Cerezo Berbel | Dideso | 50 % **indirecta**, vía Cerebel | — |
 | Sílvia Cerezo | SCS Asset | 100 % directa (socia única) | Administradora única |
 | Sílvia Cerezo | Dideso | 50 % **indirecta**, vía SCS Asset | Administradora única |
 

@@ -10,7 +10,8 @@ decidido ni ejecutado.
 
 ## Qué se estudia
 
-Jaime Cerezo, David Oset y Alejandro Galisteo aportarían cada uno su
+Jaime Cerezo Berbel, David Oset Membrado y Alejandro Galisteo Arribas
+aportarían cada uno su
 33,33 % de SCM a su sociedad personal: Cerebel, Daosme y Volna Moria
 respectivamente. Esas tres sociedades pasarían a ser holdings, y cada socio
 seguiría teniendo el 100 % de la suya.
@@ -18,21 +19,21 @@ seguiría teniendo el 100 % de la suya.
 ## Estructura antes (actual, 2026-11-01)
 
 ```
-Jaime Cerezo (PF)        33,33 % ─┐
-David Oset (PF)          33,33 % ─┼─> SCM
-Alejandro Galisteo (PF)  33,33 % ─┘
+Jaime Cerezo Berbel (PF)          33,33 % ─┐
+David Oset Membrado (PF)          33,33 % ─┼─> SCM
+Alejandro Galisteo Arribas (PF)   33,33 % ─┘
 
-Jaime Cerezo (PF)   100 % ──> Cerebel
-David Oset (PF)     100 % ──> Daosme
-Alejandro Galisteo  100 % ──> Volna Moria
+Jaime Cerezo Berbel (PF)          100 % ──> Cerebel
+David Oset Membrado (PF)          100 % ──> Daosme
+Alejandro Galisteo Arribas (PF)   100 % ──> Volna Moria
 ```
 
 ## Estructura después (propuesta)
 
 ```
-Jaime Cerezo (PF)   100 % ──> Cerebel (holding) ─── 33,33 % ─┐
-David Oset (PF)     100 % ──> Daosme  (holding) ─── 33,33 % ─┼─> SCM
-Alejandro Galisteo  100 % ──> Volna   (holding) ─── 33,33 % ─┘
+Jaime Cerezo Berbel (PF)          100 % ──> Cerebel (holding) ─── 33,33 % ─┐
+David Oset Membrado (PF)          100 % ──> Daosme  (holding) ─── 33,33 % ─┼─> SCM
+Alejandro Galisteo Arribas (PF)   100 % ──> Volna   (holding) ─── 33,33 % ─┘
 ```
 
 Las otras participaciones de las tres sociedades no cambian con esta
@@ -44,13 +45,19 @@ Cerebel el 50 % en Dideso (ver `grupo/estructura.md`).
 Todo F1, 2026-11-01, salvo que se indique. Detalle en las fichas.
 
 **SCM** (`sociedades/scm/ficha.md`)
-- CIF B64405590; constituida en enero de 2007; capital social 3.006 €.
+- CIF B64405590; constituida en enero de 2007; capital social **3.060 €**
+  (F2, escritura; F1 decía 3.006 €, probable transposición de cifras): 306
+  participaciones de 10 € nominales.
+- Numeración (F2): David de la 1 a la 102, Jaime de la 103 a la 204 y
+  Alejandro de la 205 a la 306.
 - Socios: los tres, 33,33 % cada uno, suscrito en la constitución. Sin
   compras ni transmisiones posteriores.
-- Valor de adquisición por socio: 1.002 € (1/3 de 3.006 €, calculado).
+- Valor de adquisición por socio: **1.020 €** (102 participaciones × 10 €; F2).
 - Los estatutos no limitan la transmisión de participaciones (según Jaime).
 - Valoración aproximada de Jaime: ~350.000 €, que serían las reservas
   actuales. El método de valoración lo decide el abogado.
+- Fondos propios aproximados: ~350.000 € de reservas + 3.060 € de capital
+  ≈ 353.060 €.
 - Facturación 2025: ~1.200.000 € (aprox.). Plantilla: ~14 personas (aprox.).
 
 **Cerebel** (`sociedades/cerebel/ficha.md`)
@@ -89,7 +96,10 @@ nulos.
 ## Lo que falta
 
 ### De SCM
-- [ ] Número, valor nominal y numeración de las participaciones (de cada socio).
+- [x] Número, valor nominal y numeración de las participaciones: resuelto
+      con la escritura de constitución (F2,
+      `sociedades/scm/escritura-constitucion-suscripcion.md`). Falta
+      confirmar que no hubo ampliaciones ni reducciones posteriores.
 - [ ] Últimas cuentas anuales (balance con fondos propios).
 - [ ] Pacto de socios, si existe.
 
@@ -159,8 +169,8 @@ privativas y el cónyuge no interviene en la aportación.
 
 | Socio | Estado civil | Régimen / carácter de las participaciones de SCM |
 |---|---|---|
-| Jaime Cerezo | Casado antes de 2007, en Cataluña; vecindad civil catalana al casarse | Separación de bienes, salvo capitulaciones. Su tercio de SCM se considera privativo |
-| David Oset y Alejandro Galisteo | Uno no está casado; el otro se casó hace poco (después de 2007), en Cataluña | Privativas en los dos casos (suscritas antes del matrimonio o sin matrimonio). Cuál es cuál no importa, según Jaime |
+| Jaime Cerezo Berbel | Casado antes de 2007, en Cataluña; vecindad civil catalana al casarse | Separación de bienes, salvo capitulaciones. Su tercio de SCM se considera privativo |
+| David Oset Membrado y Alejandro Galisteo Arribas | Uno no está casado; el otro se casó hace poco (después de 2007), en Cataluña | Privativas en los dos casos (suscritas antes del matrimonio o sin matrimonio). Cuál es cuál no importa, según Jaime |
 
 > **Nota (dictada por Jaime a Aris, F1, 2026-11-01)**: el régimen económico
 > no lo determina el lugar de la boda, sino la vecindad civil de los
@@ -180,3 +190,4 @@ privativas y el cónyuge no interviene en la aportación.
 - 2026-11-01 — Recibidos los estatutos de Daosme (F2): mismo modelo que Cerebel; los hallazgos se extienden a Daosme.
 - 2026-11-01 — Recibidos los estatutos de Volna (F2): mismo modelo salvo el objeto social (CNAE principal 74.99). Cerrado el bloque de estatutos; sugerencia de ampliar el objeto social de las tres en la misma operación.
 - 2026-11-01 — Quitados de pendientes los balances 2025 de Cerebel, Daosme y Volna; añadido el contexto de que su facturación empezó en 2026 (F1).
+- 2026-11-01 — Escritura de constitución de SCM (F2): capital 3.060 €, 306 participaciones de 10 €, numeración, valor de adquisición 1.020 €, fondos propios ≈ 353.060 €, nombres completos.
