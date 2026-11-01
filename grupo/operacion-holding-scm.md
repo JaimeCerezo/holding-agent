@@ -54,8 +54,11 @@ Todo F1, 2026-11-01, salvo que se indique. Detalle en las fichas.
 - Facturación 2025: ~1.200.000 € (aprox.). Plantilla: ~14 personas (aprox.).
 
 **Cerebel** (`sociedades/cerebel/ficha.md`)
-- CIF B21854518; S.L.U., socio y administrador único Jaime Cerezo;
-  capital 3.000 €; constituida hacia mayo de 2025 (aprox.).
+- CIF B21854518; Cerebel Gestión, S.L., unipersonal; socio y administrador
+  único Jaime Cerezo (cargo gratuito, F2); capital 3.000 € en 3.000
+  participaciones de 1 € (F2); inicio de operaciones 21-04-2025 (F2).
+- CNAE principal 70.20; el objeto social no incluye tenencia de
+  participaciones (F2, ver hallazgos).
 - Factura servicios de dirección, gestión y administración a SCM, Fluxia y
   Dideso. Participa en Fluxia (20 %) y Dideso (50 %).
 
@@ -79,11 +82,32 @@ Todo F1, 2026-11-01, salvo que se indique. Detalle en las fichas.
 - [ ] Pacto de socios, si existe.
 
 ### De Cerebel, Daosme y Volna (de cada una)
-- [ ] Escritura de constitución y estatutos: si el objeto social permite
-      tener participaciones en otras sociedades.
-- [ ] Número y valor nominal de las participaciones.
+- [x] Estatutos de **Cerebel**: recibidos 2026-11-01 (F2, pegados por Jaime
+      en el chat; `sociedades/cerebel/estatutos.md`). Transcripción
+      resumida, no copia de la escritura.
+- [ ] Estatutos de **Daosme** y **Volna**. Probablemente del mismo modelo
+      que Cerebel (se constituyeron a la vez y con CIF correlativos), pero
+      **no verificado**.
+- [ ] Escritura de constitución de las tres.
+- [ ] Número y valor nominal de las participaciones de Daosme y Volna
+      (Cerebel: 3.000 de 1 €, numeradas 1–3.000, F2).
 - [ ] Cuentas o balance del ejercicio 2025.
 - [ ] Empleados y medios propios.
+
+#### Hallazgos en los estatutos de Cerebel (F2, 2026-11-01)
+
+- **El objeto social no incluye la tenencia y gestión de participaciones**:
+  no aparece el CNAE 64.20 ni una cláusula equivalente. CNAE principal
+  70.20 (consultoría de gestión empresarial); los secundarios son de
+  informática, ferias, comercio TIC e inmobiliario. Esto ya aplica hoy, con
+  el 20 % de Fluxia y el 50 % de Dideso. Salvedad: la copia es una
+  transcripción resumida; conviene confirmarlo contra la escritura.
+- **Para el abogado**: valorar si se amplía el objeto social, por ejemplo
+  con «adquisición, tenencia, gestión y enajenación de participaciones» o
+  el CNAE 64.20. Haría falta por la propia operación y para defender el
+  motivo económico.
+- **Cargo de administrador gratuito** (art. 7). Que el abogado lo tenga en
+  cuenta si Jaime va a cobrar de Cerebel.
 
 ### De cada socio (Jaime, David, Alejandro)
 
@@ -110,3 +134,4 @@ privativas y el cónyuge no interviene en la aportación.
 - 2026-11-01 — Fichero creado con el dictado de Jaime (F1).
 - 2026-11-01 — Añadido estado civil de los socios y nota sobre el régimen económico (F1).
 - 2026-11-01 — Jaime: vecindad civil catalana al casarse; el estado civil queda cerrado; quitado el pendiente de cuál de David o Alejandro es el casado. Única comprobación: capitulaciones de Jaime (F1).
+- 2026-11-01 — Recibidos los estatutos de Cerebel (F2): hallazgos sobre objeto social y cargo gratuito.

@@ -32,7 +32,7 @@ relevante para el estudio de Jaime (Jaime, 2026-11-01).
 
 | Socio | Tipo | Participación | Fuente | Fecha |
 |---|---|---|---|---|
-| Cerebel Gestión S.L.U. (gestión de Jaime Cerezo) | Sociedad (`sociedades/cerebel/`) | 50 % (dicho explícitamente) | F1 | 2026-11-01 |
+| Cerebel Gestión, S.L. (gestión de Jaime Cerezo) | Sociedad (`sociedades/cerebel/`) | 50 % (dicho explícitamente) | F1 | 2026-11-01 |
 | SCS Asset Advisors S.L. (de Sílvia Cerezo) | Sociedad (`sociedades/scs-asset/`) | 50 %, confirmado por Jaime | F1 | 2026-11-01 |
 
 Número de participaciones y valor nominal: **pendiente**.

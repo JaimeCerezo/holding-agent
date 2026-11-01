@@ -10,7 +10,7 @@ Jaime Cerezo (PF)        33,33 % ─┐
 David Oset (PF)          33,33 % ─┼─> SCM Logística y Trazabilidad S.L.  [sociedades/scm/]
 Alejandro Galisteo (PF)  33,33 % ─┘
 
-Jaime Cerezo (PF)          100 % ───> Cerebel Gestión S.L.U.             [sociedades/cerebel/]
+Jaime Cerezo (PF)          100 % ───> Cerebel Gestión, S.L.             [sociedades/cerebel/]
 
 David Oset (PF)            100 % ───> Daosme Gestión S.L.U.              [sociedades/daosme/]
 
@@ -125,7 +125,7 @@ Daosme (F1, 2026-11-01).
 | Slug | Razón social | Estado | Ficha |
 |---|---|---|---|
 | `scm` | SCM Logística y Trazabilidad S.L. | Activa | `sociedades/scm/ficha.md` |
-| `cerebel` | Cerebel Gestión S.L.U. | **pendiente** | `sociedades/cerebel/ficha.md` |
+| `cerebel` | Cerebel Gestión, S.L. | **pendiente** | `sociedades/cerebel/ficha.md` |
 | `daosme` | Daosme Gestión S.L.U. | **pendiente** | `sociedades/daosme/ficha.md` |
 | `volna` | Volna Moria S.L.U. | **pendiente** | `sociedades/volna/ficha.md` |
 | `fluxia` | Fluxia Consulting S.L. | **pendiente** | `sociedades/fluxia/ficha.md` |
